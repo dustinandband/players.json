@@ -1,0 +1,24 @@
+name: Generate log file
+
+on:
+    schedule:
+        - cron: '0 0 * * *' # At the end of every day
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run the build php script
+      run: chmod 755 main.php && ./main.php ${{ secrets.MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }} 
+    - name: Commit files
+      run: |
+        git config --local user.name  ${{ github.actor }}
+        git add .
+        git commit -m "auto-update"
+    - name: Push changes  # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
