@@ -11,7 +11,10 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Run the build php script
-      run: chmod 755 main.php && ./main.php ${{ secrets.MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }} 
+      run: |
+        chmod 755 KeyCheck.sh && ./KeyCheck.sh
+        chmod 755 main.php && ./main.php ${{ secrets.MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
+        rm -f -- players_temp.json
     - name: Commit files
       run: |
         git config --local user.name  ${{ github.actor }}
