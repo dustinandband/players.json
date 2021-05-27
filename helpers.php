@@ -194,3 +194,101 @@ function UpdatePlayerNamesInDB($table)
 	
 	return true;
 }
+
+/*
+	This is for a different table associated with a diff project
+*/
+function UpdatePlayerNamesInDB_ActivityLog($table)
+{
+	global $mysqli2, $logFile, $player_aliases;
+	$query = "SELECT id, client_name, client_authID, target_name, target_authID FROM `$table`;";
+	
+	if (!$result = $mysqli2->query($query))
+	{
+		$logFile->LogError("helpers.php : UpdatePlayerNamesInDB_ActivityLog() : MySQL error:\n$mysqli2->error \n     query:\n    $query");
+		return false;
+	}
+	
+	if ($result->num_rows == 0)
+	{
+		$logFile->LogEvent("helpers.php: No results returned for query:\n    $query");
+		return false;
+	}
+	
+	$EntriesUpdated = "";
+	$PlayersNotFound = "";
+	$checkedSteamAccounts = [];
+	
+	while($row = $result->fetch_assoc())
+	{
+		for ($i = 0; $i <= 1; $i++)
+		{
+			$AuthID = ($i == 0 ?  $row['client_authID'] : $row['target_authID']);
+			if ($AuthID === '' | $AuthID === 'BOT')
+			{
+				continue;
+			}
+			
+			$player_name = "";
+			if (array_key_exists($AuthID, $player_aliases))
+			{
+				foreach ($player_aliases as $key => $value)
+				{
+					if ($key == $AuthID)
+					{
+						$player_name = $value;
+					}
+				}
+			}
+			else
+			{
+				if (!in_array($AuthID, $checkedSteamAccounts))
+				{
+					$PlayersNotFound .= "\n[$AuthID](https://steamcommunity.com/profiles/$AuthID)  ";
+					array_push($checkedSteamAccounts, $AuthID); 
+				}
+			}
+			
+			if ($player_name == "")
+			{
+				continue;
+			}
+			
+			$id = $row['id'];
+			$name_escaped = $mysqli2->real_escape_string($player_name);
+			
+			$name = ($i == 0 ? $row['client_name'] : $row['target_name']);
+			if ($name === $player_name)
+			{
+				continue;
+			}
+			
+			$name_column = ($i == 0 ? "client_name" : "target_name");
+			$UpdateQuery = "UPDATE `$table` SET $name_column = '$name_escaped' where id = '$id';";
+			
+			if (!$mysqli2->query($UpdateQuery))
+			{
+				$logFile->LogError("helpers.php : UpdatePlayerNamesInDB_ActivityLog() : MySQL error:\n$mysqli2->error \n    query:\n    $UpdateQuery");
+				return false;
+			}
+			
+			$EntriesUpdated .= "\t\t" . $name . " changed to $player_name (row $id, column " . ($i == 0 ? "'client_name'" : "'target_name'") . ")\n";
+		}
+	}
+	
+	if (sizeof($checkedSteamAccounts) > 0)
+	{
+		$fp = fopen("MissingPlayers_$table.md", 'w');
+		$date = date("F j, Y, g:i a");
+		fwrite($fp, "\n-------- $date --------  \n");
+		fwrite($fp, "Consider adding the following steam64IDs to player_aliases.php:  \n" . $PlayersNotFound);
+		fclose($fp);
+	}
+	
+	if (strlen($EntriesUpdated) > 0)
+	{
+
+		$logFile->LogEvent("The following player aliases have been updated, table: '$table':\n" . $EntriesUpdated);
+	}
+	return true;
+}

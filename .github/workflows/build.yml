@@ -1,6 +1,9 @@
 name: Generate log file
 
 on:
+  push:
+    paths-ignore:
+    - README.md
     schedule:
         - cron: '0 0 * * *' # At the end of every day
 
@@ -15,6 +18,9 @@ jobs:
         chmod 755 KeyCheck.sh && ./KeyCheck.sh
         chmod 755 main.php && ./main.php ${{ secrets.MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
         rm -f -- players_temp.json
+        cd GMActivityLog
+        chmod 755 main.php && ./main.php ${{ GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }} ${{ GM_MYSQL_USER }} ${{ GM_MYSQL_DB_IN_USE }} ${{ GM_MYSQL_HOST }}
+        rm -f -- players_temp2.json
     - name: Commit files
       run: |
         git config --local user.name  ${{ github.actor }}
