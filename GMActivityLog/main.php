@@ -19,7 +19,7 @@ if (!$result = $mysqli2->query($query))
 	$logFile->LogFatalError("MySQL error:\n    $mysqli2->error \n    query: \n    $query");
 }
 
-// no results
+// no results 
 if ($result->num_rows == 0)
 {
 	$logFile->LogEvent("No results returned for query:\n    $query");
