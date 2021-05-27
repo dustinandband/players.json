@@ -81,7 +81,7 @@ while($row = $result->fetch_assoc())
 	}
 	
 	fwrite($fp, "\t\"Steam64ID\":\"" . $AuthID . "\",\n");
-	fwrite($fp, "\t\"picture\":\"" . $avatar . "\"\n");
+	fwrite($fp, "\t\"picture\":\"" . $avatar . "\",\n");
 	fwrite($fp, "\t\"CommunityURL\":\"https://steamcommunity.com/profiles/" . $AuthID . "/\"\n");
 	fwrite($fp, "}");
 }
