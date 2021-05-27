@@ -19,7 +19,7 @@ jobs:
         chmod 755 main.php && ./main.php ${{ secrets.MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
         rm -f -- players_temp.json
         cd GMActivityLog
-        chmod 755 main.php && ./main.php ${{ GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }} ${{ GM_MYSQL_USER }} ${{ GM_MYSQL_DB_IN_USE }} ${{ GM_MYSQL_HOST }}
+        chmod 755 main.php && ./main.php ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_HOST }}
         rm -f -- players_temp2.json
     - name: Commit files
       run: |
