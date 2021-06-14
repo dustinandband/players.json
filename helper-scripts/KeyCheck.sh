@@ -3,7 +3,7 @@
 # Checks player_aliases.php for duplicate keys
 # (Once php initializes arrays duplicates keys automatically get overridden, so can't check from within PHP)
 
-cat player_aliases.php | awk -F '\\ => ' '{print $1}' | cut -d, -f1  | sort | uniq -d > DuplicateKeys.txt
+cat includes/player_aliases.php | awk -F '\\ => ' '{print $1}' | cut -d, -f1  | sort | uniq -d > DuplicateKeys.txt
 
 #remove empty lines
 sed -i '/^[[:space:]]*$/d;s/[[:space:]]*$//' DuplicateKeys.txt

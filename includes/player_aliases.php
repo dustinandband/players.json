@@ -3,8 +3,8 @@
 /*
 	Add player names here.
 	
-	This will automatically update the sourceTV
-	database with the correct names for each steamID.
+	This is used to update the sourceTV database
+	with the correct names for each associated steamID.
 */
 $player_aliases = array(
 	"76561198067462280" => "dustin",

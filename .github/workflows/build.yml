@@ -1,6 +1,9 @@
 name: Generate log file
 
 on:
+    push:
+         paths-ignore:
+            - README.md
     schedule:
         - cron: '0 */4 * * *' # Every 4 hours update player list and correct names in DB
 
@@ -12,12 +15,8 @@ jobs:
 
     - name: Run the build php script
       run: |
-        chmod 755 KeyCheck.sh && ./KeyCheck.sh
-        chmod 755 main.php && ./main.php ${{ secrets.MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
-        rm -f -- players_temp.json
-        cd GMActivityLog
-        chmod 755 main.php && ./main.php ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_HOST }}
-        rm -f -- players_temp2.json
+        chmod 755 helper-scripts/KeyCheck.sh && ./helper-scripts/KeyCheck.sh
+        chmod 755 main.php && ./main.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
     - name: Commit files
       run: |
         git config --local user.name  ${{ github.actor }}
