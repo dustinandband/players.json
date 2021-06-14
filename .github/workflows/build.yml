@@ -16,7 +16,7 @@ jobs:
     - name: Run the build php script
       run: |
         chmod 755 helper-scripts/KeyCheck.sh && ./helper-scripts/KeyCheck.sh
-        chmod 755 main.php && ./main.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
+        chmod 755 main.php && ./main.php
     - name: Commit files
       run: |
         git config --local user.name  ${{ github.actor }}
