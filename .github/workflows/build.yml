@@ -1,9 +1,6 @@
 name: Generate log file
 
 on:
-    push:
-         paths-ignore:
-            - README.md
     schedule:
         - cron: '0 */4 * * *' # Every 4 hours update player list and correct names in DB
 
