@@ -2,7 +2,7 @@ name: Generate log file
 
 on:
     schedule:
-        - cron: '0 */4 * * *' # Every 4 hours update player list and correct names in DB
+        - cron: '0 */8 * * *' # Every 8 hours update player list and correct names in DB
 
 jobs:
   build:
