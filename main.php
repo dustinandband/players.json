@@ -18,7 +18,8 @@ $tables =  array(
 $logFile = new buildLogFile;
 $g_aPlayerList = [];
 
-$g_aCheckedSteamAccounts = [];
+$g_aCheckedSteamAccounts = []; // clear this each table iteration
+$g_aMissingPlayers = []; // don't clear this
 $g_sPlayersNotFound = "";
 
 /* Correct each alias within the DB tables */

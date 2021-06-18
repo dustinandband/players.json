@@ -68,7 +68,7 @@ function UpdatePlayerNamesInDB($table)
 
 function FindMissingAuthIDs($table)
 {
-	global $mysqli, $player_aliases, $g_aCheckedSteamAccounts, $g_sPlayersNotFound;
+	global $mysqli, $player_aliases, $g_sPlayersNotFound;
 	
 	if ($table === "SourceTV_Survival_Main")
 	{
@@ -136,7 +136,7 @@ function FindMissingAuthIDs($table)
 
 function PushToCheckedSteamAccounts($AuthID)
 {
-	global $player_aliases, $g_aCheckedSteamAccounts, $g_sPlayersNotFound;
+	global $player_aliases, $g_aMissingPlayers, $g_sPlayersNotFound;
 	
 	if ($AuthID === "")
 	{
@@ -145,10 +145,10 @@ function PushToCheckedSteamAccounts($AuthID)
 	
 	if (!array_key_exists($AuthID, $player_aliases))
 	{
-		if (!in_array($AuthID, $g_aCheckedSteamAccounts))
+		if (!in_array($AuthID, $g_aMissingPlayers))
 		{
 			$g_sPlayersNotFound .= "\n[$AuthID](https://steamcommunity.com/profiles/$AuthID)  ";
-			array_push($g_aCheckedSteamAccounts, $AuthID);
+			array_push($g_aMissingPlayers, $AuthID);
 		}
 	}
 	
