@@ -22,6 +22,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198353895793/"
 },
 {
+	"name":"Grymnir",
+	"Steam64ID":"76561197998967034",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/02/021f80f6d2847abf1f77d372d8e3edc34da4097a_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561197998967034/"
+},
+{
 	"name":"Maplestrike",
 	"Steam64ID":"76561198844275558",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f2/f2c03539c6bd16e2acf0c0c1af0f88ae75bd8f66_full.jpg",
@@ -46,8 +52,26 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199065670640/"
 },
 {
+	"name":"Pickle",
+	"Steam64ID":"76561198163133488",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/de2822c43f83e4ca92e88ef59a4744a227e1c7ac_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198163133488/"
+},
+{
 	"name":"Gents",
 	"Steam64ID":"76561198028741818",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cd/cd4291ac0237381ce255a852dcce67e5e013263e_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6a10e4bdfce6919100ce021b4c979de257b516_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198028741818/"
+},
+{
+	"name":"Sofield",
+	"Steam64ID":"76561198115279755",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2e/2e6c9a2d1b54f7878161ffa224fddfa9ba1e46b3_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198115279755/"
+},
+{
+	"name":"Toad",
+	"Steam64ID":"76561198996120403",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/65/65571d4e67e9440fc623cd64c464acb4d5370744_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198996120403/"
 }]
