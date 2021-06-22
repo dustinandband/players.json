@@ -39,8 +39,7 @@ foreach ($tables as $table)
 			GeneratePlayersArray($table, "p{$i}_name", "p{$i}_authID");
 		}
 	}
-	elseif ($table === "SourceTV_Survival_LoggedEvents"
-	||		$table === "SourceTV_Survival_PlayerClips")
+	elseif ($table === "SourceTV_Survival_LoggedEvents")
 	{
 		GeneratePlayersArray($table, "name", "authID");
 	}
@@ -50,8 +49,10 @@ foreach ($tables as $table)
 	}
 	/* Need to generate SourceTV_Survival_ConnectionLog on-the-fly within website,
 		since the drop-down list needs to be only players associated with a specific round and not whole DB table..
+
+	   Skipping player clips. Users can just search player name and enable "player clips" filter to find specific clips
 	*/
-	elseif ($table === "SourceTV_Survival_ConnectionLog")
+	elseif ($table === "SourceTV_Survival_ConnectionLog" || $table === "SourceTV_Survival_PlayerClips")
 	{
 		continue;
 	}
