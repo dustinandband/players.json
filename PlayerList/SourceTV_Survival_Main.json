@@ -48,7 +48,7 @@
 {
 	"name":"Viscerisch (Nathan)",
 	"Steam64ID":"76561198069430628",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d3/d3e3976e265b595c7899319fae3810092487c0bf_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d8/d8de30e0bf96872e7dbdefdc69e2310a3226de13_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198069430628/"
 },
 {
@@ -142,6 +142,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198123368080/"
 },
 {
+	"name":"Pickle",
+	"Steam64ID":"76561198163133488",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/de2822c43f83e4ca92e88ef59a4744a227e1c7ac_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198163133488/"
+},
+{
 	"name":"Sazior",
 	"Steam64ID":"76561198268640429",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/0847f222fa47bdbcd2e8db776b0398946da628c5_full.jpg",
@@ -178,22 +184,16 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198319673484/"
 },
 {
-	"name":"Pickle",
-	"Steam64ID":"76561198163133488",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/de2822c43f83e4ca92e88ef59a4744a227e1c7ac_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198163133488/"
+	"name":"Guz",
+	"Steam64ID":"76561198231965792",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1a/1a7b5788e8ce7c4fdcd171c7e2c4db65588b73a7_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198231965792/"
 },
 {
 	"name":"Gents",
 	"Steam64ID":"76561198028741818",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6a10e4bdfce6919100ce021b4c979de257b516_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198028741818/"
-},
-{
-	"name":"Guz",
-	"Steam64ID":"76561198231965792",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1a/1a7b5788e8ce7c4fdcd171c7e2c4db65588b73a7_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198231965792/"
 },
 {
 	"name":"Sofield",
