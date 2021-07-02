@@ -24,8 +24,14 @@
 {
 	"name":"Gumbo",
 	"Steam64ID":"76561198319673484",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/43/43641b9adcf552e385c2c1cbf83b5b53c54fc869_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/84e91e8f08218edb364cc8d5e5ebd0edc812f251_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198319673484/"
+},
+{
+	"name":"Nesisoth",
+	"Steam64ID":"76561197994287270",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9f/9f265ac65038c21dbc685be545bba7e88c4204a2_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561197994287270/"
 },
 {
 	"name":"nguyen10",
@@ -86,6 +92,12 @@
 	"Steam64ID":"76561198801106583",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c2ce491dfa41e7325c2885bf7bbfc80fdea3f156_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198801106583/"
+},
+{
+	"name":"Abdur",
+	"Steam64ID":"76561198017082063",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/25/25f5a984cab2d6789fe0243a60d01d996d0ce173_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198017082063/"
 },
 {
 	"name":"caldodeanimal",
@@ -208,6 +220,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198322387009/"
 },
 {
+	"name":"Gents",
+	"Steam64ID":"76561198028741818",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6a10e4bdfce6919100ce021b4c979de257b516_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198028741818/"
+},
+{
 	"name":"Guz",
 	"Steam64ID":"76561198231965792",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1a/1a7b5788e8ce7c4fdcd171c7e2c4db65588b73a7_full.jpg",
@@ -220,10 +238,10 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199058552243/"
 },
 {
-	"name":"Gents",
-	"Steam64ID":"76561198028741818",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6a10e4bdfce6919100ce021b4c979de257b516_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198028741818/"
+	"name":"HellishWoman",
+	"Steam64ID":"76561198060123351",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9f/9f395249c93a4e97b7a8ad67d7bd3dcd0cb253a0_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198060123351/"
 },
 {
 	"name":"Sofield",
