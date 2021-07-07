@@ -1,5 +1,5 @@
 
--------- July 7, 2021, 8:22 am --------
+-------- July 7, 2021, 4:38 pm --------
 
   Debug output:
 
@@ -259,10 +259,10 @@ UPDATE `SourceTV_Survival_Main` SET p1_name = "Archer" WHERE p1_authID = "765611
 UPDATE `SourceTV_Survival_Main` SET p2_name = "Archer" WHERE p2_authID = "76561198267446103";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "Archer" WHERE p3_authID = "76561198267446103";
 UPDATE `SourceTV_Survival_Main` SET p4_name = "Archer" WHERE p4_authID = "76561198267446103";
-UPDATE `SourceTV_Survival_Main` SET p1_name = "Vespertine (Desmona)" WHERE p1_authID = "76561198210264817";
-UPDATE `SourceTV_Survival_Main` SET p2_name = "Vespertine (Desmona)" WHERE p2_authID = "76561198210264817";
-UPDATE `SourceTV_Survival_Main` SET p3_name = "Vespertine (Desmona)" WHERE p3_authID = "76561198210264817";
-UPDATE `SourceTV_Survival_Main` SET p4_name = "Vespertine (Desmona)" WHERE p4_authID = "76561198210264817";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Hysterisch" WHERE p1_authID = "76561198210264817";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Hysterisch" WHERE p2_authID = "76561198210264817";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Hysterisch" WHERE p3_authID = "76561198210264817";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Hysterisch" WHERE p4_authID = "76561198210264817";
 UPDATE `SourceTV_Survival_Main` SET p1_name = "AKA Ruthless Killer" WHERE p1_authID = "76561198016049158";
 UPDATE `SourceTV_Survival_Main` SET p2_name = "AKA Ruthless Killer" WHERE p2_authID = "76561198016049158";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "AKA Ruthless Killer" WHERE p3_authID = "76561198016049158";
@@ -915,7 +915,7 @@ UPDATE `SourceTV_Survival_LoggedEvents` SET name = "bella (CJ)" WHERE authID = "
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Overdose" WHERE authID = "76561197984938312";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "bleeds" WHERE authID = "76561197981071135";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Archer" WHERE authID = "76561198267446103";
-UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Vespertine (Desmona)" WHERE authID = "76561198210264817";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Hysterisch" WHERE authID = "76561198210264817";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "AKA Ruthless Killer" WHERE authID = "76561198016049158";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "MistLight" WHERE authID = "76561198044935058";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "R0m4n" WHERE authID = "76561198038758341";
@@ -1127,7 +1127,7 @@ UPDATE `SourceTV_Survival_ConnectionLog` SET name = "bella (CJ)" WHERE authID = 
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Overdose" WHERE authID = "76561197984938312";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "bleeds" WHERE authID = "76561197981071135";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Archer" WHERE authID = "76561198267446103";
-UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Vespertine (Desmona)" WHERE authID = "76561198210264817";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Hysterisch" WHERE authID = "76561198210264817";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "AKA Ruthless Killer" WHERE authID = "76561198016049158";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "MistLight" WHERE authID = "76561198044935058";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "R0m4n" WHERE authID = "76561198038758341";
@@ -1339,7 +1339,7 @@ UPDATE `SourceTV_Survival_PlayerClips` SET name = "bella (CJ)" WHERE authID = "7
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Overdose" WHERE authID = "76561197984938312";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "bleeds" WHERE authID = "76561197981071135";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Archer" WHERE authID = "76561198267446103";
-UPDATE `SourceTV_Survival_PlayerClips` SET name = "Vespertine (Desmona)" WHERE authID = "76561198210264817";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Hysterisch" WHERE authID = "76561198210264817";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "AKA Ruthless Killer" WHERE authID = "76561198016049158";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "MistLight" WHERE authID = "76561198044935058";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "R0m4n" WHERE authID = "76561198038758341";
@@ -1615,8 +1615,8 @@ UPDATE `OnLogAction_Logs` SET client_name = "bleeds" WHERE client_authID = "7656
 UPDATE `OnLogAction_Logs` SET target_name = "bleeds" WHERE target_authID = "76561197981071135";
 UPDATE `OnLogAction_Logs` SET client_name = "Archer" WHERE client_authID = "76561198267446103";
 UPDATE `OnLogAction_Logs` SET target_name = "Archer" WHERE target_authID = "76561198267446103";
-UPDATE `OnLogAction_Logs` SET client_name = "Vespertine (Desmona)" WHERE client_authID = "76561198210264817";
-UPDATE `OnLogAction_Logs` SET target_name = "Vespertine (Desmona)" WHERE target_authID = "76561198210264817";
+UPDATE `OnLogAction_Logs` SET client_name = "Hysterisch" WHERE client_authID = "76561198210264817";
+UPDATE `OnLogAction_Logs` SET target_name = "Hysterisch" WHERE target_authID = "76561198210264817";
 UPDATE `OnLogAction_Logs` SET client_name = "AKA Ruthless Killer" WHERE client_authID = "76561198016049158";
 UPDATE `OnLogAction_Logs` SET target_name = "AKA Ruthless Killer" WHERE target_authID = "76561198016049158";
 UPDATE `OnLogAction_Logs` SET client_name = "MistLight" WHERE client_authID = "76561198044935058";
