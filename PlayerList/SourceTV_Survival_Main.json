@@ -168,7 +168,7 @@
 {
 	"name":"Viscerisch (Nathan)",
 	"Steam64ID":"76561198069430628",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8d/8d6c037eeebf1df4bbe4609e9129812054c7e4aa_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/74/74939ab37eff85f51e2c5af17e24ea2f7883cbf1_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198069430628/"
 },
 {
@@ -248,6 +248,12 @@
 	"Steam64ID":"76561198023897982",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198023897982/"
+},
+{
+	"name":"Gents",
+	"Steam64ID":"76561198028741818",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6a10e4bdfce6919100ce021b4c979de257b516_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198028741818/"
 },
 {
 	"name":"Godly",
@@ -372,7 +378,7 @@
 {
 	"name":"Tom",
 	"Steam64ID":"76561198317720202",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/85/8525d2c72252594d3523d3ced363b3c0cc7a4603_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/4869bfca4490e718ea6c687504bdced97e1e0620_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198317720202/"
 },
 {
@@ -454,12 +460,6 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198003961356/"
 },
 {
-	"name":"Gents",
-	"Steam64ID":"76561198028741818",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6a10e4bdfce6919100ce021b4c979de257b516_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198028741818/"
-},
-{
 	"name":"Guz",
 	"Steam64ID":"76561198231965792",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1a/1a7b5788e8ce7c4fdcd171c7e2c4db65588b73a7_full.jpg",
@@ -500,6 +500,12 @@
 	"Steam64ID":"76561197996186819",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/35/35d3b6acffd16729126f83d9daa6c888462b8fd6_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561197996186819/"
+},
+{
+	"name":"Sofield",
+	"Steam64ID":"76561198115279755",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7de49a27276f09d971a8e83ffd216201bb33b449_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198115279755/"
 },
 {
 	"name":"supremewormy",
@@ -544,10 +550,10 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198003184616/"
 },
 {
-	"name":"Sofield",
-	"Steam64ID":"76561198115279755",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7de49a27276f09d971a8e83ffd216201bb33b449_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198115279755/"
+	"name":"KrankZ",
+	"Steam64ID":"76561198079863290",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ad/ad5dc34296508f0d9cb50209358c0d068cadce39_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198079863290/"
 },
 {
 	"name":"ThePeaceDove",
