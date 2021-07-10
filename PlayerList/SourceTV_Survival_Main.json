@@ -34,6 +34,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198015168207/"
 },
 {
+	"name":"daflipz",
+	"Steam64ID":"76561199140231642",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199140231642/"
+},
+{
 	"name":"dustin",
 	"Steam64ID":"76561198067462280",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/38/38ca96126b24c6f8d44e5f326bacdc9a09a2005f_full.jpg",
@@ -112,6 +118,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198801106583/"
 },
 {
+	"name":"phoenix_advance",
+	"Steam64ID":"76561197996186819",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/35/35d3b6acffd16729126f83d9daa6c888462b8fd6_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561197996186819/"
+},
+{
 	"name":"poly",
 	"Steam64ID":"76561199055843715",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b3/b3ab07a25371e9cb580bf80cbf0aa8295490df42_full.jpg",
@@ -168,7 +180,7 @@
 {
 	"name":"ULTRA",
 	"Steam64ID":"76561198035973067",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/13/135fcec6168005ad5b128908fed2e95a77e4f804_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e3/e3374b2a1b1163a2425a674bc1b2b90db733884c_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198035973067/"
 },
 {
@@ -338,12 +350,6 @@
 	"Steam64ID":"76561198123368080",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/18/185a6882c6d3c0707c0952dea0f8238cdb137f46_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198123368080/"
-},
-{
-	"name":"phoenix_advance",
-	"Steam64ID":"76561197996186819",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/35/35d3b6acffd16729126f83d9daa6c888462b8fd6_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561197996186819/"
 },
 {
 	"name":"Pickle",
