@@ -40,6 +40,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198844275558/"
 },
 {
+	"name":"N",
+	"Steam64ID":"76561198034562983",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3cc8226868b6aed13261f50e920991e828fc35d2_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198034562983/"
+},
+{
 	"name":"scout",
 	"Steam64ID":"76561198000789017",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/87/87b90213b4c01bf888d446a5ad3dd69665258d11_full.jpg",
@@ -62,4 +68,10 @@
 	"Steam64ID":"76561198317720202",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/4869bfca4490e718ea6c687504bdced97e1e0620_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198317720202/"
+},
+{
+	"name":"Viscerisch (Nathan)",
+	"Steam64ID":"76561198069430628",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d1/d12695ee13d7471f52a7800d36ce39ea7d0838fb_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198069430628/"
 }]
