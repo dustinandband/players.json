@@ -1,4 +1,5 @@
 <?php
+include_once "player_aliases.php";
 
 class buildLogFile
 {
@@ -79,6 +80,25 @@ class buildLogFile
 	}
 }
 
+function GetPlayerName($authID)
+{
+	global $logFile;
+	
+	$file = file_get_contents(sprintf("https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=%s&steamids=%s", constant("STEAM_WEB_API"), $authID));
+	
+	if (!$file)
+	{
+		$logFile->LogFatalError("helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting");
+	}
+	
+	$json2 = json_decode($file);
+	if (!key_exists("0", $json2->response->players))
+	{
+		return "";
+	}
+	return $json2->response->players[0]->personaname;
+}
+
 function GetProfileImage($authID)
 {
 	global $logFile;
@@ -100,7 +120,7 @@ function GetProfileImage($authID)
 
 function GeneratePlayersArray($table, $row_name, $row_authID)
 {
-	global $mysqli, $logFile, $g_aCheckedSteamAccounts, $g_aPlayerList, $g_iRowCount;
+	global $mysqli, $logFile, $g_aCheckedSteamAccounts, $g_aPlayerList, $g_iRowCount, $player_aliases;
 	
 	$query = "SELECT $row_name, $row_authID FROM `$table` ORDER BY $row_name;";
 	
@@ -123,10 +143,23 @@ function GeneratePlayersArray($table, $row_name, $row_authID)
 		{
 			continue;
 		}
-		
 		array_push($g_aCheckedSteamAccounts, $AuthID);
 		
-		$name = htmlspecialchars($row[$row_name]);
+		// Name wouldn't have gotten corrected in DB if not defined.
+		// Just grab current alias used by player
+		if (!array_key_exists($AuthID, $player_aliases))
+		{
+			$name = htmlspecialchars(GetPlayerName($AuthID), ENT_QUOTES, 'UTF-8');
+		}
+		else
+		{
+			$name = htmlspecialchars($row[$row_name], ENT_QUOTES, 'UTF-8');
+		}
+		
+		// names with backslashes cause the players listing to error out
+		// since it exists within <script> tags.
+		$name = str_replace('\\','\\\\', $name);
+		
 		$avatar = GetProfileImage($AuthID);
 		if ( $avatar === "")
 		{
