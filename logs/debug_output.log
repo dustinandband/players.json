@@ -1,5 +1,5 @@
 
--------- July 15, 2021, 1:04 am --------
+-------- July 15, 2021, 8:22 am --------
 
   Debug output:
 
@@ -847,10 +847,42 @@ UPDATE `SourceTV_Survival_Main` SET p1_name = "Phantom (187)" WHERE p1_authID = 
 UPDATE `SourceTV_Survival_Main` SET p2_name = "Phantom (187)" WHERE p2_authID = "76561198801106583";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "Phantom (187)" WHERE p3_authID = "76561198801106583";
 UPDATE `SourceTV_Survival_Main` SET p4_name = "Phantom (187)" WHERE p4_authID = "76561198801106583";
-UPDATE `SourceTV_Survival_Main` SET p1_name = "Viscerisch (Nathan)" WHERE p1_authID = "76561198069430628";
-UPDATE `SourceTV_Survival_Main` SET p2_name = "Viscerisch (Nathan)" WHERE p2_authID = "76561198069430628";
-UPDATE `SourceTV_Survival_Main` SET p3_name = "Viscerisch (Nathan)" WHERE p3_authID = "76561198069430628";
-UPDATE `SourceTV_Survival_Main` SET p4_name = "Viscerisch (Nathan)" WHERE p4_authID = "76561198069430628";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Azimuth" WHERE p1_authID = "76561198015094232";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Azimuth" WHERE p2_authID = "76561198015094232";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Azimuth" WHERE p3_authID = "76561198015094232";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Azimuth" WHERE p4_authID = "76561198015094232";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Mr.Alexfrlns" WHERE p1_authID = "76561197989984935";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Mr.Alexfrlns" WHERE p2_authID = "76561197989984935";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Mr.Alexfrlns" WHERE p3_authID = "76561197989984935";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Mr.Alexfrlns" WHERE p4_authID = "76561197989984935";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Auntie Sam" WHERE p1_authID = "76561198116662352";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Auntie Sam" WHERE p2_authID = "76561198116662352";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Auntie Sam" WHERE p3_authID = "76561198116662352";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Auntie Sam" WHERE p4_authID = "76561198116662352";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "gaussian_noise" WHERE p1_authID = "76561198037162401";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "gaussian_noise" WHERE p2_authID = "76561198037162401";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "gaussian_noise" WHERE p3_authID = "76561198037162401";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "gaussian_noise" WHERE p4_authID = "76561198037162401";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Hornet" WHERE p1_authID = "76561198374167777";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Hornet" WHERE p2_authID = "76561198374167777";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Hornet" WHERE p3_authID = "76561198374167777";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Hornet" WHERE p4_authID = "76561198374167777";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Ralimu Strilem" WHERE p1_authID = "76561198411010566";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Ralimu Strilem" WHERE p2_authID = "76561198411010566";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Ralimu Strilem" WHERE p3_authID = "76561198411010566";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Ralimu Strilem" WHERE p4_authID = "76561198411010566";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "phoenix_advance" WHERE p1_authID = "76561197996186819";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "phoenix_advance" WHERE p2_authID = "76561197996186819";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "phoenix_advance" WHERE p3_authID = "76561197996186819";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "phoenix_advance" WHERE p4_authID = "76561197996186819";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Dr. Hom67" WHERE p1_authID = "76561198017158853";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Dr. Hom67" WHERE p2_authID = "76561198017158853";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Dr. Hom67" WHERE p3_authID = "76561198017158853";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Dr. Hom67" WHERE p4_authID = "76561198017158853";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Nemesis" WHERE p1_authID = "76561198069430628";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Nemesis" WHERE p2_authID = "76561198069430628";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Nemesis" WHERE p3_authID = "76561198069430628";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Nemesis" WHERE p4_authID = "76561198069430628";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "dustin" WHERE authID = "76561198067462280";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "angel" WHERE authID = "76561198083816716";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "gravity" WHERE authID = "76561198081622889";
@@ -1062,7 +1094,15 @@ UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Gumbo" WHERE authID = "76561
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Abdur" WHERE authID = "76561198017082063";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Kat" WHERE authID = "76561198427792186";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Phantom (187)" WHERE authID = "76561198801106583";
-UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Viscerisch (Nathan)" WHERE authID = "76561198069430628";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Azimuth" WHERE authID = "76561198015094232";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Mr.Alexfrlns" WHERE authID = "76561197989984935";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Auntie Sam" WHERE authID = "76561198116662352";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "gaussian_noise" WHERE authID = "76561198037162401";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Hornet" WHERE authID = "76561198374167777";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Ralimu Strilem" WHERE authID = "76561198411010566";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "phoenix_advance" WHERE authID = "76561197996186819";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Dr. Hom67" WHERE authID = "76561198017158853";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Nemesis" WHERE authID = "76561198069430628";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "dustin" WHERE authID = "76561198067462280";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "angel" WHERE authID = "76561198083816716";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "gravity" WHERE authID = "76561198081622889";
@@ -1274,7 +1314,15 @@ UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Gumbo" WHERE authID = "7656
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Abdur" WHERE authID = "76561198017082063";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Kat" WHERE authID = "76561198427792186";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Phantom (187)" WHERE authID = "76561198801106583";
-UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Viscerisch (Nathan)" WHERE authID = "76561198069430628";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Azimuth" WHERE authID = "76561198015094232";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Mr.Alexfrlns" WHERE authID = "76561197989984935";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Auntie Sam" WHERE authID = "76561198116662352";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "gaussian_noise" WHERE authID = "76561198037162401";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Hornet" WHERE authID = "76561198374167777";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Ralimu Strilem" WHERE authID = "76561198411010566";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "phoenix_advance" WHERE authID = "76561197996186819";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Dr. Hom67" WHERE authID = "76561198017158853";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Nemesis" WHERE authID = "76561198069430628";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "dustin" WHERE authID = "76561198067462280";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "angel" WHERE authID = "76561198083816716";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "gravity" WHERE authID = "76561198081622889";
@@ -1486,7 +1534,15 @@ UPDATE `SourceTV_Survival_PlayerClips` SET name = "Gumbo" WHERE authID = "765611
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Abdur" WHERE authID = "76561198017082063";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Kat" WHERE authID = "76561198427792186";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Phantom (187)" WHERE authID = "76561198801106583";
-UPDATE `SourceTV_Survival_PlayerClips` SET name = "Viscerisch (Nathan)" WHERE authID = "76561198069430628";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Azimuth" WHERE authID = "76561198015094232";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Mr.Alexfrlns" WHERE authID = "76561197989984935";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Auntie Sam" WHERE authID = "76561198116662352";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "gaussian_noise" WHERE authID = "76561198037162401";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Hornet" WHERE authID = "76561198374167777";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Ralimu Strilem" WHERE authID = "76561198411010566";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "phoenix_advance" WHERE authID = "76561197996186819";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Dr. Hom67" WHERE authID = "76561198017158853";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Nemesis" WHERE authID = "76561198069430628";
 UPDATE `OnLogAction_Logs` SET client_name = "dustin" WHERE client_authID = "76561198067462280";
 UPDATE `OnLogAction_Logs` SET target_name = "dustin" WHERE target_authID = "76561198067462280";
 UPDATE `OnLogAction_Logs` SET client_name = "angel" WHERE client_authID = "76561198083816716";
@@ -1909,6 +1965,22 @@ UPDATE `OnLogAction_Logs` SET client_name = "Kat" WHERE client_authID = "7656119
 UPDATE `OnLogAction_Logs` SET target_name = "Kat" WHERE target_authID = "76561198427792186";
 UPDATE `OnLogAction_Logs` SET client_name = "Phantom (187)" WHERE client_authID = "76561198801106583";
 UPDATE `OnLogAction_Logs` SET target_name = "Phantom (187)" WHERE target_authID = "76561198801106583";
-UPDATE `OnLogAction_Logs` SET client_name = "Viscerisch (Nathan)" WHERE client_authID = "76561198069430628";
-UPDATE `OnLogAction_Logs` SET target_name = "Viscerisch (Nathan)" WHERE target_authID = "76561198069430628";
+UPDATE `OnLogAction_Logs` SET client_name = "Azimuth" WHERE client_authID = "76561198015094232";
+UPDATE `OnLogAction_Logs` SET target_name = "Azimuth" WHERE target_authID = "76561198015094232";
+UPDATE `OnLogAction_Logs` SET client_name = "Mr.Alexfrlns" WHERE client_authID = "76561197989984935";
+UPDATE `OnLogAction_Logs` SET target_name = "Mr.Alexfrlns" WHERE target_authID = "76561197989984935";
+UPDATE `OnLogAction_Logs` SET client_name = "Auntie Sam" WHERE client_authID = "76561198116662352";
+UPDATE `OnLogAction_Logs` SET target_name = "Auntie Sam" WHERE target_authID = "76561198116662352";
+UPDATE `OnLogAction_Logs` SET client_name = "gaussian_noise" WHERE client_authID = "76561198037162401";
+UPDATE `OnLogAction_Logs` SET target_name = "gaussian_noise" WHERE target_authID = "76561198037162401";
+UPDATE `OnLogAction_Logs` SET client_name = "Hornet" WHERE client_authID = "76561198374167777";
+UPDATE `OnLogAction_Logs` SET target_name = "Hornet" WHERE target_authID = "76561198374167777";
+UPDATE `OnLogAction_Logs` SET client_name = "Ralimu Strilem" WHERE client_authID = "76561198411010566";
+UPDATE `OnLogAction_Logs` SET target_name = "Ralimu Strilem" WHERE target_authID = "76561198411010566";
+UPDATE `OnLogAction_Logs` SET client_name = "phoenix_advance" WHERE client_authID = "76561197996186819";
+UPDATE `OnLogAction_Logs` SET target_name = "phoenix_advance" WHERE target_authID = "76561197996186819";
+UPDATE `OnLogAction_Logs` SET client_name = "Dr. Hom67" WHERE client_authID = "76561198017158853";
+UPDATE `OnLogAction_Logs` SET target_name = "Dr. Hom67" WHERE target_authID = "76561198017158853";
+UPDATE `OnLogAction_Logs` SET client_name = "Nemesis" WHERE client_authID = "76561198069430628";
+UPDATE `OnLogAction_Logs` SET target_name = "Nemesis" WHERE target_authID = "76561198069430628";
 
