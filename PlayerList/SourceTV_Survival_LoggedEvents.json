@@ -1,6 +1,6 @@
 [{	"name":"dustin",
 	"Steam64ID":"76561198067462280",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f6/f61a1c2e9ee05236d6cbc89add14976eb05b6cd9_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/38/38ca96126b24c6f8d44e5f326bacdc9a09a2005f_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198067462280/"
 },
 {
@@ -8,6 +8,12 @@
 	"Steam64ID":"76561198034014393",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7f/7f18b8f2a05f2a13cc376d35e90b72fc23f22e65_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198034014393/"
+},
+{
+	"name":"Noob Saibot",
+	"Steam64ID":"76561198803592090",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/18/1868269f77cdf7243352a1fb46eb2f96b34647cd_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198803592090/"
 },
 {
 	"name":"scout",
