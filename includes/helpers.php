@@ -84,7 +84,7 @@ function GetPlayerName($authID)
 {
 	global $logFile;
 	
-	$file = file_get_contents(sprintf("https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=%s&steamids=%s", constant("STEAM_WEB_API"), $authID));
+	$file = @file_get_contents(sprintf("https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=%s&steamids=%s", constant("STEAM_WEB_API"), $authID));
 	
 	if (!$file)
 	{
@@ -103,7 +103,7 @@ function GetProfileImage($authID)
 {
 	global $logFile;
 	
-	$file = file_get_contents(sprintf("https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=%s&steamids=%s", constant("STEAM_WEB_API"), $authID));
+	$file = @file_get_contents(sprintf("https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=%s&steamids=%s", constant("STEAM_WEB_API"), $authID));
 	
 	if (!$file)
 	{
