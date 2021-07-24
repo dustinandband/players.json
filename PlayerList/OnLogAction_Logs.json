@@ -28,6 +28,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198160015110/"
 },
 {
+	"name":"gaussian_noise",
+	"Steam64ID":"76561198037162401",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/46/468a33bbf8a4829c8ba0d3b933b740db1f4b7b65_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198037162401/"
+},
+{
 	"name":"gravity",
 	"Steam64ID":"76561198081622889",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/71/71fd263d9b16266bbb60eeb6d86830ebd12f43b5_full.jpg",
@@ -180,7 +186,7 @@
 {
 	"name":"Tom",
 	"Steam64ID":"76561198317720202",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/4869bfca4490e718ea6c687504bdced97e1e0620_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e1/e1e22d3d5ea1c0682bcacfc17311ad494246b447_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198317720202/"
 },
 {
