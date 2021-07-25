@@ -544,9 +544,9 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198831874360/"
 },
 {
-	"name":"top",
+	"name":"HekTop",
 	"Steam64ID":"76561199182911202",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4b/4be06b760b2275b4b18e93f2488432e2dcc1375a_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a4/a461c36622bb5067fb192900d6374c8ae2ab0a20_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199182911202/"
 },
 {
@@ -662,6 +662,12 @@
 	"Steam64ID":"76561198798707751",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8cc2f56680997f5da70b4cbcfb733569197abc70_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198798707751/"
+},
+{
+	"name":"GREATFULL",
+	"Steam64ID":"76561198096947785",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4c/4c878d7b66ec02e039dc7a9062d42b7593558c10_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198096947785/"
 },
 {
 	"name":"Guz",
@@ -974,12 +980,6 @@
 	"Steam64ID":"76561198120110145",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/24/24b85d110f9c4766cb11f55c71b4ff542be185a2_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198120110145/"
-},
-{
-	"name":"GREATFULL",
-	"Steam64ID":"76561198096947785",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4c/4c878d7b66ec02e039dc7a9062d42b7593558c10_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198096947785/"
 },
 {
 	"name":"Infinity",
