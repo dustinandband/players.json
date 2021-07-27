@@ -1,5 +1,5 @@
 
--------- July 27, 2021, 1:08 am --------  
+-------- July 27, 2021, 8:25 am --------  
 Consider adding the following steam64IDs to includes/player_aliases.php:  
 
 [76561198804077912](https://steamcommunity.com/profiles/76561198804077912)  
@@ -45,6 +45,7 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561198831874360](https://steamcommunity.com/profiles/76561198831874360)  
 [76561198170284175](https://steamcommunity.com/profiles/76561198170284175)  
 [76561198387936561](https://steamcommunity.com/profiles/76561198387936561)  
+[76561198839661474](https://steamcommunity.com/profiles/76561198839661474)  
 [76561198353895793](https://steamcommunity.com/profiles/76561198353895793)  
 [76561198123368080](https://steamcommunity.com/profiles/76561198123368080)  
 [76561198060026108](https://steamcommunity.com/profiles/76561198060026108)  
@@ -88,7 +89,8 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561198371378953](https://steamcommunity.com/profiles/76561198371378953)  
 [76561198359952322](https://steamcommunity.com/profiles/76561198359952322)  
 [76561198092631763](https://steamcommunity.com/profiles/76561198092631763)  
-[76561198839661474](https://steamcommunity.com/profiles/76561198839661474)  
+[76561198018344984](https://steamcommunity.com/profiles/76561198018344984)  
+[76561199016639047](https://steamcommunity.com/profiles/76561199016639047)  
 [76561199065670640](https://steamcommunity.com/profiles/76561199065670640)  
 [76561198316664607](https://steamcommunity.com/profiles/76561198316664607)  
 [76561199058552243](https://steamcommunity.com/profiles/76561199058552243)  
@@ -108,7 +110,6 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561198408363594](https://steamcommunity.com/profiles/76561198408363594)  
 [76561198973644329](https://steamcommunity.com/profiles/76561198973644329)  
 [76561198406691061](https://steamcommunity.com/profiles/76561198406691061)  
-[76561198018344984](https://steamcommunity.com/profiles/76561198018344984)  
 [76561198304848542](https://steamcommunity.com/profiles/76561198304848542)  
 [76561198032129488](https://steamcommunity.com/profiles/76561198032129488)  
 [76561198440289920](https://steamcommunity.com/profiles/76561198440289920)  
