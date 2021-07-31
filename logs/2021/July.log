@@ -10,3 +10,9 @@
   Errors:
     helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting
 
+
+-------- July 31, 2021, 1:04 am --------
+
+  Errors:
+    helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting
+
