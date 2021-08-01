@@ -106,6 +106,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198056582175/"
 },
 {
+	"name":"Dr.Cocktail",
+	"Steam64ID":"76561198085370638",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0b57c81fdc74cc21b7f4ac76a0eb8685d257275d_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198085370638/"
+},
+{
 	"name":"dro",
 	"Steam64ID":"76561198147125400",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c0/c01dbdb4f6d47c691f4a0457dda97a1408a2f919_full.jpg",
@@ -190,7 +196,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198319673484/"
 },
 {
-	"name":"リリスしこい",
+	"name":"リリリリリリリリリス",
 	"Steam64ID":"76561199185210630",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/06/06520ae0b39898280fedc27964884f49a78d51aa_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199185210630/"
@@ -380,6 +386,12 @@
 	"Steam64ID":"76561198803592090",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/18/1868269f77cdf7243352a1fb46eb2f96b34647cd_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198803592090/"
+},
+{
+	"name":"Nuclear Redfield",
+	"Steam64ID":"76561198123368080",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/18/185a6882c6d3c0707c0952dea0f8238cdb137f46_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198123368080/"
 },
 {
 	"name":"One Take Wonder",
@@ -600,7 +612,7 @@
 {
 	"name":"[{♥ Miss Blondy まぜ ♥}]",
 	"Steam64ID":"76561198075276687",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d7/d771c7941cf1d831f035815aa24844bb12d60deb_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/97/97e948717cda8c3d65836c05a958ee4f8843ecaa_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198075276687/"
 },
 {
@@ -880,7 +892,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198044882784/"
 },
 {
-	"name":"rushia1",
+	"name":"mrekk",
 	"Steam64ID":"76561199189837590",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0de8235ce1813eaab00d944eaf0919e2cd9f269c_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199189837590/"
@@ -902,12 +914,6 @@
 	"Steam64ID":"76561198261221169",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1b/1b907f58c2afa1c682423ec7e35f78e729b80185_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198261221169/"
-},
-{
-	"name":"Nuclear Redfield",
-	"Steam64ID":"76561198123368080",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/18/185a6882c6d3c0707c0952dea0f8238cdb137f46_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198123368080/"
 },
 {
 	"name":"I snipe so what",
@@ -1022,12 +1028,6 @@
 	"Steam64ID":"76561198113114311",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/93/931c94ddeb5e8dde49d3d24b3100a510adc3ff9f_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198113114311/"
-},
-{
-	"name":"Dr.Cocktail",
-	"Steam64ID":"76561198085370638",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0b57c81fdc74cc21b7f4ac76a0eb8685d257275d_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198085370638/"
 },
 {
 	"name":"angel",
@@ -1262,6 +1262,12 @@
 	"Steam64ID":"76561198112046603",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d463dfceff4b95caaf4992a9d7e960a111563b51_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198112046603/"
+},
+{
+	"name":"Glaurung2k7",
+	"Steam64ID":"76561198042079279",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c6/c6abc0ab55be5d271fc1dc02f1071d0862a9b0f9_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198042079279/"
 },
 {
 	"name":"grave",
