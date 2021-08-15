@@ -148,7 +148,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198067462280/"
 },
 {
-	"name":"::]/",
+	"name":"س",
 	"Steam64ID":"76561199193113427",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9dac5120492897eb1f4160f03e61acbfe42e3210_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199193113427/"
@@ -886,6 +886,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561197999054755/"
 },
 {
+	"name":"Exerude",
+	"Steam64ID":"76561198064250076",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/849b4346c768218a5470e00af646c522c59183e0_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198064250076/"
+},
+{
 	"name":"FALLingorflYING",
 	"Steam64ID":"76561197979082192",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/36a2764792f8ce366457365346d5acc5e67b6495_full.jpg",
@@ -1018,7 +1024,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198261221169/"
 },
 {
-	"name":"twitch.tv/optify_clix",
+	"name":"ODG clix",
 	"Steam64ID":"76561199137829567",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ec/ec5bea51ba39cb313f803226245eab58514cef7e_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199137829567/"
@@ -1192,12 +1198,6 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198145964410/"
 },
 {
-	"name":"Exerude",
-	"Steam64ID":"76561198064250076",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/849b4346c768218a5470e00af646c522c59183e0_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198064250076/"
-},
-{
 	"name":"Fulgator[FR]",
 	"Steam64ID":"76561198004800782",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5c/5cb7d34812a8c80b3b5c405c2f021b875d8f0d4d_full.jpg",
@@ -1274,6 +1274,12 @@
 	"Steam64ID":"76561198335254753",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198335254753/"
+},
+{
+	"name":"notabum",
+	"Steam64ID":"76561198101836257",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4a19afe1db3d7d2f75c3372f8227ad10e5d1a5a9_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198101836257/"
 },
 {
 	"name":"Nukez",
