@@ -154,9 +154,9 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198067462280/"
 },
 {
-	"name":"위생관리사무국",
+	"name":"^[]-p@[]p@lkpo@@p",
 	"Steam64ID":"76561199193113427",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b1f57fda31ed13f241701c7011801e1a809ef732_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1f/1fe146ab870de3b9f30582fbab2e95cc052ec1d8_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199193113427/"
 },
 {
@@ -694,7 +694,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198937807426/"
 },
 {
-	"name":"&lt; blank &gt;",
+	"name":"Young Boy",
 	"Steam64ID":"76561199096482760",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d42cd607aa503a7c44814c17c01479cf3d8dbe4b_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199096482760/"
@@ -808,9 +808,9 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198093714585/"
 },
 {
-	"name":"BrunXIV",
+	"name":"Overtaker98",
 	"Steam64ID":"76561198404658336",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/31/316e94c54d643cb3e3a96c405616f69535b961ff_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5e/5ed33106ea0f28526422ea109e88972954fa66a5_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198404658336/"
 },
 {
@@ -1030,7 +1030,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198261221169/"
 },
 {
-	"name":"ODG clix",
+	"name":"Optify",
 	"Steam64ID":"76561199137829567",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ec/ec5bea51ba39cb313f803226245eab58514cef7e_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199137829567/"
@@ -1180,6 +1180,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198113114311/"
 },
 {
+	"name":"アドマイヤベガ",
+	"Steam64ID":"76561198077526170",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ea/ea0645d53dbe2b7de784f32c2d67f6741c14d4fe_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198077526170/"
+},
+{
 	"name":"angel",
 	"Steam64ID":"76561198083816716",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/12/12b040904bb44fdb0cc7cf40587acdbbbdc3f0bf_full.jpg",
@@ -1270,6 +1276,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199126902813/"
 },
 {
+	"name":"khan (drem)",
+	"Steam64ID":"76561198101836257",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4a19afe1db3d7d2f75c3372f8227ad10e5d1a5a9_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198101836257/"
+},
+{
 	"name":"KrankZ",
 	"Steam64ID":"76561198079863290",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ad/ad5dc34296508f0d9cb50209358c0d068cadce39_full.jpg",
@@ -1286,12 +1298,6 @@
 	"Steam64ID":"76561198335254753",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198335254753/"
-},
-{
-	"name":"notabum",
-	"Steam64ID":"76561198101836257",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4a19afe1db3d7d2f75c3372f8227ad10e5d1a5a9_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198101836257/"
 },
 {
 	"name":"Nukez",
@@ -1484,6 +1490,12 @@
 	"Steam64ID":"76561198807710901",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/60d53cca15141d6aa56bf6b9ace3fb77886075ad_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198807710901/"
+},
+{
+	"name":"SilverFIR[JP]",
+	"Steam64ID":"76561198075760672",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cd/cd037b9b802479b96d6a224c7699a48f08b2c651_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198075760672/"
 },
 {
 	"name":"The Blitz",
