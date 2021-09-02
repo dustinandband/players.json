@@ -1,4 +1,4 @@
-[{	"name":"0xD4y",
+[{	"name":"Py",
 	"Steam64ID":"76561198831874360",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e2/e25f9311b0d490135161fe2acba9800c81305468_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198831874360/"
@@ -604,6 +604,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198269436948/"
 },
 {
+	"name":"RedKnightV",
+	"Steam64ID":"76561198366982781",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2f/2fc06b38a683806833b3565219ec77701b990fd0_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198366982781/"
+},
+{
 	"name":"reimu",
 	"Steam64ID":"76561198072390256",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7a/7afc82b32c7878b61abefb9143c932140aa89e3f_full.jpg",
@@ -848,6 +854,12 @@
 	"Steam64ID":"76561198887634121",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e3/e3c14a7a48d5e1257334e897dd007da46cc9a95f_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198887634121/"
+},
+{
+	"name":"agra.salim2001",
+	"Steam64ID":"76561198930293077",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198930293077/"
 },
 {
 	"name":"Alexthesniper19",
@@ -1204,7 +1216,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561197990737778/"
 },
 {
-	"name":"Sallen",
+	"name":"neoxx",
 	"Steam64ID":"76561199062351778",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/eb/eb5d98ae8ed24ccc91b3314cf019b6a155dce84a_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199062351778/"
@@ -1288,7 +1300,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198017657229/"
 },
 {
-	"name":"VS Stax",
+	"name":"4333",
 	"Steam64ID":"76561199085677205",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cb/cba4309a2073fb05d4119b7e0083713e51797cb9_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199085677205/"
