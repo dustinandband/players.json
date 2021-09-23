@@ -28,6 +28,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198056506628/"
 },
 {
+	"name":"Dr. Geralt",
+	"Steam64ID":"76561198170284175",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9a/9af46c89dfcfbf0c999b6d10d479add1c6351f35_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198170284175/"
+},
+{
 	"name":"dustin",
 	"Steam64ID":"76561198067462280",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/38/38ca96126b24c6f8d44e5f326bacdc9a09a2005f_full.jpg",
@@ -150,7 +156,7 @@
 {
 	"name":"Pickle",
 	"Steam64ID":"76561198163133488",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/90/90ccaece97acc7ca4dc1120fba1590eb7d21c975_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8e/8e9bf5f5cf33c3851ee2e4818551541688f7c88d_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198163133488/"
 },
 {
