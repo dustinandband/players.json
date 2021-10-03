@@ -22,6 +22,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199065670640/"
 },
 {
+	"name":"dead tired . test",
+	"Steam64ID":"76561198887634121",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e3/e3c14a7a48d5e1257334e897dd007da46cc9a95f_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198887634121/"
+},
+{
 	"name":"deinemudda65",
 	"Steam64ID":"76561198056506628",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ac/ac942b53e3b6f729d6ec53dcbbbbe821dcdabd34_full.jpg",
@@ -142,6 +148,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198000400799/"
 },
 {
+	"name":"Mr.Alexfrlns",
+	"Steam64ID":"76561197989984935",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ad/adecc985564212f12d36ecec93696564f0066207_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561197989984935/"
+},
+{
 	"name":"Nemesis",
 	"Steam64ID":"76561198069430628",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9f/9f19f723c37c609eb796a173425674f1823f7332_full.jpg",
@@ -246,6 +258,6 @@
 {
 	"name":"Zoom",
 	"Steam64ID":"76561198201787828",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/95/950298704cf8490c9568bee99f0bdbb9b0bd3563_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10cb84624875acf3618aab2f65b3f78a47120994_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198201787828/"
 }]
