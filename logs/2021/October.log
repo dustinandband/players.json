@@ -716,3 +716,11 @@
   Errors:
     helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting
 
+
+-------- October 22, 2021, 4:36 pm --------
+
+  Logged events:
+    Error retrieving player image for  [76561199185319520]. skipping..
+    Error retrieving player image for  [76561198379763019]. skipping..
+    Error retrieving player image for  [76561198379763019]. skipping..
+
