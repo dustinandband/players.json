@@ -358,7 +358,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198269436948/"
 },
 {
-	"name":"RedRam (Linux 🤯)",
+	"name":"RedRam (Windows 🤯)",
 	"Steam64ID":"76561198376857682",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ca/ca33df54a34bc93867309e87af5d910a3a375d33_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198376857682/"
@@ -470,6 +470,12 @@
 	"Steam64ID":"76561198139535622",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f5/f5c7ec6adc40b0f8ea24b183b895efd346503fe3_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198139535622/"
+},
+{
+	"name":"wQuii",
+	"Steam64ID":"76561199060782712",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/09/092efa0e3547b78b6ee061493b979d9e71066173_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199060782712/"
 },
 {
 	"name":"xz",
