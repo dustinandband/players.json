@@ -42,8 +42,14 @@
 {
 	"name":"bakaa",
 	"Steam64ID":"76561198329356807",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ae/ae339958d4d8199d69ffd4c4693d5987ec4a8488_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b193415a31f08085587a544a58756da88d7ed3e0_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198329356807/"
+},
+{
+	"name":"Bitler",
+	"Steam64ID":"76561199143749308",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0f/0ff1d709b9d5103ac048625ba879a99420382ff7_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199143749308/"
 },
 {
 	"name":"Cheekadaweek",
@@ -488,12 +494,6 @@
 	"Steam64ID":"76561198021324770",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0c/0c418212b7d9084db35b70ffb01a6c00a9309598_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198021324770/"
-},
-{
-	"name":"Bitler",
-	"Steam64ID":"76561199143749308",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0f/0ff1d709b9d5103ac048625ba879a99420382ff7_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561199143749308/"
 },
 {
 	"name":"Term010",
