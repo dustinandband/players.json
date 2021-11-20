@@ -511,3 +511,9 @@
     Error retrieving player image for  [76561198379763019]. skipping..
     Error retrieving player image for  [76561198379763019]. skipping..
 
+
+-------- November 20, 2021, 1:05 am --------
+
+  Errors:
+    helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting
+
