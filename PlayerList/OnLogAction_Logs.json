@@ -58,7 +58,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198015094232/"
 },
 {
-	"name":"aaa",
+	"name":"bakaa",
 	"Steam64ID":"76561198329356807",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d1/d1e705e4f82d88e4bac7e9a976961891822fb273_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198329356807/"
@@ -454,6 +454,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199224963393/"
 },
 {
+	"name":"questionable_bits",
+	"Steam64ID":"76561198020887334",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/af/afbce2d3405dddcbafeb80a852583c14b79c44c8_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198020887334/"
+},
+{
 	"name":"rd",
 	"Steam64ID":"76561198269436948",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c8/c82308e7b755fd6359c3991a7ab069f59a81f0ba_full.jpg",
@@ -466,9 +472,9 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198376857682/"
 },
 {
-	"name":"burt",
+	"name":"buff",
 	"Steam64ID":"76561199215337001",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b7/b75929e7d101f11c77fb06cd657e3651d8542a22_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f6/f6b595f509aac0c8571d0937d56cd48898858e3b_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199215337001/"
 },
 {
@@ -564,7 +570,7 @@
 {
 	"name":"Tom",
 	"Steam64ID":"76561198317720202",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ff/ff8c84421d3291d0bb964d28b970a8b07dae8a8b_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/68/68a9094ad0500d620e5d8d7ab57b7813c7c3890e_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198317720202/"
 },
 {
@@ -626,6 +632,12 @@
 	"Steam64ID":"76561198329025127",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0c/0c1d2de0ad15655298d985e0dcbe990a1443d217_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198329025127/"
+},
+{
+	"name":"Яσℓaηδ",
+	"Steam64ID":"76561198029763066",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bf/bf2a0a3d0edc29c630a979983af930f128f88a9f_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198029763066/"
 },
 {
 	"name":"sixx",
