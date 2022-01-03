@@ -112,6 +112,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198353895793/"
 },
 {
+	"name":"Float",
+	"Steam64ID":"76561198844203680",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/07/079f707434e67189249951105619ec9eb951ef63_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198844203680/"
+},
+{
 	"name":"Frasure",
 	"Steam64ID":"76561198160015110",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b4/b4196e7932c6599817fb073ae157773b3884f9a6_full.jpg",
@@ -388,6 +394,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561197976862054/"
 },
 {
+	"name":"Spuddley",
+	"Steam64ID":"76561198936754072",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1a/1aa3abf0bd4b494825268b66ed6f8fa0f3953a40_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198936754072/"
+},
+{
 	"name":"didnt bury",
 	"Steam64ID":"76561197961833753",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d2/d22a6838b6ef5d99555446559b21171a2819fb08_full.jpg",
@@ -422,6 +434,12 @@
 	"Steam64ID":"76561198139535622",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f5/f5c7ec6adc40b0f8ea24b183b895efd346503fe3_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198139535622/"
+},
+{
+	"name":"VicoAnoNuevo",
+	"Steam64ID":"76561199000549231",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cb/cb8a5d8a0cc4ce077bc60d06104b1e8a52321b48_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199000549231/"
 },
 {
 	"name":"vk1",
