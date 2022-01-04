@@ -352,6 +352,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198003024687/"
 },
 {
+	"name":"Krivi",
+	"Steam64ID":"76561198127397924",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fa/fa240fa122413ddaf5814cb18d353c4639795ae6_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198127397924/"
+},
+{
 	"name":"lavacaperrona",
 	"Steam64ID":"76561199020919112",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/19/1985f51740c4be392c486c1809a1752b1042d60f_full.jpg",
@@ -664,7 +670,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198021324770/"
 },
 {
-	"name":"Taeko",
+	"name":"Tako.",
 	"Steam64ID":"76561198156331839",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4a/4ab3db0761bdfb0b02c32de00e0924e1270cf81a_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198156331839/"
@@ -704,6 +710,12 @@
 	"Steam64ID":"76561198120038275",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e9/e9c1fcd5f82ca6c08d178ff0e037e2b9e153777b_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198120038275/"
+},
+{
+	"name":"Vanillaツ",
+	"Steam64ID":"76561197973219888",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/97/97f8af981760e569ed79938c0a096574df2ad228_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561197973219888/"
 },
 {
 	"name":"Vestrocity",
