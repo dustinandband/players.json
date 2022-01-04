@@ -1,5 +1,5 @@
 
--------- January 4, 2022, 8:33 am --------  
+-------- January 4, 2022, 4:42 pm --------  
 Consider adding the following steam64IDs to includes/player_aliases.php:  
 
 [76561198804077912](https://steamcommunity.com/profiles/76561198804077912)  
@@ -235,6 +235,8 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561199000549231](https://steamcommunity.com/profiles/76561199000549231)  
 [76561199183483174](https://steamcommunity.com/profiles/76561199183483174)  
 [76561198105817964](https://steamcommunity.com/profiles/76561198105817964)  
+[76561198068604695](https://steamcommunity.com/profiles/76561198068604695)  
+[76561198957693749](https://steamcommunity.com/profiles/76561198957693749)  
 [76561198060026108](https://steamcommunity.com/profiles/76561198060026108)  
 [76561198098190660](https://steamcommunity.com/profiles/76561198098190660)  
 [76561198967363441](https://steamcommunity.com/profiles/76561198967363441)  
@@ -412,6 +414,7 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561199080408484](https://steamcommunity.com/profiles/76561199080408484)  
 [76561197962872829](https://steamcommunity.com/profiles/76561197962872829)  
 [76561199111398114](https://steamcommunity.com/profiles/76561199111398114)  
+[76561198170766283](https://steamcommunity.com/profiles/76561198170766283)  
 [76561198316664607](https://steamcommunity.com/profiles/76561198316664607)  
 [76561199058552243](https://steamcommunity.com/profiles/76561199058552243)  
 [76561198272049740](https://steamcommunity.com/profiles/76561198272049740)  
@@ -539,6 +542,8 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561198220229655](https://steamcommunity.com/profiles/76561198220229655)  
 [76561198341340520](https://steamcommunity.com/profiles/76561198341340520)  
 [76561199218839728](https://steamcommunity.com/profiles/76561199218839728)  
+[76561197995240984](https://steamcommunity.com/profiles/76561197995240984)  
+[76561199047976192](https://steamcommunity.com/profiles/76561199047976192)  
 [76561198953406488](https://steamcommunity.com/profiles/76561198953406488)  
 [76561198008536681](https://steamcommunity.com/profiles/76561198008536681)  
 [76561198162313233](https://steamcommunity.com/profiles/76561198162313233)  
@@ -603,6 +608,8 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561198014773791](https://steamcommunity.com/profiles/76561198014773791)  
 [76561198007267552](https://steamcommunity.com/profiles/76561198007267552)  
 [76561199217964471](https://steamcommunity.com/profiles/76561199217964471)  
+[76561198061393817](https://steamcommunity.com/profiles/76561198061393817)  
+[76561199176301569](https://steamcommunity.com/profiles/76561199176301569)  
 [76561198873171897](https://steamcommunity.com/profiles/76561198873171897)  
 [76561198877255541](https://steamcommunity.com/profiles/76561198877255541)  
 [76561198401164891](https://steamcommunity.com/profiles/76561198401164891)  
@@ -736,6 +743,10 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [76561199146729509](https://steamcommunity.com/profiles/76561199146729509)  
 [76561198048124668](https://steamcommunity.com/profiles/76561198048124668)  
 [76561199143079729](https://steamcommunity.com/profiles/76561199143079729)  
+[76561198123336001](https://steamcommunity.com/profiles/76561198123336001)  
+[76561198031745819](https://steamcommunity.com/profiles/76561198031745819)  
+[76561199139708535](https://steamcommunity.com/profiles/76561199139708535)  
+[76561198075296114](https://steamcommunity.com/profiles/76561198075296114)  
 [76561198050254181](https://steamcommunity.com/profiles/76561198050254181)  
 [76561199170014318](https://steamcommunity.com/profiles/76561199170014318)  
 [76561199055592377](https://steamcommunity.com/profiles/76561199055592377)  
@@ -773,3 +784,4 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 [STEAM_ID_STOP_IGNORING_](https://steamcommunity.com/profiles/STEAM_ID_STOP_IGNORING_)  
 [76561198849609723](https://steamcommunity.com/profiles/76561198849609723)  
 [76561198126180857](https://steamcommunity.com/profiles/76561198126180857)  
+[76561197997128450](https://steamcommunity.com/profiles/76561197997128450)  
