@@ -18,9 +18,8 @@ $tables =  array(
 $logFile = new buildLogFile;
 $g_aPlayerList = [];
 
-$g_aCheckedSteamAccounts = []; // clear this each table iteration
-$g_aMissingPlayers = []; // don't clear this
-$g_sPlayersNotFound = "";
+$g_aCheckedSteamAccounts = []; // cleared each table iteration
+$g_aMissingPlayers = array(); // not cleared
 
 /* Correct each alias within the DB tables */
 foreach ($tables as $table)
@@ -47,10 +46,8 @@ foreach ($tables as $table)
 	{
 		GeneratePlayersArray($table, "client_name", "client_authID");
 	}
-	/* Need to generate SourceTV_Survival_ConnectionLog on-the-fly within website,
-		since the drop-down list needs to be only players associated with a specific round and not whole DB table..
-
-	   Skipping player clips. Users can just search player name and enable "player clips" filter to find specific clips
+	/*
+	   Skipping player clips and connection log tables
 	*/
 	elseif ($table === "SourceTV_Survival_ConnectionLog" || $table === "SourceTV_Survival_PlayerClips")
 	{
@@ -66,15 +63,28 @@ foreach ($tables as $table)
 GeneratePlayersJsonFile();
 
 /* generate MissingPlayers.md file */
-if (strlen($g_sPlayersNotFound) > 0)
+
+// first sort missing steam IDs by # of rounds logged to the DB
+array_multisort( array_column($g_aMissingPlayers, "count"), SORT_DESC, $g_aMissingPlayers );
+
+$missingPlayersFile = getcwd() . "/logs/MissingPlayers.md";
+$fp = fopen($missingPlayersFile, 'w');
+$date = date("F j, Y, g:i a");
+fwrite($fp, "\n-------- $date --------  \n");
+fwrite($fp, "Consider adding the following steam64IDs to includes/player_aliases.php:  \n");
+
+fwrite($fp, "\n| SteamID           | Rounds logged in SourceTV DB |  ");
+fwrite($fp, "\n|-------------------|------------------------------|  ");
+
+foreach ($g_aMissingPlayers as $index => $key)
 {
-	$missingPlayersFile = getcwd() . "/logs/MissingPlayers.md";
-	$fp = fopen($missingPlayersFile, 'w');
-	$date = date("F j, Y, g:i a");
-	fwrite($fp, "\n-------- $date --------  \n");
-	fwrite($fp, "Consider adding the following steam64IDs to includes/player_aliases.php:  \n" . $g_sPlayersNotFound);
-	fclose($fp);
+	$auth64 = $key['ID'];
+	$count = $key['count'];
+	
+	fwrite($fp, "\n| [$auth64](https://steamcommunity.com/profiles/$auth64) | $count                        |  ");
 }
+
+fclose($fp);
 
 $logFile->GenerateLogFile();
 $logFile->GenerateDebugOutputFile();

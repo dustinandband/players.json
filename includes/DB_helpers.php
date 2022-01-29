@@ -68,7 +68,7 @@ function UpdatePlayerNamesInDB($table)
 
 function FindMissingAuthIDs($table)
 {
-	global $mysqli, $player_aliases, $g_sPlayersNotFound;
+	global $mysqli, $player_aliases;
 	
 	if ($table === "SourceTV_Survival_Main")
 	{
@@ -136,7 +136,7 @@ function FindMissingAuthIDs($table)
 
 function PushToCheckedSteamAccounts($AuthID)
 {
-	global $player_aliases, $g_aMissingPlayers, $g_sPlayersNotFound;
+	global $mysqli, $player_aliases, $g_aMissingPlayers;
 	
 	if ($AuthID === "")
 	{
@@ -145,10 +145,21 @@ function PushToCheckedSteamAccounts($AuthID)
 	
 	if (!array_key_exists($AuthID, $player_aliases))
 	{
-		if (!in_array($AuthID, $g_aMissingPlayers))
+		if (!in_missing_players_array($AuthID, $g_aMissingPlayers))
 		{
-			$g_sPlayersNotFound .= "\n[$AuthID](https://steamcommunity.com/profiles/$AuthID)  ";
-			array_push($g_aMissingPlayers, $AuthID);
+			$query = "SELECT COUNT(*) FROM `SourceTV_Survival_Main` WHERE '$AuthID' IN (p1_authID, p2_authID, p3_authID, p4_authID);";
+			if (!$result = $mysqli->query($query))
+			{
+				$count = $result = -1;
+			}
+			else
+			{
+				while($row = $result->fetch_assoc())
+				{
+					$count = $row['COUNT(*)'];
+				}
+			}
+			array_push($g_aMissingPlayers, array('ID' => $AuthID, 'count' => $count));
 		}
 	}
 	

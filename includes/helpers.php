@@ -219,3 +219,15 @@ function GeneratePlayersJsonFile()
 		fclose($fp);
 	}
 }
+
+function in_missing_players_array($AuthID, $array)
+{
+	foreach ($array as $index => $key)
+	{
+		if (in_array($AuthID, $key))
+		{
+			return true;
+		}
+	}
+	return false;
+}
