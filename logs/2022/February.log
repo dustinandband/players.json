@@ -657,3 +657,14 @@
     Error retrieving player image for  [76561199214684666]. skipping..
     Error retrieving player image for  [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- February 15, 2022, 4:30 pm --------
+
+  Logged events:
+    Error retrieving player image for  [76561199185319520]. skipping..
+    Error retrieving player image for  [76561199225468782]. skipping..
+    Error retrieving player image for  [76561199214684666]. skipping..
+
+  Errors:
+    helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting
+
