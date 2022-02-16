@@ -88,7 +88,7 @@ function GetPlayerName($authID)
 	
 	if (!$file)
 	{
-		$logFile->LogFatalError("helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting");
+		return "";
 	}
 	
 	$json2 = json_decode($file);
@@ -107,7 +107,7 @@ function GetProfileImage($authID)
 	
 	if (!$file)
 	{
-		$logFile->LogFatalError("helpers.php : GetProfileImage() : Check 'STEAM_WEB_API' define. Aborting");
+		return "";
 	}
 	
 	$json2 = json_decode($file);
@@ -129,8 +129,15 @@ function GeneratePlayersArray($table, $row_name, $row_authID)
 		$logFile->LogFatalError("MySQL error:\n    $mysqli->error \n    query: \n    $query");
 	}
 	
+	$Error_Count = 0;
 	while($row = $result->fetch_assoc())
 	{
+		// assume steam is down if we can't get player names or images for this many clients..
+		if ($Error_Count > 40)
+		{
+			$logFile->LogFatalError("helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... ");
+		}
+
 		$AuthID = $row[$row_authID];
 		// ignore if not human player
 		if ($AuthID === 'BOT' || $AuthID === '')
@@ -155,6 +162,13 @@ function GeneratePlayersArray($table, $row_name, $row_authID)
 		{
 			$name = htmlspecialchars($row[$row_name], ENT_QUOTES, 'UTF-8');
 		}
+
+		if ( $name === "")
+		{
+			$logFile->LogEvent("Error retrieving player name for [$AuthID]. skipping..");
+			$Error_Count++;
+			continue;
+		}
 		
 		// names with backslashes cause the players listing to error out
 		// since it exists within <script> tags.
@@ -164,6 +178,7 @@ function GeneratePlayersArray($table, $row_name, $row_authID)
 		if ( $avatar === "")
 		{
 			$logFile->LogEvent("Error retrieving player image for $name [$AuthID]. skipping..");
+			$Error_Count++;
 			continue;
 		}
 		
