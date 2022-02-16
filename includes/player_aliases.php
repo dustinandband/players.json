@@ -102,7 +102,6 @@ $player_aliases = array(
 	"76561198844275558" => "Maplestrike",
 	"76561198446698838" => "John Bender",
 	"76561198337867927" => "RageRebel",
-	"76561198958878897" => "sk9el",
 	"76561197982367807" => "Niko Bellic",
 	"76561198371665066" => "Elzbieta Bosak",
 	"76561198010153092" => "skiddy",
@@ -270,5 +269,17 @@ $player_aliases = array(
 	"76561198151331857" => "мár'c",
 	"76561198076564951" => "MUST be NICE",
 	"76561198064817566" => "Hawkens"
+);
 
+/*
+	Deleted steam accounts - skip over these
+	If $player_aliases contains any of these keys, KeyCheck.sh will pick it up as duplicate entry
+*/
+$steamid_ignore = array(
+	"76561199185319520",
+	"76561199225468782",
+	"76561199214684666",
+	"76561199225435822",
+	"76561198958878897", // sk9el
+	"76561198379763019"
 );

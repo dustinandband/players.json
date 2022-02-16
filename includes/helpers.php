@@ -120,7 +120,7 @@ function GetProfileImage($authID)
 
 function GeneratePlayersArray($table, $row_name, $row_authID)
 {
-	global $mysqli, $logFile, $g_aCheckedSteamAccounts, $g_aPlayerList, $g_iRowCount, $player_aliases;
+	global $mysqli, $logFile, $g_aCheckedSteamAccounts, $g_aPlayerList, $g_iRowCount, $player_aliases, $steamid_ignore;
 	
 	$query = "SELECT $row_name, $row_authID FROM `$table` ORDER BY $row_name;";
 	
@@ -140,7 +140,7 @@ function GeneratePlayersArray($table, $row_name, $row_authID)
 
 		$AuthID = $row[$row_authID];
 		// ignore if not human player
-		if ($AuthID === 'BOT' || $AuthID === '')
+		if ($AuthID === 'BOT' || $AuthID === '' || in_array($AuthID, $steamid_ignore))
 		{
 			continue;
 		}

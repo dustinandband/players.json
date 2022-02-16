@@ -4,10 +4,16 @@ include_once "player_aliases.php";
 
 function UpdatePlayerNamesInDB($table)
 {
-	global $mysqli, $logFile, $player_aliases;
+	global $mysqli, $logFile, $player_aliases, $steamid_ignore;
 	
 	foreach ($player_aliases as $authID => $name)
 	{
+		// skip deleted steam accounts
+		if (in_array($authID, $steamid_ignore))
+		{
+			continue;
+		}
+
 		$name = $mysqli->real_escape_string($name);
 		
 		// SourceTV_Survival_Main
@@ -136,9 +142,9 @@ function FindMissingAuthIDs($table)
 
 function PushToCheckedSteamAccounts($AuthID)
 {
-	global $mysqli, $player_aliases, $g_aMissingPlayers;
+	global $mysqli, $player_aliases, $g_aMissingPlayers, $steamid_ignore;
 	
-	if ($AuthID === "")
+	if ($AuthID === "" || in_array($AuthID, $steamid_ignore))
 	{
 		return;
 	}
