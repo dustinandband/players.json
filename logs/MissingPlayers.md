@@ -1,13 +1,13 @@
 
--------- March 7, 2022, 8:33 am --------  
+-------- March 7, 2022, 4:39 pm --------  
 Consider adding the following steam64IDs to includes/player_aliases.php:  
 
 | SteamID           | Rounds logged in SourceTV DB |  
 |-------------------|------------------------------|  
 | [76561198023897982](https://steamcommunity.com/profiles/76561198023897982) | 226                        |  
-| [76561198839661474](https://steamcommunity.com/profiles/76561198839661474) | 184                        |  
+| [76561198839661474](https://steamcommunity.com/profiles/76561198839661474) | 186                        |  
 | [76561199062351778](https://steamcommunity.com/profiles/76561199062351778) | 155                        |  
-| [76561199085677205](https://steamcommunity.com/profiles/76561199085677205) | 125                        |  
+| [76561199085677205](https://steamcommunity.com/profiles/76561199085677205) | 126                        |  
 | [76561199141205551](https://steamcommunity.com/profiles/76561199141205551) | 121                        |  
 | [76561198420486066](https://steamcommunity.com/profiles/76561198420486066) | 110                        |  
 | [76561198064250076](https://steamcommunity.com/profiles/76561198064250076) | 107                        |  
@@ -25,8 +25,8 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198013939486](https://steamcommunity.com/profiles/76561198013939486) | 65                        |  
 | [76561198130203570](https://steamcommunity.com/profiles/76561198130203570) | 64                        |  
 | [76561199046920118](https://steamcommunity.com/profiles/76561199046920118) | 64                        |  
+| [76561198080776508](https://steamcommunity.com/profiles/76561198080776508) | 63                        |  
 | [76561198140306677](https://steamcommunity.com/profiles/76561198140306677) | 63                        |  
-| [76561198080776508](https://steamcommunity.com/profiles/76561198080776508) | 62                        |  
 | [76561198406691061](https://steamcommunity.com/profiles/76561198406691061) | 55                        |  
 | [76561198043045620](https://steamcommunity.com/profiles/76561198043045620) | 50                        |  
 | [76561198399505840](https://steamcommunity.com/profiles/76561198399505840) | 50                        |  
