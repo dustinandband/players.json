@@ -1,13 +1,13 @@
 
--------- March 12, 2022, 8:31 am --------  
+-------- March 12, 2022, 4:38 pm --------  
 Consider adding the following steam64IDs to includes/player_aliases.php:  
 
 | SteamID           | Rounds logged in SourceTV DB |  
 |-------------------|------------------------------|  
 | [76561198023897982](https://steamcommunity.com/profiles/76561198023897982) | 226                        |  
-| [76561198839661474](https://steamcommunity.com/profiles/76561198839661474) | 215                        |  
+| [76561198839661474](https://steamcommunity.com/profiles/76561198839661474) | 217                        |  
 | [76561199062351778](https://steamcommunity.com/profiles/76561199062351778) | 155                        |  
-| [76561199085677205](https://steamcommunity.com/profiles/76561199085677205) | 136                        |  
+| [76561199085677205](https://steamcommunity.com/profiles/76561199085677205) | 137                        |  
 | [76561199141205551](https://steamcommunity.com/profiles/76561199141205551) | 131                        |  
 | [76561198064250076](https://steamcommunity.com/profiles/76561198064250076) | 123                        |  
 | [76561198420486066](https://steamcommunity.com/profiles/76561198420486066) | 121                        |  
@@ -19,8 +19,8 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198012521226](https://steamcommunity.com/profiles/76561198012521226) | 79                        |  
 | [76561198308059023](https://steamcommunity.com/profiles/76561198308059023) | 78                        |  
 | [76561199174877102](https://steamcommunity.com/profiles/76561199174877102) | 78                        |  
+| [76561198070636407](https://steamcommunity.com/profiles/76561198070636407) | 76                        |  
 | [76561198138906325](https://steamcommunity.com/profiles/76561198138906325) | 75                        |  
-| [76561198070636407](https://steamcommunity.com/profiles/76561198070636407) | 74                        |  
 | [76561198451442151](https://steamcommunity.com/profiles/76561198451442151) | 70                        |  
 | [76561198080776508](https://steamcommunity.com/profiles/76561198080776508) | 69                        |  
 | [76561198013939486](https://steamcommunity.com/profiles/76561198013939486) | 68                        |  
@@ -58,12 +58,12 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198156307479](https://steamcommunity.com/profiles/76561198156307479) | 27                        |  
 | [76561198202036310](https://steamcommunity.com/profiles/76561198202036310) | 27                        |  
 | [76561199183483174](https://steamcommunity.com/profiles/76561199183483174) | 27                        |  
+| [76561198393103579](https://steamcommunity.com/profiles/76561198393103579) | 26                        |  
 | [76561199234809406](https://steamcommunity.com/profiles/76561199234809406) | 26                        |  
 | [76561197966979210](https://steamcommunity.com/profiles/76561197966979210) | 25                        |  
 | [76561199071854789](https://steamcommunity.com/profiles/76561199071854789) | 25                        |  
 | [76561199176301569](https://steamcommunity.com/profiles/76561199176301569) | 25                        |  
 | [76561198038163803](https://steamcommunity.com/profiles/76561198038163803) | 24                        |  
-| [76561198393103579](https://steamcommunity.com/profiles/76561198393103579) | 24                        |  
 | [76561198436737304](https://steamcommunity.com/profiles/76561198436737304) | 24                        |  
 | [76561199093280815](https://steamcommunity.com/profiles/76561199093280815) | 24                        |  
 | [76561198210934887](https://steamcommunity.com/profiles/76561198210934887) | 23                        |  
@@ -71,13 +71,13 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198271950040](https://steamcommunity.com/profiles/76561198271950040) | 23                        |  
 | [76561198978385866](https://steamcommunity.com/profiles/76561198978385866) | 23                        |  
 | [76561199066113179](https://steamcommunity.com/profiles/76561199066113179) | 23                        |  
+| [76561198825697705](https://steamcommunity.com/profiles/76561198825697705) | 22                        |  
 | [76561199193748141](https://steamcommunity.com/profiles/76561199193748141) | 21                        |  
 | [76561198085370638](https://steamcommunity.com/profiles/76561198085370638) | 20                        |  
 | [76561198440289920](https://steamcommunity.com/profiles/76561198440289920) | 20                        |  
 | [76561198026525515](https://steamcommunity.com/profiles/76561198026525515) | 19                        |  
 | [76561198329356807](https://steamcommunity.com/profiles/76561198329356807) | 19                        |  
 | [76561198823464824](https://steamcommunity.com/profiles/76561198823464824) | 19                        |  
-| [76561198825697705](https://steamcommunity.com/profiles/76561198825697705) | 19                        |  
 | [76561198953406488](https://steamcommunity.com/profiles/76561198953406488) | 19                        |  
 | [76561198973644329](https://steamcommunity.com/profiles/76561198973644329) | 19                        |  
 | [76561198060026108](https://steamcommunity.com/profiles/76561198060026108) | 18                        |  
@@ -259,6 +259,7 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198383008636](https://steamcommunity.com/profiles/76561198383008636) | 4                        |  
 | [76561198399971120](https://steamcommunity.com/profiles/76561198399971120) | 4                        |  
 | [76561198850076584](https://steamcommunity.com/profiles/76561198850076584) | 4                        |  
+| [76561198850838028](https://steamcommunity.com/profiles/76561198850838028) | 4                        |  
 | [76561198950552654](https://steamcommunity.com/profiles/76561198950552654) | 4                        |  
 | [76561198976913846](https://steamcommunity.com/profiles/76561198976913846) | 4                        |  
 | [76561199023397946](https://steamcommunity.com/profiles/76561199023397946) | 4                        |  
@@ -313,7 +314,6 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198842643518](https://steamcommunity.com/profiles/76561198842643518) | 3                        |  
 | [76561198843047672](https://steamcommunity.com/profiles/76561198843047672) | 3                        |  
 | [76561198844380255](https://steamcommunity.com/profiles/76561198844380255) | 3                        |  
-| [76561198850838028](https://steamcommunity.com/profiles/76561198850838028) | 3                        |  
 | [76561198865062105](https://steamcommunity.com/profiles/76561198865062105) | 3                        |  
 | [76561198883465489](https://steamcommunity.com/profiles/76561198883465489) | 3                        |  
 | [76561198902616710](https://steamcommunity.com/profiles/76561198902616710) | 3                        |  
