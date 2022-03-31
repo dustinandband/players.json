@@ -13,4 +13,5 @@ Before editing player_aliases.php:
 2) update your local folder (`git pull`)  
 3) run `php -l` on the player_aliases.php file, or paste the contents into an online PHP editor to make sure the [format is correct](https://i.imgur.com/jnfHoug.jpg)  
 
-[Missing aliases](https://github.com/dustinandband/players.json/blob/main/logs/MissingPlayers.md) (Organized by most rounds logged)  
+
+[Missing aliases](https://github.com/dustinandband/players.json/blob/main/logs/MissingPlayers.md)    
