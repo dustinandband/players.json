@@ -58,6 +58,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198015094232/"
 },
 {
+	"name":"BadPlayer_14",
+	"Steam64ID":"76561198113752650",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b14a2ec9a81069a44cc993f24d7317345d1435a9_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198113752650/"
+},
+{
 	"name":"unskilled",
 	"Steam64ID":"76561198825697705",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/325c6601152a2f413e4c9517654cd0e4771891e2_full.jpg",
@@ -148,7 +154,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198096025886/"
 },
 {
-	"name":"ame(Silver III)",
+	"name":"ame(Silver II)",
 	"Steam64ID":"76561198202036310",
 	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/35/35874165151707dbcebf89c6a537e7a6b0c4b1dd_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198202036310/"
@@ -744,14 +750,8 @@
 {
 	"name":"76561198998396160",
 	"Steam64ID":"76561198998396160",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4d/4de483bf31473852509c01d1aad325619aed740d_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/78/78630b088ca0108bbcb116fd6db4a611da1859de_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198998396160/"
-},
-{
-	"name":"BadPlayer_14",
-	"Steam64ID":"76561198113752650",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b14a2ec9a81069a44cc993f24d7317345d1435a9_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198113752650/"
 },
 {
 	"name":"P R Y",
@@ -1020,7 +1020,7 @@
 {
 	"name":"Vanillaツ",
 	"Steam64ID":"76561197973219888",
-	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2f/2fed382a6179c8cd224fa1a4f766c0120086a9d8_full.jpg",
+	"picture":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/82/82cfc12f795f93626d139102c70737dd5e9ba8e6_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561197973219888/"
 },
 {
