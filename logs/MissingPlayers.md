@@ -1,10 +1,10 @@
 
--------- May 9, 2022, 2:17 am --------  
+-------- May 9, 2022, 8:46 am --------  
 Consider adding the following steam64IDs to includes/player_aliases.php:  
 
 | SteamID           | Rounds logged in SourceTV DB |  
 |-------------------|------------------------------|  
-| [76561198839661474](https://steamcommunity.com/profiles/76561198839661474) | 627                        |  
+| [76561198839661474](https://steamcommunity.com/profiles/76561198839661474) | 630                        |  
 | [76561198060026108](https://steamcommunity.com/profiles/76561198060026108) | 399                        |  
 | [76561199141205551](https://steamcommunity.com/profiles/76561199141205551) | 314                        |  
 | [76561198064250076](https://steamcommunity.com/profiles/76561198064250076) | 283                        |  
@@ -31,7 +31,7 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198436737304](https://steamcommunity.com/profiles/76561198436737304) | 72                        |  
 | [76561198263510579](https://steamcommunity.com/profiles/76561198263510579) | 70                        |  
 | [76561198130203570](https://steamcommunity.com/profiles/76561198130203570) | 68                        |  
-| [76561198879561788](https://steamcommunity.com/profiles/76561198879561788) | 65                        |  
+| [76561198879561788](https://steamcommunity.com/profiles/76561198879561788) | 67                        |  
 | [76561198113752650](https://steamcommunity.com/profiles/76561198113752650) | 63                        |  
 | [76561197974150813](https://steamcommunity.com/profiles/76561197974150813) | 61                        |  
 | [76561198399505840](https://steamcommunity.com/profiles/76561198399505840) | 61                        |  
