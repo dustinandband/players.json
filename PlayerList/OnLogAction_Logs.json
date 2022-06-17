@@ -480,7 +480,7 @@
 {
 	"name":"Kael",
 	"Steam64ID":"76561198080528081",
-	"picture":"https://avatars.akamai.steamstatic.com/577c24766b95825db3d96c65b3f6f175afe155a5_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/5850451bc9b3048a0f18f47cefc43933489183ad_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198080528081/"
 },
 {
@@ -1052,6 +1052,12 @@
 	"Steam64ID":"76561198094867782",
 	"picture":"https://avatars.akamai.steamstatic.com/0d912ef20f11707e673efa4ae3318d142cb00a33_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198094867782/"
+},
+{
+	"name":"themachine577",
+	"Steam64ID":"76561198019437917",
+	"picture":"https://avatars.akamai.steamstatic.com/24c565ccdad28b49b07e49a3ce08136ab1238213_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198019437917/"
 },
 {
 	"name":"Thumper",
