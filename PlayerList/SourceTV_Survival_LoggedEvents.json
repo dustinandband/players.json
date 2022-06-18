@@ -84,8 +84,14 @@
 {
 	"name":"HouseVibe",
 	"Steam64ID":"76561199143749308",
-	"picture":"https://avatars.akamai.steamstatic.com/e352971a008e63bd9e231c49f74673256e55c490_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/5452c0b1ef1c5fbe3db778665bf728574b916c2b_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199143749308/"
+},
+{
+	"name":"Chiper_007",
+	"Steam64ID":"76561198281830301",
+	"picture":"https://avatars.akamai.steamstatic.com/afd148cb652a442a3b266acaa8b0ea11eb7fe309_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198281830301/"
 },
 {
 	"name":"colonel",
