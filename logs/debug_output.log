@@ -1,5 +1,5 @@
 
--------- June 18, 2022, 2:13 am --------
+-------- June 18, 2022, 8:43 am --------
 
   Debug output:
 
@@ -1059,6 +1059,18 @@ UPDATE `SourceTV_Survival_Main` SET p1_name = "ZokkuZ" WHERE p1_authID = "765611
 UPDATE `SourceTV_Survival_Main` SET p2_name = "ZokkuZ" WHERE p2_authID = "76561198968900763";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "ZokkuZ" WHERE p3_authID = "76561198968900763";
 UPDATE `SourceTV_Survival_Main` SET p4_name = "ZokkuZ" WHERE p4_authID = "76561198968900763";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Myelinated23" WHERE p1_authID = "76561198839661474";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Myelinated23" WHERE p2_authID = "76561198839661474";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Myelinated23" WHERE p3_authID = "76561198839661474";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Myelinated23" WHERE p4_authID = "76561198839661474";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Soccerlegend23" WHERE p1_authID = "76561198060026108";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Soccerlegend23" WHERE p2_authID = "76561198060026108";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Soccerlegend23" WHERE p3_authID = "76561198060026108";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Soccerlegend23" WHERE p4_authID = "76561198060026108";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Edga" WHERE p1_authID = "76561198057903283";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Edga" WHERE p2_authID = "76561198057903283";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Edga" WHERE p3_authID = "76561198057903283";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Edga" WHERE p4_authID = "76561198057903283";
 UPDATE `SourceTV_Survival_Main` SET p1_name = "coZ" WHERE p1_authID = "76561198080776508";
 UPDATE `SourceTV_Survival_Main` SET p2_name = "coZ" WHERE p2_authID = "76561198080776508";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "coZ" WHERE p3_authID = "76561198080776508";
@@ -1331,6 +1343,9 @@ UPDATE `SourceTV_Survival_LoggedEvents` SET name = "MUST be NICE" WHERE authID =
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "★Thug-Life★" WHERE authID = "76561197998177692";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Sallen" WHERE authID = "76561199062351778";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "ZokkuZ" WHERE authID = "76561198968900763";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Myelinated23" WHERE authID = "76561198839661474";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Soccerlegend23" WHERE authID = "76561198060026108";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Edga" WHERE authID = "76561198057903283";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "coZ" WHERE authID = "76561198080776508";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Hawkens" WHERE authID = "76561198064817566";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "dustin" WHERE authID = "76561198067462280";
@@ -1597,6 +1612,9 @@ UPDATE `SourceTV_Survival_ConnectionLog` SET name = "MUST be NICE" WHERE authID 
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "★Thug-Life★" WHERE authID = "76561197998177692";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Sallen" WHERE authID = "76561199062351778";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "ZokkuZ" WHERE authID = "76561198968900763";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Myelinated23" WHERE authID = "76561198839661474";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Soccerlegend23" WHERE authID = "76561198060026108";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Edga" WHERE authID = "76561198057903283";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "coZ" WHERE authID = "76561198080776508";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Hawkens" WHERE authID = "76561198064817566";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "dustin" WHERE authID = "76561198067462280";
@@ -1863,6 +1881,9 @@ UPDATE `SourceTV_Survival_PlayerClips` SET name = "MUST be NICE" WHERE authID = 
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "★Thug-Life★" WHERE authID = "76561197998177692";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Sallen" WHERE authID = "76561199062351778";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "ZokkuZ" WHERE authID = "76561198968900763";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Myelinated23" WHERE authID = "76561198839661474";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Soccerlegend23" WHERE authID = "76561198060026108";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Edga" WHERE authID = "76561198057903283";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "coZ" WHERE authID = "76561198080776508";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Hawkens" WHERE authID = "76561198064817566";
 UPDATE `OnLogAction_Logs` SET client_name = "dustin" WHERE client_authID = "76561198067462280";
@@ -2393,6 +2414,12 @@ UPDATE `OnLogAction_Logs` SET client_name = "Sallen" WHERE client_authID = "7656
 UPDATE `OnLogAction_Logs` SET target_name = "Sallen" WHERE target_authID = "76561199062351778";
 UPDATE `OnLogAction_Logs` SET client_name = "ZokkuZ" WHERE client_authID = "76561198968900763";
 UPDATE `OnLogAction_Logs` SET target_name = "ZokkuZ" WHERE target_authID = "76561198968900763";
+UPDATE `OnLogAction_Logs` SET client_name = "Myelinated23" WHERE client_authID = "76561198839661474";
+UPDATE `OnLogAction_Logs` SET target_name = "Myelinated23" WHERE target_authID = "76561198839661474";
+UPDATE `OnLogAction_Logs` SET client_name = "Soccerlegend23" WHERE client_authID = "76561198060026108";
+UPDATE `OnLogAction_Logs` SET target_name = "Soccerlegend23" WHERE target_authID = "76561198060026108";
+UPDATE `OnLogAction_Logs` SET client_name = "Edga" WHERE client_authID = "76561198057903283";
+UPDATE `OnLogAction_Logs` SET target_name = "Edga" WHERE target_authID = "76561198057903283";
 UPDATE `OnLogAction_Logs` SET client_name = "coZ" WHERE client_authID = "76561198080776508";
 UPDATE `OnLogAction_Logs` SET target_name = "coZ" WHERE target_authID = "76561198080776508";
 UPDATE `OnLogAction_Logs` SET client_name = "Hawkens" WHERE client_authID = "76561198064817566";
