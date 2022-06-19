@@ -42,7 +42,7 @@
 {
 	"name":"Ashanna",
 	"Steam64ID":"76561198371378953",
-	"picture":"https://avatars.akamai.steamstatic.com/05ff3da04c0155b6a3fe30c50d7ed1af5e21dc03_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/8330dc22a11efd2edcfc6254fef244fab7cf6af2_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198371378953/"
 },
 {
@@ -448,7 +448,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198109596191/"
 },
 {
-	"name":"Arizona Dream",
+	"name":"Big Smoke",
 	"Steam64ID":"76561198018713049",
 	"picture":"https://avatars.akamai.steamstatic.com/17611f41abf5b3de4e3af1c73603607435545d49_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198018713049/"
@@ -642,7 +642,7 @@
 {
 	"name":"Sallen",
 	"Steam64ID":"76561199062351778",
-	"picture":"https://avatars.akamai.steamstatic.com/ad73f958272ac4a040c39ee8dbbe5a70ad35603e_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/17924d50d5fe0d8a7f9abecd6a8abdeb86541a49_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199062351778/"
 },
 {
@@ -668,6 +668,12 @@
 	"Steam64ID":"76561198070029632",
 	"picture":"https://avatars.akamai.steamstatic.com/3c533cfce99ab2aadbfa2905885990b010385553_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198070029632/"
+},
+{
+	"name":"SirKull",
+	"Steam64ID":"76561198043342860",
+	"picture":"https://avatars.akamai.steamstatic.com/458dcc3e35ff3844ec889ed39b60d4847eb02ece_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198043342860/"
 },
 {
 	"name":"SLAP PACKAGE",
