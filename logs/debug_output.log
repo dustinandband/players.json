@@ -1,5 +1,5 @@
 
--------- June 19, 2022, 4:47 pm --------
+-------- June 20, 2022, 2:15 am --------
 
   Debug output:
 
@@ -343,10 +343,10 @@ UPDATE `SourceTV_Survival_Main` SET p1_name = "The Happy Falafel" WHERE p1_authI
 UPDATE `SourceTV_Survival_Main` SET p2_name = "The Happy Falafel" WHERE p2_authID = "76561198008381159";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "The Happy Falafel" WHERE p3_authID = "76561198008381159";
 UPDATE `SourceTV_Survival_Main` SET p4_name = "The Happy Falafel" WHERE p4_authID = "76561198008381159";
-UPDATE `SourceTV_Survival_Main` SET p1_name = "J.T. (justintime)" WHERE p1_authID = "76561198003184616";
-UPDATE `SourceTV_Survival_Main` SET p2_name = "J.T. (justintime)" WHERE p2_authID = "76561198003184616";
-UPDATE `SourceTV_Survival_Main` SET p3_name = "J.T. (justintime)" WHERE p3_authID = "76561198003184616";
-UPDATE `SourceTV_Survival_Main` SET p4_name = "J.T. (justintime)" WHERE p4_authID = "76561198003184616";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "J.T." WHERE p1_authID = "76561198003184616";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "J.T." WHERE p2_authID = "76561198003184616";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "J.T." WHERE p3_authID = "76561198003184616";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "J.T." WHERE p4_authID = "76561198003184616";
 UPDATE `SourceTV_Survival_Main` SET p1_name = "SK" WHERE p1_authID = "76561198078887961";
 UPDATE `SourceTV_Survival_Main` SET p2_name = "SK" WHERE p2_authID = "76561198078887961";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "SK" WHERE p3_authID = "76561198078887961";
@@ -911,10 +911,10 @@ UPDATE `SourceTV_Survival_Main` SET p1_name = "Lynasart" WHERE p1_authID = "7656
 UPDATE `SourceTV_Survival_Main` SET p2_name = "Lynasart" WHERE p2_authID = "76561198004590585";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "Lynasart" WHERE p3_authID = "76561198004590585";
 UPDATE `SourceTV_Survival_Main` SET p4_name = "Lynasart" WHERE p4_authID = "76561198004590585";
-UPDATE `SourceTV_Survival_Main` SET p1_name = "saeko (s43ko)" WHERE p1_authID = "76561198010807488";
-UPDATE `SourceTV_Survival_Main` SET p2_name = "saeko (s43ko)" WHERE p2_authID = "76561198010807488";
-UPDATE `SourceTV_Survival_Main` SET p3_name = "saeko (s43ko)" WHERE p3_authID = "76561198010807488";
-UPDATE `SourceTV_Survival_Main` SET p4_name = "saeko (s43ko)" WHERE p4_authID = "76561198010807488";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "s43ko" WHERE p1_authID = "76561198010807488";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "s43ko" WHERE p2_authID = "76561198010807488";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "s43ko" WHERE p3_authID = "76561198010807488";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "s43ko" WHERE p4_authID = "76561198010807488";
 UPDATE `SourceTV_Survival_Main` SET p1_name = "HeXaah" WHERE p1_authID = "76561198035757304";
 UPDATE `SourceTV_Survival_Main` SET p2_name = "HeXaah" WHERE p2_authID = "76561198035757304";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "HeXaah" WHERE p3_authID = "76561198035757304";
@@ -1164,7 +1164,7 @@ UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Pickle" WHERE authID = "7656
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "phil (Pistola)" WHERE authID = "76561198129114619";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Justin (Australian Spy)" WHERE authID = "76561198123202956";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "The Happy Falafel" WHERE authID = "76561198008381159";
-UPDATE `SourceTV_Survival_LoggedEvents` SET name = "J.T. (justintime)" WHERE authID = "76561198003184616";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "J.T." WHERE authID = "76561198003184616";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "SK" WHERE authID = "76561198078887961";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Rambo" WHERE authID = "76561198037765926";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Eph Air" WHERE authID = "76561198018599806";
@@ -1306,7 +1306,7 @@ UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Flamming" WHERE authID = "76
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "FLUX" WHERE authID = "76561197968802052";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "K I C K E R" WHERE authID = "76561198012461794";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Lynasart" WHERE authID = "76561198004590585";
-UPDATE `SourceTV_Survival_LoggedEvents` SET name = "saeko (s43ko)" WHERE authID = "76561198010807488";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "s43ko" WHERE authID = "76561198010807488";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "HeXaah" WHERE authID = "76561198035757304";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Sh4dow" WHERE authID = "76561199048362870";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "suniki" WHERE authID = "76561198021324770";
@@ -1433,7 +1433,7 @@ UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Pickle" WHERE authID = "765
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "phil (Pistola)" WHERE authID = "76561198129114619";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Justin (Australian Spy)" WHERE authID = "76561198123202956";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "The Happy Falafel" WHERE authID = "76561198008381159";
-UPDATE `SourceTV_Survival_ConnectionLog` SET name = "J.T. (justintime)" WHERE authID = "76561198003184616";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "J.T." WHERE authID = "76561198003184616";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "SK" WHERE authID = "76561198078887961";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Rambo" WHERE authID = "76561198037765926";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Eph Air" WHERE authID = "76561198018599806";
@@ -1575,7 +1575,7 @@ UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Flamming" WHERE authID = "7
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "FLUX" WHERE authID = "76561197968802052";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "K I C K E R" WHERE authID = "76561198012461794";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Lynasart" WHERE authID = "76561198004590585";
-UPDATE `SourceTV_Survival_ConnectionLog` SET name = "saeko (s43ko)" WHERE authID = "76561198010807488";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "s43ko" WHERE authID = "76561198010807488";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "HeXaah" WHERE authID = "76561198035757304";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Sh4dow" WHERE authID = "76561199048362870";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "suniki" WHERE authID = "76561198021324770";
@@ -1702,7 +1702,7 @@ UPDATE `SourceTV_Survival_PlayerClips` SET name = "Pickle" WHERE authID = "76561
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "phil (Pistola)" WHERE authID = "76561198129114619";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Justin (Australian Spy)" WHERE authID = "76561198123202956";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "The Happy Falafel" WHERE authID = "76561198008381159";
-UPDATE `SourceTV_Survival_PlayerClips` SET name = "J.T. (justintime)" WHERE authID = "76561198003184616";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "J.T." WHERE authID = "76561198003184616";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "SK" WHERE authID = "76561198078887961";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Rambo" WHERE authID = "76561198037765926";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Eph Air" WHERE authID = "76561198018599806";
@@ -1844,7 +1844,7 @@ UPDATE `SourceTV_Survival_PlayerClips` SET name = "Flamming" WHERE authID = "765
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "FLUX" WHERE authID = "76561197968802052";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "K I C K E R" WHERE authID = "76561198012461794";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Lynasart" WHERE authID = "76561198004590585";
-UPDATE `SourceTV_Survival_PlayerClips` SET name = "saeko (s43ko)" WHERE authID = "76561198010807488";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "s43ko" WHERE authID = "76561198010807488";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "HeXaah" WHERE authID = "76561198035757304";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Sh4dow" WHERE authID = "76561199048362870";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "suniki" WHERE authID = "76561198021324770";
@@ -2056,8 +2056,8 @@ UPDATE `OnLogAction_Logs` SET client_name = "Justin (Australian Spy)" WHERE clie
 UPDATE `OnLogAction_Logs` SET target_name = "Justin (Australian Spy)" WHERE target_authID = "76561198123202956";
 UPDATE `OnLogAction_Logs` SET client_name = "The Happy Falafel" WHERE client_authID = "76561198008381159";
 UPDATE `OnLogAction_Logs` SET target_name = "The Happy Falafel" WHERE target_authID = "76561198008381159";
-UPDATE `OnLogAction_Logs` SET client_name = "J.T. (justintime)" WHERE client_authID = "76561198003184616";
-UPDATE `OnLogAction_Logs` SET target_name = "J.T. (justintime)" WHERE target_authID = "76561198003184616";
+UPDATE `OnLogAction_Logs` SET client_name = "J.T." WHERE client_authID = "76561198003184616";
+UPDATE `OnLogAction_Logs` SET target_name = "J.T." WHERE target_authID = "76561198003184616";
 UPDATE `OnLogAction_Logs` SET client_name = "SK" WHERE client_authID = "76561198078887961";
 UPDATE `OnLogAction_Logs` SET target_name = "SK" WHERE target_authID = "76561198078887961";
 UPDATE `OnLogAction_Logs` SET client_name = "Rambo" WHERE client_authID = "76561198037765926";
@@ -2340,8 +2340,8 @@ UPDATE `OnLogAction_Logs` SET client_name = "K I C K E R" WHERE client_authID = 
 UPDATE `OnLogAction_Logs` SET target_name = "K I C K E R" WHERE target_authID = "76561198012461794";
 UPDATE `OnLogAction_Logs` SET client_name = "Lynasart" WHERE client_authID = "76561198004590585";
 UPDATE `OnLogAction_Logs` SET target_name = "Lynasart" WHERE target_authID = "76561198004590585";
-UPDATE `OnLogAction_Logs` SET client_name = "saeko (s43ko)" WHERE client_authID = "76561198010807488";
-UPDATE `OnLogAction_Logs` SET target_name = "saeko (s43ko)" WHERE target_authID = "76561198010807488";
+UPDATE `OnLogAction_Logs` SET client_name = "s43ko" WHERE client_authID = "76561198010807488";
+UPDATE `OnLogAction_Logs` SET target_name = "s43ko" WHERE target_authID = "76561198010807488";
 UPDATE `OnLogAction_Logs` SET client_name = "HeXaah" WHERE client_authID = "76561198035757304";
 UPDATE `OnLogAction_Logs` SET target_name = "HeXaah" WHERE target_authID = "76561198035757304";
 UPDATE `OnLogAction_Logs` SET client_name = "Sh4dow" WHERE client_authID = "76561199048362870";
