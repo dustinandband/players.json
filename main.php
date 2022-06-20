@@ -73,15 +73,15 @@ $date = date("F j, Y, g:i a");
 fwrite($fp, "\n-------- $date --------  \n");
 fwrite($fp, "Consider adding the following steam64IDs to includes/player_aliases.php:  \n");
 
-fwrite($fp, "\n| SteamID           | Rounds logged in SourceTV DB |  ");
-fwrite($fp, "\n|-------------------|------------------------------|  ");
+fwrite($fp, "\n| SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) |  ");
+fwrite($fp, "\n|-------------------|------------------------------|------------------------------|  ");
 
 foreach ($g_aMissingPlayers as $index => $key)
 {
 	$auth64 = $key['ID'];
 	$count = $key['count'];
 	
-	fwrite($fp, "\n| [$auth64](https://steamcommunity.com/profiles/$auth64) | $count                        |  ");
+	fwrite($fp, "\n| [$auth64](https://steamcommunity.com/profiles/$auth64) | $count                        | [link](https://steamcommunity.com/profiles/$auth64/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  ");
 }
 
 fclose($fp);
