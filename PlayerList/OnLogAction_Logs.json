@@ -226,6 +226,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198067462280/"
 },
 {
+	"name":"DxNanno",
+	"Steam64ID":"76561199028796834",
+	"picture":"https://avatars.akamai.steamstatic.com/4bb7239cb2274fc2c943665c21315f6a8d6f57e2_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199028796834/"
+},
+{
 	"name":"Dziublan",
 	"Steam64ID":"76561198130203570",
 	"picture":"https://avatars.akamai.steamstatic.com/4a7cae421de529cda50dc315c291d593cb158976_full.jpg",
@@ -480,7 +486,7 @@
 {
 	"name":"K I C K E R",
 	"Steam64ID":"76561198012461794",
-	"picture":"https://avatars.akamai.steamstatic.com/65986f68ce4dbbed9811441ae169293c3d71a251_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/519466ce6e88588440f38ca747f1101643c8a846_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198012461794/"
 },
 {
@@ -680,6 +686,12 @@
 	"Steam64ID":"76561198000400799",
 	"picture":"https://avatars.akamai.steamstatic.com/c766b0bdf35e6c3a99ee7bb3e1d79f5cd2e173ff_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198000400799/"
+},
+{
+	"name":"monster",
+	"Steam64ID":"76561198009529394",
+	"picture":"https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198009529394/"
 },
 {
 	"name":"MoreClay ツ",
