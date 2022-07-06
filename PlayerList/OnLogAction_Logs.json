@@ -82,7 +82,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199091126011/"
 },
 {
-	"name":"BadPlayer_42",
+	"name":"BadPlayer_43",
 	"Steam64ID":"76561198113752650",
 	"picture":"https://avatars.akamai.steamstatic.com/b14a2ec9a81069a44cc993f24d7317345d1435a9_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198113752650/"
@@ -818,6 +818,12 @@
 	"Steam64ID":"76561198313856654",
 	"picture":"https://avatars.akamai.steamstatic.com/9b87df28176bd73be9453e05e9c3701ad0330f58_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198313856654/"
+},
+{
+	"name":"Old Hermit",
+	"Steam64ID":"76561198018706932",
+	"picture":"https://avatars.akamai.steamstatic.com/1fcf7bf52c22e391e6d67993d4a16aa621a975d1_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198018706932/"
 },
 {
 	"name":"Overlord_Error",
