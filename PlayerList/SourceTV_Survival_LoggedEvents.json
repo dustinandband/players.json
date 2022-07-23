@@ -52,7 +52,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198371378953/"
 },
 {
-	"name":"siN",
+	"name":"shinei",
 	"Steam64ID":"76561198334237318",
 	"picture":"https://avatars.akamai.steamstatic.com/c110fd9fdea2504d7c3009b49b6719297663f08d_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198334237318/"
@@ -576,7 +576,7 @@
 {
 	"name":"Nathan",
 	"Steam64ID":"76561198069430628",
-	"picture":"https://avatars.akamai.steamstatic.com/9c85797b88e0b0e65da8d5b68a3e748ce68e70b7_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/40fe9bba29985df7f4f15c2180f3acae47feedf7_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198069430628/"
 },
 {
@@ -584,6 +584,12 @@
 	"Steam64ID":"76561199077067216",
 	"picture":"https://avatars.akamai.steamstatic.com/876cebbf226e334f6a5b9be18f5ccfaee50ed28e_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199077067216/"
+},
+{
+	"name":"NearSideOfInfinity",
+	"Steam64ID":"76561198053051232",
+	"picture":"https://avatars.akamai.steamstatic.com/0188b5a424bcfdca3001c21c27d4e3e5602a7ec0_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198053051232/"
 },
 {
 	"name":"Noob Saibot",
