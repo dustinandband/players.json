@@ -1,4 +1,10 @@
-[{	"name":"+zero",
+[{	"name":"Envyy",
+	"Steam64ID":"76561199067172666",
+	"picture":"https://avatars.akamai.steamstatic.com/23de3945b3875f36a59e8b79b5022fa6c447f32f_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199067172666/"
+},
+{
+	"name":"+zero",
 	"Steam64ID":"76561198181939463",
 	"picture":"https://avatars.akamai.steamstatic.com/e643c812feece27c17ad274ee113b3c2efb3d202_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198181939463/"
@@ -178,7 +184,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198080776508/"
 },
 {
-	"name":"TheOldDudeBill",
+	"name":"TheOldDudeBIll",
 	"Steam64ID":"76561198097155336",
 	"picture":"https://avatars.akamai.steamstatic.com/23b206f86e40182f1ea67d0f2fe9cd2521cf1e18_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198097155336/"
@@ -266,12 +272,6 @@
 	"Steam64ID":"76561198862218560",
 	"picture":"https://avatars.akamai.steamstatic.com/449a1179f07bcb7d6b0ba64f62fb26e13a684fdc_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198862218560/"
-},
-{
-	"name":"Envyy",
-	"Steam64ID":"76561199067172666",
-	"picture":"https://avatars.akamai.steamstatic.com/23de3945b3875f36a59e8b79b5022fa6c447f32f_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561199067172666/"
 },
 {
 	"name":"dustin",
