@@ -10,6 +10,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198041122092/"
 },
 {
+	"name":"env",
+	"Steam64ID":"76561199067172666",
+	"picture":"https://avatars.akamai.steamstatic.com/23de3945b3875f36a59e8b79b5022fa6c447f32f_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199067172666/"
+},
+{
 	"name":".50Æ Ghost",
 	"Steam64ID":"76561198090392164",
 	"picture":"https://avatars.akamai.steamstatic.com/a18d6bb3ec6af7729fc4ac89402a0359af4120ea_full.jpg",
@@ -64,7 +70,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198015094232/"
 },
 {
-	"name":"BadPlayer_77",
+	"name":"77",
 	"Steam64ID":"76561198113752650",
 	"picture":"https://avatars.akamai.steamstatic.com/b14a2ec9a81069a44cc993f24d7317345d1435a9_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198113752650/"
@@ -366,7 +372,7 @@
 {
 	"name":"hkl8",
 	"Steam64ID":"76561199193113427",
-	"picture":"https://avatars.akamai.steamstatic.com/712d6fede2dde568c1170e5d002e1f421d452ea8_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/74a06e8cee72019f98ffa3a3800a4fa2fff10fe5_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199193113427/"
 },
 {
