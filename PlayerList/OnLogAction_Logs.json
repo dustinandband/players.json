@@ -1,4 +1,4 @@
-[{	"name":"env",
+[{	"name":"Drains - The Trilogy",
 	"Steam64ID":"76561199067172666",
 	"picture":"https://avatars.akamai.steamstatic.com/23de3945b3875f36a59e8b79b5022fa6c447f32f_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199067172666/"
@@ -34,7 +34,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198849609723/"
 },
 {
-	"name":"ei",
+	"name":"I know what you did last summer",
 	"Steam64ID":"76561199337079379",
 	"picture":"https://avatars.akamai.steamstatic.com/f8c820ff88c5c850748dd22634516ca2a45cc920_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199337079379/"
@@ -78,7 +78,7 @@
 {
 	"name":"Ashanna",
 	"Steam64ID":"76561198371378953",
-	"picture":"https://avatars.akamai.steamstatic.com/c7ab1bbe9075886d70bd2872607b9de5cd82317f_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/922f4ff8ccf36afb10942ec1c5cbe9908a113737_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198371378953/"
 },
 {
@@ -218,6 +218,12 @@
 	"Steam64ID":"76561198887634121",
 	"picture":"https://avatars.akamai.steamstatic.com/d1961a882749125c0d765b2433c03d5dcc12db97_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198887634121/"
+},
+{
+	"name":"DEG",
+	"Steam64ID":"76561197985496423",
+	"picture":"https://avatars.akamai.steamstatic.com/c811251e66e49fcffa181a6e7f1d6ee67ec91259_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561197985496423/"
 },
 {
 	"name":"deinemudda65",
