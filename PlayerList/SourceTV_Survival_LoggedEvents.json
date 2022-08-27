@@ -70,7 +70,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198015094232/"
 },
 {
-	"name":"BadPlayer_92",
+	"name":"BadPlayer_93",
 	"Steam64ID":"76561198113752650",
 	"picture":"https://avatars.akamai.steamstatic.com/b14a2ec9a81069a44cc993f24d7317345d1435a9_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198113752650/"
@@ -722,6 +722,12 @@
 	"Steam64ID":"76561198020887334",
 	"picture":"https://avatars.akamai.steamstatic.com/a86c234a13fda7f254b0fdf767d4e33ff7d756bf_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198020887334/"
+},
+{
+	"name":"Raft",
+	"Steam64ID":"76561198929624695",
+	"picture":"https://avatars.akamai.steamstatic.com/cff11a8a03adfec7d1a981aab5dc8731993b389d_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198929624695/"
 },
 {
 	"name":"Ralimu Strilem",
