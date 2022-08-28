@@ -22,6 +22,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198090392164/"
 },
 {
+	"name":"/phantom/",
+	"Steam64ID":"76561198383686405",
+	"picture":"https://avatars.akamai.steamstatic.com/a026d171b448bc1a749e7cb4cfc120dc0eec8c37_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198383686405/"
+},
+{
 	"name":"ei",
 	"Steam64ID":"76561199337079379",
 	"picture":"https://avatars.akamai.steamstatic.com/f8c820ff88c5c850748dd22634516ca2a45cc920_full.jpg",
@@ -550,7 +556,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198109596191/"
 },
 {
-	"name":"Magnus Fumus",
+	"name":"Magnus Fumus, The Beloved of God",
 	"Steam64ID":"76561198018713049",
 	"picture":"https://avatars.akamai.steamstatic.com/46d95fef679c3776c870f59a6cf4934ef094e912_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198018713049/"
@@ -624,7 +630,7 @@
 {
 	"name":"Nathan",
 	"Steam64ID":"76561198069430628",
-	"picture":"https://avatars.akamai.steamstatic.com/91a4ba986c49428d5899446f7a738887e03b34ed_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/397ee4fd413312c79c32f408fc72d00dd5d24477_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198069430628/"
 },
 {
@@ -858,7 +864,7 @@
 {
 	"name":"Sonata",
 	"Steam64ID":"76561199036235583",
-	"picture":"https://avatars.akamai.steamstatic.com/47a499847052f3e359d89e02a99d5b09dca507e0_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/8ac624f0296f499bd6d7423eb29a7b565d69b41d_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199036235583/"
 },
 {
@@ -888,7 +894,7 @@
 {
 	"name":"swing",
 	"Steam64ID":"76561198317720202",
-	"picture":"https://avatars.akamai.steamstatic.com/408fa5f4aa2011080a86aef18f69395a3b2a661d_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/336556dc09e2ea864b516690e7d2d5275cb8f87d_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198317720202/"
 },
 {
@@ -950,12 +956,6 @@
 	"Steam64ID":"76561198353050316",
 	"picture":"https://avatars.akamai.steamstatic.com/1861231d58bc7416ea61c7870e48ebde0f8b9697_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198353050316/"
-},
-{
-	"name":"/phantom/",
-	"Steam64ID":"76561198383686405",
-	"picture":"https://avatars.akamai.steamstatic.com/a026d171b448bc1a749e7cb4cfc120dc0eec8c37_full.jpg",
-	"CommunityURL":"https://steamcommunity.com/profiles/76561198383686405/"
 },
 {
 	"name":"Ugly Timeless",
