@@ -76,13 +76,13 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198015094232/"
 },
 {
-	"name":"BadPlayer_96",
+	"name":"BadPlayer_97",
 	"Steam64ID":"76561198113752650",
 	"picture":"https://avatars.akamai.steamstatic.com/b14a2ec9a81069a44cc993f24d7317345d1435a9_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198113752650/"
 },
 {
-	"name":"NoSkillch",
+	"name":"Noskillch",
 	"Steam64ID":"76561198825697705",
 	"picture":"https://avatars.akamai.steamstatic.com/822cea0431705d9a2fd77c71627c468ace3be99e_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198825697705/"
@@ -382,6 +382,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199094317013/"
 },
 {
+	"name":"Heaed",
+	"Steam64ID":"76561199136329599",
+	"picture":"https://avatars.akamai.steamstatic.com/a9ae914f47b9def5140c3fa2911904c1db0b1bdc_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199136329599/"
+},
+{
 	"name":"Heeb",
 	"Steam64ID":"76561198128163562",
 	"picture":"https://avatars.akamai.steamstatic.com/cd41fc2029238a872230ea13b3f3f6b5c73117f2_full.jpg",
@@ -422,6 +428,12 @@
 	"Steam64ID":"76561198007267552",
 	"picture":"https://avatars.akamai.steamstatic.com/c082981e304d75e6440dba8928e693f4be95d010_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198007267552/"
+},
+{
+	"name":"Itelier",
+	"Steam64ID":"76561199103866424",
+	"picture":"https://avatars.akamai.steamstatic.com/4e369a214d0a2218278a1f8825b9f4be008ff648_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199103866424/"
 },
 {
 	"name":"IVV4",
@@ -630,13 +642,13 @@
 {
 	"name":"Nathan",
 	"Steam64ID":"76561198069430628",
-	"picture":"https://avatars.akamai.steamstatic.com/c8ae5f68ac3dcb791515427ecb5c44a1e4c80d35_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/0570619b7697a256787f3d27ce62647fe21885da_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198069430628/"
 },
 {
 	"name":"미우",
 	"Steam64ID":"76561199077067216",
-	"picture":"https://avatars.akamai.steamstatic.com/3c69ae2a2706ff1a0b289eeca20aac2cb6c40d0b_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/bd9fece594256869e3d93084d4a725311030db8f_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199077067216/"
 },
 {
