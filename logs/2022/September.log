@@ -697,3 +697,57 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- September 20, 2022, 4:44 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198971418349]. skipping..
+    Error retrieving player name for [76561198316879927]. skipping..
+    Error retrieving player name for [76561198395317483]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198072627979]. skipping..
+    Error retrieving player image for b13 [76561198026166703]. skipping..
+    Error retrieving player name for [76561199069306338]. skipping..
+    Error retrieving player image for basedchrist [76561198120284762]. skipping..
+    Error retrieving player name for [76561198821511723]. skipping..
+    Error retrieving player name for [76561199071651753]. skipping..
+    Error retrieving player name for [76561198065602367]. skipping..
+    Error retrieving player name for [76561198356853241]. skipping..
+    Error retrieving player image for brembo [76561198036741725]. skipping..
+    Error retrieving player name for [76561198446328055]. skipping..
+    Error retrieving player name for [76561198326553881]. skipping..
+    Error retrieving player image for caldodeanimal [76561198149076487]. skipping..
+    Error retrieving player image for Carmine [76561198093639685]. skipping..
+    Error retrieving player name for [76561198174186539]. skipping..
+    Error retrieving player name for [76561199090774341]. skipping..
+    Error retrieving player name for [76561198842643518]. skipping..
+    Error retrieving player name for [76561199238417305]. skipping..
+    Error retrieving player image for C [76561198103692345]. skipping..
+    Error retrieving player image for Condy [76561199042319337]. skipping..
+    Error retrieving player name for [76561198053734604]. skipping..
+    Error retrieving player image for Crazz_CrabCakes [76561198063092592]. skipping..
+    Error retrieving player image for Cy [76561198343425687]. skipping..
+    Error retrieving player image for CyberFire [76561198006239793]. skipping..
+    Error retrieving player name for [76561198018766246]. skipping..
+    Error retrieving player name for [76561198034548070]. skipping..
+    Error retrieving player name for [76561198015839366]. skipping..
+    Error retrieving player image for A FUCKING KISKA [76561198972894105]. skipping..
+    Error retrieving player name for [76561199222088899]. skipping..
+    Error retrieving player image for Dary [76561199059266852]. skipping..
+    Error retrieving player image for dev [76561198151768188]. skipping..
+    Error retrieving player image for Diabolow [76561198021972554]. skipping..
+    Error retrieving player name for [76561197994301890]. skipping..
+    Error retrieving player name for [76561199072441973]. skipping..
+    Error retrieving player name for [76561199028796834]. skipping..
+    Error retrieving player image for dzone [76561198079181777]. skipping..
+    Error retrieving player image for Fallout™ [76561198218949403]. skipping..
+    Error retrieving player name for [76561198162440440]. skipping..
+    Error retrieving player image for feksik [76561198117910965]. skipping..
+    Error retrieving player name for [76561198140209212]. skipping..
+    Error retrieving player image for frank [76561198219039753]. skipping..
+    Error retrieving player image for free to play [76561199376012114]. skipping..
+    Error retrieving player image for Fumi [76561199224526221]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
