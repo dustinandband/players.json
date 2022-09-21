@@ -751,3 +751,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- September 21, 2022, 8:43 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198056795378]. skipping..
+    Error retrieving player name for [76561199162937196]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Kuroda [76561198319776326]. skipping..
+    Error retrieving player image for Kyu [76561198028000345]. skipping..
+    Error retrieving player name for [76561198104229129]. skipping..
+    Error retrieving player image for Leonastra [76561198077866532]. skipping..
+    Error retrieving player name for [76561198425552176]. skipping..
+    Error retrieving player image for love maze [76561198210934887]. skipping..
+    Error retrieving player name for [76561198399971120]. skipping..
+    Error retrieving player image for LukanBBY [76561198451442151]. skipping..
+    Error retrieving player image for Luluzephyr [76561199137963364]. skipping..
+    Error retrieving player image for Lumiel [76561198119556606]. skipping..
+    Error retrieving player image for pooptakestime [76561198387065925]. skipping..
+    Error retrieving player name for [76561198030203745]. skipping..
+    Error retrieving player image for Lynasart [76561198004590585]. skipping..
+    Error retrieving player image for Maguro[JP] [76561198030948275]. skipping..
+    Error retrieving player image for Malaki [76561198156307479]. skipping..
+    Error retrieving player image for Mangala [76561198313431668]. skipping..
+    Error retrieving player name for [76561198067477892]. skipping..
+    Error retrieving player image for 63262363215267 [76561199182791774]. skipping..
+    Error retrieving player image for MEDPlayer [76561199017767969]. skipping..
+    Error retrieving player name for [76561198902616710]. skipping..
+    Error retrieving player image for MeMiciNo [76561198014346642]. skipping..
+    Error retrieving player image for Mentlegen Terrorist [76561198135458514]. skipping..
+    Error retrieving player name for [76561199077067216]. skipping..
+    Error retrieving player image for mynamediggs [76561198035300377]. skipping..
+    Error retrieving player image for Narcolepzzzzzzz [76561198026525515]. skipping..
+    Error retrieving player image for Nebusoku805 [76561198010033933]. skipping..
+    Error retrieving player name for [76561198438435876]. skipping..
+    Error retrieving player image for Nesisoth [76561197994287270]. skipping..
+    Error retrieving player image for nini [76561198883517727]. skipping..
+    Error retrieving player image for NoiCE2625 [76561198263380472]. skipping..
+    Error retrieving player image for Noob Saibot [76561198803592090]. skipping..
+    Error retrieving player name for [76561198023593861]. skipping..
+    Error retrieving player image for Nouzi [76561199183483174]. skipping..
+    Error retrieving player name for [76561198123368080]. skipping..
+    Error retrieving player name for [76561198440289920]. skipping..
+    Error retrieving player image for Oliver [76561198251907108]. skipping..
+    Error retrieving player name for [76561199155698728]. skipping..
+    Error retrieving player name for [76561198249966050]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
