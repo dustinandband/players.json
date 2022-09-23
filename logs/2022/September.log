@@ -820,3 +820,90 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- September 23, 2022, 8:41 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198070636407]. skipping..
+    Error retrieving player name for [76561199033295541]. skipping..
+    Error retrieving player name for [76561199195087686]. skipping..
+    Error retrieving player name for [76561198079289142]. skipping..
+    Error retrieving player image for doomguy [76561199338981955]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198826661736]. skipping..
+    Error retrieving player image for ksj [76561198033106598]. skipping..
+    Error retrieving player name for [76561199140471570]. skipping..
+    Error retrieving player name for [76561198066022608]. skipping..
+    Error retrieving player name for [76561198326223953]. skipping..
+    Error retrieving player image for KrankZ [76561198079863290]. skipping..
+    Error retrieving player name for [76561198319776326]. skipping..
+    Error retrieving player name for [76561198844879532]. skipping..
+    Error retrieving player image for SoÑ [76561199055843715]. skipping..
+    Error retrieving player name for [76561198007330526]. skipping..
+    Error retrieving player image for lesbians are just dick vegans [76561198425552176]. skipping..
+    Error retrieving player image for Ling [76561198131578112]. skipping..
+    Error retrieving player name for [76561198427027290]. skipping..
+    Error retrieving player image for Lynasart [76561198004590585]. skipping..
+    Error retrieving player image for Mae676 [76561198448942601]. skipping..
+    Error retrieving player name for [76561198313431668]. skipping..
+    Error retrieving player image for Meakrous [76561198271950040]. skipping..
+    Error retrieving player name for [76561198011794942]. skipping..
+    Error retrieving player name for [76561199017767969]. skipping..
+    Error retrieving player image for Nachocat` [76561198088846224]. skipping..
+    Error retrieving player name for [76561198135701124]. skipping..
+    Error retrieving player image for MUST be NICE [76561198076564951]. skipping..
+    Error retrieving player name for [76561199067822183]. skipping..
+    Error retrieving player name for [76561198312156829]. skipping..
+    Error retrieving player image for niggagru [76561199096985618]. skipping..
+    Error retrieving player name for [76561199114406864]. skipping..
+    Error retrieving player image for Sayanel [76561198109451191]. skipping..
+    Error retrieving player name for [76561198318841769]. skipping..
+    Error retrieving player image for playinginursockdrawer mmm soc [76561198057920934]. skipping..
+    Error retrieving player name for [76561198888003072]. skipping..
+    Error retrieving player name for [76561198099285010]. skipping..
+    Error retrieving player image for Snow ❄ [76561199006886269]. skipping..
+    Error retrieving player name for [76561198062030694]. skipping..
+    Error retrieving player name for [76561198106620252]. skipping..
+    Error retrieving player image for Flipz [76561199238417305]. skipping..
+    Error retrieving player image for RadSubi [76561197963060841]. skipping..
+    Error retrieving player name for [76561199242231036]. skipping..
+    Error retrieving player image for IlhamBoi [76561199007279877]. skipping..
+    Error retrieving player name for [76561198967363441]. skipping..
+    Error retrieving player name for [76561198258448673]. skipping..
+    Error retrieving player name for [76561198032129488]. skipping..
+    Error retrieving player image for InsideOut [76561197972373120]. skipping..
+    Error retrieving player image for Turtle [76561198254992940]. skipping..
+    Error retrieving player name for [76561198123373386]. skipping..
+    Error retrieving player name for [76561198070856014]. skipping..
+    Error retrieving player image for Jully [76561198272325790]. skipping..
+    Error retrieving player name for [76561199000266355]. skipping..
+    Error retrieving player name for [76561199111233348]. skipping..
+    Error retrieving player image for Chisato [76561198843047672]. skipping..
+    Error retrieving player name for [76561198090316152]. skipping..
+    Error retrieving player name for [76561198137830439]. skipping..
+    Error retrieving player image for Hank [76561198179002986]. skipping..
+    Error retrieving player image for MoreClay [76561198072100423]. skipping..
+    Error retrieving player image for Mübarek Kul [76561198401146698]. skipping..
+    Error retrieving player image for Marce [76561198040987234]. skipping..
+    Error retrieving player name for [76561198120261609]. skipping..
+    Error retrieving player name for [76561198053051232]. skipping..
+    Error retrieving player name for [76561198136428974]. skipping..
+    Error retrieving player name for [76561198261221169]. skipping..
+    Error retrieving player image for Obrad the Brave [76561198122142732]. skipping..
+    Error retrieving player image for orgullocobay [76561199239656165]. skipping..
+    Error retrieving player image for Orion [76561198066296388]. skipping..
+    Error retrieving player image for oz [76561197972395871]. skipping..
+    Error retrieving player name for [76561199102587469]. skipping..
+    Error retrieving player name for [76561198998396160]. skipping..
+    Error retrieving player name for [76561198230291104]. skipping..
+    Error retrieving player name for [76561198010135317]. skipping..
+    Error retrieving player name for [76561198132684319]. skipping..
+    Error retrieving player image for REX OVERLORD 294 [76561198087476075]. skipping..
+    Error retrieving player name for [76561197970298314]. skipping..
+    Error retrieving player name for [76561198143733302]. skipping..
+    Error retrieving player image for SeminoaR [76561198013835892]. skipping..
+    Error retrieving player name for [76561198070591249]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
