@@ -1184,3 +1184,55 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- September 27, 2022, 2:40 am --------
+
+  Logged events:
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561197994301890]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player name for [76561198261896636]. skipping..
+    Error retrieving player image for Lord_Indefectible™ [76561198082086859]. skipping..
+    Error retrieving player name for [76561198049048068]. skipping..
+    Error retrieving player name for [76561199149634021]. skipping..
+    Error retrieving player name for [76561199168107214]. skipping..
+    Error retrieving player image for Majestic [76561198339320922]. skipping..
+    Error retrieving player name for [76561199063017454]. skipping..
+    Error retrieving player image for McRail [76561198039273425]. skipping..
+    Error retrieving player name for [76561198156919205]. skipping..
+    Error retrieving player image for MistLight [76561198044935058]. skipping..
+    Error retrieving player name for [76561198875252688]. skipping..
+    Error retrieving player image for Ni_force014 [76561199037767356]. skipping..
+    Error retrieving player image for noloquieres [76561198136399955]. skipping..
+    Error retrieving player name for [76561198046330024]. skipping..
+    Error retrieving player name for [76561198179531647]. skipping..
+    Error retrieving player name for [76561198127358240]. skipping..
+    Error retrieving player name for [76561198038138919]. skipping..
+    Error retrieving player image for ρнυ [76561198036631741]. skipping..
+    Error retrieving player image for Professor Finnesor [76561198138582556]. skipping..
+    Error retrieving player image for sauceman [76561198866049420]. skipping..
+    Error retrieving player image for Agus [76561198803962163]. skipping..
+    Error retrieving player name for [76561198144478551]. skipping..
+    Error retrieving player image for Ravencorn [76561198248972734]. skipping..
+    Error retrieving player name for [76561199128744775]. skipping..
+    Error retrieving player name for [76561198262320232]. skipping..
+    Error retrieving player name for [76561198067683599]. skipping..
+    Error retrieving player image for rock [76561198369752735]. skipping..
+    Error retrieving player name for [76561199040595060]. skipping..
+    Error retrieving player name for [76561197971204197]. skipping..
+    Error retrieving player image for Sansara [76561198125701840]. skipping..
+    Error retrieving player name for [76561199010861516]. skipping..
+    Error retrieving player name for [76561199100450285]. skipping..
+    Error retrieving player name for [76561198803965568]. skipping..
+    Error retrieving player image for Skorch [76561197995240984]. skipping..
+    Error retrieving player image for Skyndur [76561198979005448]. skipping..
+    Error retrieving player image for Sophie [76561198155792736]. skipping..
+    Error retrieving player image for sorrydead [76561199164252267]. skipping..
+    Error retrieving player image for ProT [76561198259215965]. skipping..
+    Error retrieving player name for [76561198292540991]. skipping..
+    Error retrieving player name for [76561198272049740]. skipping..
+    Error retrieving player image for Sxlace [76561198452499407]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
