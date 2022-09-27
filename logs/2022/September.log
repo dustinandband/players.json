@@ -1236,3 +1236,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- September 27, 2022, 8:46 am --------
+
+  Logged events:
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for fufighter [76561198003961356]. skipping..
+    Error retrieving player image for gaussian_noise [76561198037162401]. skipping..
+    Error retrieving player image for Guz [76561198231965792]. skipping..
+    Error retrieving player name for [76561198009174822]. skipping..
+    Error retrieving player image for Buster Cherry [76561199088080942]. skipping..
+    Error retrieving player name for [76561198018935368]. skipping..
+    Error retrieving player name for [76561198088925052]. skipping..
+    Error retrieving player image for SHAPE [76561198138906325]. skipping..
+    Error retrieving player image for K. [76561198837086096]. skipping..
+    Error retrieving player name for [76561198834278860]. skipping..
+    Error retrieving player image for Kaibil [76561198027102231]. skipping..
+    Error retrieving player name for [76561198019003053]. skipping..
+    Error retrieving player name for [76561198034014393]. skipping..
+    Error retrieving player image for Korn [76561198894489305]. skipping..
+    Error retrieving player image for LEGALIZE Touching Grass [76561199066113179]. skipping..
+    Error retrieving player image for Leonastra [76561198077866532]. skipping..
+    Error retrieving player image for Ling [76561198131578112]. skipping..
+    Error retrieving player image for MrL [76561198168971112]. skipping..
+    Error retrieving player name for [76561198119556606]. skipping..
+    Error retrieving player name for [76561197970489390]. skipping..
+    Error retrieving player name for [76561198271950040]. skipping..
+    Error retrieving player image for Meditation Man 0053 [76561198011794942]. skipping..
+    Error retrieving player name for [76561198135458514]. skipping..
+    Error retrieving player name for [76561198088846224]. skipping..
+    Error retrieving player image for Arrow [76561198077842298]. skipping..
+    Error retrieving player image for monster [76561198009529394]. skipping..
+    Error retrieving player image for Mortitia_Fr [76561199040415113]. skipping..
+    Error retrieving player name for [76561198073646869]. skipping..
+    Error retrieving player image for Nexy [76561198088113157]. skipping..
+    Error retrieving player image for Oscey [76561198246974158]. skipping..
+    Error retrieving player image for phoenix_advance [76561197996186819]. skipping..
+    Error retrieving player image for Playahater [76561198003271554]. skipping..
+    Error retrieving player name for [76561198263491544]. skipping..
+    Error retrieving player name for [76561198037050637]. skipping..
+    Error retrieving player image for Polarized [76561198804216560]. skipping..
+    Error retrieving player image for poltergenic [76561198111294663]. skipping..
+    Error retrieving player image for Сãpo Śilv [76561198797260366]. skipping..
+    Error retrieving player image for RageRebel [76561198337867927]. skipping..
+    Error retrieving player image for Rambo [76561198037765926]. skipping..
+    Error retrieving player name for [76561198366982781]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
