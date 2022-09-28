@@ -1347,3 +1347,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- September 28, 2022, 8:39 am --------
+
+  Logged events:
+    Error retrieving player image for K0X [76561198976913846]. skipping..
+    Error retrieving player image for ah/sin [76561199065694916]. skipping..
+    Error retrieving player image for AKA Ruthless Killer [76561199126223161]. skipping..
+    Error retrieving player image for Alain Uchiha [76561198182165801]. skipping..
+    Error retrieving player name for [76561198068316057]. skipping..
+    Error retrieving player name for [76561198442964629]. skipping..
+    Error retrieving player image for AllThemKids [76561199023397946]. skipping..
+    Error retrieving player name for [76561198123976965]. skipping..
+    Error retrieving player image for ant,hy [76561198126948615]. skipping..
+    Error retrieving player name for [76561198202829519]. skipping..
+    Error retrieving player name for [76561198139383560]. skipping..
+    Error retrieving player name for [76561197966979210]. skipping..
+    Error retrieving player image for Namazaki [76561199075558631]. skipping..
+    Error retrieving player image for BaMM [76561198044181880]. skipping..
+    Error retrieving player image for batmanlegokid_TTV [76561199402613107]. skipping..
+    Error retrieving player name for [76561199071854789]. skipping..
+    Error retrieving player name for [76561198018844869]. skipping..
+    Error retrieving player image for or [76561198420486066]. skipping..
+    Error retrieving player name for [76561198981608253]. skipping..
+    Error retrieving player name for [76561199141205551]. skipping..
+    Error retrieving player name for [76561197995542099]. skipping..
+    Error retrieving player name for [76561199307247615]. skipping..
+    Error retrieving player name for [76561198907343690]. skipping..
+    Error retrieving player name for [76561199072393594]. skipping..
+    Error retrieving player image for Killer [76561199068994932]. skipping..
+    Error retrieving player name for [76561198344154104]. skipping..
+    Error retrieving player name for [76561198049226025]. skipping..
+    Error retrieving player name for [76561199387836027]. skipping..
+    Error retrieving player name for [76561198169018697]. skipping..
+    Error retrieving player image for dev. [76561198868135520]. skipping..
+    Error retrieving player name for [76561198432649990]. skipping..
+    Error retrieving player image for ntrude [76561198109596191]. skipping..
+    Error retrieving player name for [76561198402281498]. skipping..
+    Error retrieving player name for [76561199061083454]. skipping..
+    Error retrieving player name for [76561198971418349]. skipping..
+    Error retrieving player name for [76561198395317483]. skipping..
+    Error retrieving player name for [76561199102042990]. skipping..
+    Error retrieving player image for coZ [76561198080776508]. skipping..
+    Error retrieving player name for [76561198070636407]. skipping..
+    Error retrieving player name for [76561198031494515]. skipping..
+    Error retrieving player image for Cyber [76561198017881537]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
