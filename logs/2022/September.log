@@ -1486,3 +1486,52 @@
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
     Error retrieving player name for [76561199123026305]. skipping..
 
+
+-------- September 29, 2022, 2:48 am --------
+
+  Logged events:
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198813719374]. skipping..
+    Error retrieving player image for Fear [76561199064307651]. skipping..
+    Error retrieving player name for [76561198262538011]. skipping..
+    Error retrieving player image for FILIAN&lt;3 [76561198826661736]. skipping..
+    Error retrieving player name for [76561199203484258]. skipping..
+    Error retrieving player image for golsougetsu [76561198169944335]. skipping..
+    Error retrieving player image for Hakapaka [76561198113530684]. skipping..
+    Error retrieving player image for HanSoSlow [76561198067190925]. skipping..
+    Error retrieving player name for [76561197998819550]. skipping..
+    Error retrieving player name for [76561198225877012]. skipping..
+    Error retrieving player image for hkl8 [76561199193113427]. skipping..
+    Error retrieving player name for [76561199088080942]. skipping..
+    Error retrieving player name for [76561198120032944]. skipping..
+    Error retrieving player image for IKARUS [76561198205130440]. skipping..
+    Error retrieving player name for [76561199399673525]. skipping..
+    Error retrieving player name for [76561198720878601]. skipping..
+    Error retrieving player image for ItsGodHere [76561199104261889]. skipping..
+    Error retrieving player name for [76561199304189313]. skipping..
+    Error retrieving player image for ttv.JayTuut [76561197999173629]. skipping..
+    Error retrieving player image for JeN [76561198000681107]. skipping..
+    Error retrieving player name for [76561199375876039]. skipping..
+    Error retrieving player image for Jerry [76561198968360149]. skipping..
+    Error retrieving player image for Jetzon [76561198201033762]. skipping..
+    Error retrieving player image for Jill [76561198017507425]. skipping..
+    Error retrieving player name for [76561199140471570]. skipping..
+    Error retrieving player name for [76561198005494524]. skipping..
+    Error retrieving player image for Dakari [76561198119677558]. skipping..
+    Error retrieving player name for [76561198026877782]. skipping..
+    Error retrieving player name for [76561198175916311]. skipping..
+    Error retrieving player name for [76561198837086096]. skipping..
+    Error retrieving player image for Kael [76561198080528081]. skipping..
+    Error retrieving player image for Kafka [76561199174877102]. skipping..
+    Error retrieving player image for Kaibil [76561198027102231]. skipping..
+    Error retrieving player name for [76561198019003053]. skipping..
+    Error retrieving player name for [76561198352640316]. skipping..
+    Error retrieving player name for [76561198034014393]. skipping..
+    Error retrieving player name for [76561198026039452]. skipping..
+    Error retrieving player name for [76561198092631763]. skipping..
+    Error retrieving player name for [76561198161556190]. skipping..
+    Error retrieving player name for [76561198819136530]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
