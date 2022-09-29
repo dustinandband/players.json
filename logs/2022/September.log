@@ -1535,3 +1535,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- September 29, 2022, 8:39 am --------
+
+  Logged events:
+    Error retrieving player name for [76561199387836027]. skipping..
+    Error retrieving player image for Uluodv [76561198432649990]. skipping..
+    Error retrieving player name for [76561199013379456]. skipping..
+    Error retrieving player image for Cpt. Crunch [76561198070636407]. skipping..
+    Error retrieving player name for [76561198263467343]. skipping..
+    Error retrieving player name for [76561198015168207]. skipping..
+    Error retrieving player name for [76561198100185304]. skipping..
+    Error retrieving player image for Cyber [76561198017881537]. skipping..
+    Error retrieving player name for [76561197967560194]. skipping..
+    Error retrieving player name for [76561198060862448]. skipping..
+    Error retrieving player image for daflipz [76561199140231642]. skipping..
+    Error retrieving player image for Danilicius [76561197990099252]. skipping..
+    Error retrieving player image for Dante [76561198798707751]. skipping..
+    Error retrieving player image for dead tired . test [76561198887634121]. skipping..
+    Error retrieving player name for [76561199383601345]. skipping..
+    Error retrieving player image for deinemudda65 [76561198056506628]. skipping..
+    Error retrieving player image for ♡ DeltΔ ♡ [76561198287283412]. skipping..
+    Error retrieving player image for Demise [76561199033295541]. skipping..
+    Error retrieving player image for demonskillings [76561199226019966]. skipping..
+    Error retrieving player name for [76561198077269608]. skipping..
+    Error retrieving player name for [76561199229679351]. skipping..
+    Error retrieving player image for Gaming Time [76561198403177661]. skipping..
+    Error retrieving player name for [76561198355604462]. skipping..
+    Error retrieving player image for dom [76561198079289142]. skipping..
+    Error retrieving player image for Donfoe [76561199219585469]. skipping..
+    Error retrieving player image for Dr. Geralt [76561198170284175]. skipping..
+    Error retrieving player image for Dr.Cocktail [76561198085370638]. skipping..
+    Error retrieving player name for [76561198026670415]. skipping..
+    Error retrieving player name for [76561198262819604]. skipping..
+    Error retrieving player image for DRAGONNOR [76561198853618018]. skipping..
+    Error retrieving player image for Dræghy [76561198252417898]. skipping..
+    Error retrieving player image for duck [76561198137825363]. skipping..
+    Error retrieving player name for [76561199194091160]. skipping..
+    Error retrieving player image for dümbelekçi [76561198305283740]. skipping..
+    Error retrieving player image for dustin [76561198067462280]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Flamming [76561198804077912]. skipping..
+    Error retrieving player name for [76561198050547079]. skipping..
+    Error retrieving player image for Fragger`s [76561197974150813]. skipping..
+    Error retrieving player name for [76561198160015110]. skipping..
+    Error retrieving player image for Duw Gans &#039;n [76561198106341719]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
