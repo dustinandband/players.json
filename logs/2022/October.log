@@ -98,3 +98,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 1, 2022, 4:43 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561199176301569]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player image for DRN0167 [76561198862218560]. skipping..
+    Error retrieving player name for [76561198056298049]. skipping..
+    Error retrieving player name for [76561198130203570]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Exerude [76561198064250076]. skipping..
+    Error retrieving player image for faka [76561199093280815]. skipping..
+    Error retrieving player image for Mr.Alexfrlns [76561197989984935]. skipping..
+    Error retrieving player image for Muser [76561198135701124]. skipping..
+    Error retrieving player image for Noob Saibot [76561198803592090]. skipping..
+    Error retrieving player name for [76561198023593861]. skipping..
+    Error retrieving player image for Nouzi [76561199183483174]. skipping..
+    Error retrieving player name for [76561198123368080]. skipping..
+    Error retrieving player name for [76561198246974158]. skipping..
+    Error retrieving player image for Phantom (187) [76561198801106583]. skipping..
+    Error retrieving player image for PROrok (CZ) [76561198800685088]. skipping..
+    Error retrieving player image for spade [76561199215337001]. skipping..
+    Error retrieving player image for s43ko [76561198010807488]. skipping..
+    Error retrieving player image for SAIL HATAN! [76561198312156829]. skipping..
+    Error retrieving player name for [76561198041730828]. skipping..
+    Error retrieving player image for Simonopolis [76561197986719557]. skipping..
+    Error retrieving player name for [76561199124185453]. skipping..
+    Error retrieving player image for Skyheart [76561198064444658]. skipping..
+    Error retrieving player image for sl [76561198008549651]. skipping..
+    Error retrieving player name for [76561198316074996]. skipping..
+    Error retrieving player name for [76561199006886269]. skipping..
+    Error retrieving player name for [76561199387374466]. skipping..
+    Error retrieving player image for Tako [76561198156331839]. skipping..
+    Error retrieving player image for tee [76561198155783469]. skipping..
+    Error retrieving player image for Tim [76561198406691061]. skipping..
+    Error retrieving player image for trash [76561198004962322]. skipping..
+    Error retrieving player image for Trexdub [76561198014590323]. skipping..
+    Error retrieving player name for [76561198016106930]. skipping..
+    Error retrieving player image for Becco16 on 6hz [76561198353050316]. skipping..
+    Error retrieving player name for [76561198925496247]. skipping..
+    Error retrieving player image for Vestrocity [76561198139535622]. skipping..
+    Error retrieving player name for [76561199160542823]. skipping..
+    Error retrieving player image for veyr &lt;3 [76561198387068532]. skipping..
+    Error retrieving player image for VvsskK [76561198985588157]. skipping..
+    Error retrieving player name for [76561198033223238]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
