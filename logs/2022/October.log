@@ -49,3 +49,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 1, 2022, 8:37 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198393103579]. skipping..
+    Error retrieving player image for astra [76561197966979210]. skipping..
+    Error retrieving player image for CHAOS Addiction [76561198172949193]. skipping..
+    Error retrieving player name for [76561198169018697]. skipping..
+    Error retrieving player name for [76561198868135520]. skipping..
+    Error retrieving player name for [76561198432649990]. skipping..
+    Error retrieving player name for [76561199102042990]. skipping..
+    Error retrieving player image for DAGGER [76561199091211123]. skipping..
+    Error retrieving player image for ♡ DeltΔ ♡ [76561198287283412]. skipping..
+    Error retrieving player name for [76561199226019966]. skipping..
+    Error retrieving player image for HamHank [76561199229679351]. skipping..
+    Error retrieving player image for Die Demon [76561198322387009]. skipping..
+    Error retrieving player image for DMM [76561198245957624]. skipping..
+    Error retrieving player image for dog [76561198242818876]. skipping..
+    Error retrieving player image for Dr. Geralt [76561198170284175]. skipping..
+    Error retrieving player name for [76561198021090912]. skipping..
+    Error retrieving player name for [76561198026670415]. skipping..
+    Error retrieving player image for _ [76561198043045620]. skipping..
+    Error retrieving player image for DRN0167 [76561198862218560]. skipping..
+    Error retrieving player name for [76561198137825363]. skipping..
+    Error retrieving player name for [76561199194091160]. skipping..
+    Error retrieving player image for dümbelekçi [76561198305283740]. skipping..
+    Error retrieving player name for [76561199015718944]. skipping..
+    Error retrieving player image for Maverik [76561198056298049]. skipping..
+    Error retrieving player image for E2 (BuQeT, Buqelicious) [76561198052603976]. skipping..
+    Error retrieving player name for [76561198998259180]. skipping..
+    Error retrieving player name for [76561198370133463]. skipping..
+    Error retrieving player image for Edga [76561198057903283]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Elias [76561198106431732]. skipping..
+    Error retrieving player image for Bastard [76561199193748141]. skipping..
+    Error retrieving player name for [76561198872283734]. skipping..
+    Error retrieving player image for faka [76561199093280815]. skipping..
+    Error retrieving player image for FaTeD [76561197980946491]. skipping..
+    Error retrieving player image for Fear [76561199064307651]. skipping..
+    Error retrieving player name for [76561198262538011]. skipping..
+    Error retrieving player name for [76561199121631074]. skipping..
+    Error retrieving player name for [76561198826661736]. skipping..
+    Error retrieving player image for White Cube [76561197994982822]. skipping..
+    Error retrieving player image for FLUX [76561197968802052]. skipping..
+    Error retrieving player image for for fun gamer [76561198050547079]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
