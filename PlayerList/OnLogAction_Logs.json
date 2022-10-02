@@ -262,7 +262,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198836274533/"
 },
 {
-	"name":"py",
+	"name":"Dibbo",
 	"Steam64ID":"76561198032105883",
 	"picture":"https://avatars.akamai.steamstatic.com/ae540d37eef3cfcff194166b7325340a698fe0e0_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198032105883/"
@@ -696,7 +696,7 @@
 {
 	"name":"Kael",
 	"Steam64ID":"76561198080528081",
-	"picture":"https://avatars.akamai.steamstatic.com/9153d470098a85c16776e7a576dfa2b984de33ad_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/132b015990cae9c3d401e49e35ccdb24d2224580_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198080528081/"
 },
 {
@@ -824,6 +824,12 @@
 	"Steam64ID":"76561199216818893",
 	"picture":"https://avatars.akamai.steamstatic.com/fc9849ee889b6d2ca762bd978902c2062b831b94_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199216818893/"
+},
+{
+	"name":"Lord Order",
+	"Steam64ID":"76561198440005096",
+	"picture":"https://avatars.akamai.steamstatic.com/e5e5977d01098bdf9d209e55e4bfba3b8acd2730_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198440005096/"
 },
 {
 	"name":"LukanBBY",
