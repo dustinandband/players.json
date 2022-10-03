@@ -334,3 +334,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 3, 2022, 4:47 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198018844869]. skipping..
+    Error retrieving player name for [76561198015992102]. skipping..
+    Error retrieving player image for or [76561198420486066]. skipping..
+    Error retrieving player name for [76561198981608253]. skipping..
+    Error retrieving player image for Cave [76561198344154104]. skipping..
+    Error retrieving player name for [76561198088691007]. skipping..
+    Error retrieving player image for dumdass [76561199013379456]. skipping..
+    Error retrieving player image for colonialmarine9 [76561197977224004]. skipping..
+    Error retrieving player image for mad [76561199061083454]. skipping..
+    Error retrieving player image for Conflict_Int [76561198971418349]. skipping..
+    Error retrieving player name for [76561198316879927]. skipping..
+    Error retrieving player image for coZ [76561198080776508]. skipping..
+    Error retrieving player name for [76561198031494515]. skipping..
+    Error retrieving player name for [76561198060862448]. skipping..
+    Error retrieving player image for DAGGER [76561199091211123]. skipping..
+    Error retrieving player image for Danilicius [76561197990099252]. skipping..
+    Error retrieving player name for [76561197985496423]. skipping..
+    Error retrieving player name for [76561198093898528]. skipping..
+    Error retrieving player name for [76561199229679351]. skipping..
+    Error retrieving player image for Die Demon [76561198322387009]. skipping..
+    Error retrieving player name for [76561198403177661]. skipping..
+    Error retrieving player image for Dissident [76561198005720534]. skipping..
+    Error retrieving player image for Bizzy&#039;s Dugout [76561198355604462]. skipping..
+    Error retrieving player name for [76561198210194124]. skipping..
+    Error retrieving player image for ジンマン [76561198202036310]. skipping..
+    Error retrieving player image for Dr. Geralt [76561198170284175]. skipping..
+    Error retrieving player name for [76561198853618018]. skipping..
+    Error retrieving player image for DRN0167 [76561198862218560]. skipping..
+    Error retrieving player image for dro [76561198147125400]. skipping..
+    Error retrieving player image for duck [76561198137825363]. skipping..
+    Error retrieving player image for BobTon  II [76561199194091160]. skipping..
+    Error retrieving player image for dümbelekçi [76561198305283740]. skipping..
+    Error retrieving player name for [76561199015718944]. skipping..
+    Error retrieving player name for [76561198130203570]. skipping..
+    Error retrieving player image for E2 (BuQeT, Buqelicious) [76561198052603976]. skipping..
+    Error retrieving player image for Echoes [76561198998259180]. skipping..
+    Error retrieving player image for Eddi Blues [76561198370133463]. skipping..
+    Error retrieving player image for Edga [76561198057903283]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Lopey [76561199031464772]. skipping..
+    Error retrieving player name for [76561198106431732]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
