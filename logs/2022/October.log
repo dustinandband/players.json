@@ -443,3 +443,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 4, 2022, 4:48 pm --------
+
+  Logged events:
+    Error retrieving player image for CR7  dabking [76561198263467343]. skipping..
+    Error retrieving player name for [76561198031494515]. skipping..
+    Error retrieving player image for Spoon [76561198100185304]. skipping..
+    Error retrieving player name for [76561198056298049]. skipping..
+    Error retrieving player name for [76561198370133463]. skipping..
+    Error retrieving player image for Edga [76561198057903283]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Bastard [76561199193748141]. skipping..
+    Error retrieving player name for [76561198160015110]. skipping..
+    Error retrieving player name for [76561198281478061]. skipping..
+    Error retrieving player name for [76561199203484258]. skipping..
+    Error retrieving player image for Headache AKA Gail the Snail [76561197972390647]. skipping..
+    Error retrieving player image for Heeb [76561198128163562]. skipping..
+    Error retrieving player image for Hello [76561198009174822]. skipping..
+    Error retrieving player image for Herc7 [76561197970633684]. skipping..
+    Error retrieving player image for ʟᴜɴᴀ✧ [76561199092743978]. skipping..
+    Error retrieving player image for Im Serious [76561198116002109]. skipping..
+    Error retrieving player image for intense. [76561199399673525]. skipping..
+    Error retrieving player name for [76561198720878601]. skipping..
+    Error retrieving player name for [76561199004620308]. skipping..
+    Error retrieving player image for Aspect [76561199140471570]. skipping..
+    Error retrieving player image for Dakari [76561198119677558]. skipping..
+    Error retrieving player image for K. [76561198837086096]. skipping..
+    Error retrieving player name for [76561198834278860]. skipping..
+    Error retrieving player image for kalahbash [76561198352640316]. skipping..
+    Error retrieving player name for [76561198026039452]. skipping..
+    Error retrieving player name for [76561198092631763]. skipping..
+    Error retrieving player image for KillaFreeza™ [76561198066022608]. skipping..
+    Error retrieving player image for Kimmaye [76561198161556190]. skipping..
+    Error retrieving player image for kmsardar4 [76561198819136530]. skipping..
+    Error retrieving player image for kor_yet_T_naja [76561198326223953]. skipping..
+    Error retrieving player name for [76561198020872320]. skipping..
+    Error retrieving player name for [76561199129014115]. skipping..
+    Error retrieving player image for krazyeights [76561198003024687]. skipping..
+    Error retrieving player name for [76561199022209086]. skipping..
+    Error retrieving player name for [76561198165549832]. skipping..
+    Error retrieving player image for LIEQUDE [76561198877521182]. skipping..
+    Error retrieving player name for [76561198399971120]. skipping..
+    Error retrieving player image for Luluzephyr [76561199137963364]. skipping..
+    Error retrieving player name for [76561198387065925]. skipping..
+    Error retrieving player image for Maguro[JP] [76561198030948275]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
