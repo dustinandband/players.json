@@ -492,3 +492,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 5, 2022, 2:26 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198862218560]. skipping..
+    Error retrieving player image for dro [76561198147125400]. skipping..
+    Error retrieving player image for Dræghy [76561198252417898]. skipping..
+    Error retrieving player image for dümbelekçi [76561198305283740]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199031464772]. skipping..
+    Error retrieving player image for Elias [76561198106431732]. skipping..
+    Error retrieving player image for elle [76561198436737304]. skipping..
+    Error retrieving player name for [76561199115881906]. skipping..
+    Error retrieving player name for [76561198163825955]. skipping..
+    Error retrieving player image for Exerude [76561198064250076]. skipping..
+    Error retrieving player image for Fallen Angel (Crash Override) [76561198309087430]. skipping..
+    Error retrieving player image for Fantashm [76561198354326201]. skipping..
+    Error retrieving player image for FaTeD [76561197980946491]. skipping..
+    Error retrieving player name for [76561198813719374]. skipping..
+    Error retrieving player image for White Cube [76561197994982822]. skipping..
+    Error retrieving player image for for fun gamer [76561198050547079]. skipping..
+    Error retrieving player name for [76561199276719851]. skipping..
+    Error retrieving player name for [76561197991723529]. skipping..
+    Error retrieving player image for fufighter [76561198003961356]. skipping..
+    Error retrieving player name for [76561198866287844]. skipping..
+    Error retrieving player image for GAY in bra and panty 3XAAA [76561198008036797]. skipping..
+    Error retrieving player name for [76561198359582774]. skipping..
+    Error retrieving player image for Glad [76561198014614344]. skipping..
+    Error retrieving player image for glo [76561199218718045]. skipping..
+    Error retrieving player image for Goat Reliq [76561198096808194]. skipping..
+    Error retrieving player name for [76561199203484258]. skipping..
+    Error retrieving player name for [76561198979388822]. skipping..
+    Error retrieving player image for PixxY [76561199083643055]. skipping..
+    Error retrieving player image for pipa__pipa [76561199133505892]. skipping..
+    Error retrieving player image for Hornet [76561198374167777]. skipping..
+    Error retrieving player image for Hysterisch [76561198210264817]. skipping..
+    Error retrieving player name for [76561199052474367]. skipping..
+    Error retrieving player name for [76561199088080942]. skipping..
+    Error retrieving player image for iced [76561198018935368]. skipping..
+    Error retrieving player name for [76561198854270791]. skipping..
+    Error retrieving player image for icoeufre [76561198120032944]. skipping..
+    Error retrieving player image for Im Serious [76561198116002109]. skipping..
+    Error retrieving player name for [76561198720878601]. skipping..
+    Error retrieving player image for ItsGodHere [76561199104261889]. skipping..
+    Error retrieving player image for ivaneitoruwu [76561199304189313]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
