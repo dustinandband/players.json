@@ -600,3 +600,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 5, 2022, 5:04 pm --------
+
+  Logged events:
+    Error retrieving player image for Dziublan [76561198130203570]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198106431732]. skipping..
+    Error retrieving player image for elle [76561198436737304]. skipping..
+    Error retrieving player name for [76561199236039925]. skipping..
+    Error retrieving player image for Fallen Angel (Crash Override) [76561198309087430]. skipping..
+    Error retrieving player image for FALLingorflYING [76561197979082192]. skipping..
+    Error retrieving player name for [76561198018935368]. skipping..
+    Error retrieving player name for [76561199399673525]. skipping..
+    Error retrieving player image for Jyper [76561198175916311]. skipping..
+    Error retrieving player name for [76561198837086096]. skipping..
+    Error retrieving player name for [76561198834278860]. skipping..
+    Error retrieving player image for KAisback [76561198019003053]. skipping..
+    Error retrieving player name for [76561198352640316]. skipping..
+    Error retrieving player name for [76561198034014393]. skipping..
+    Error retrieving player name for [76561198161556190]. skipping..
+    Error retrieving player image for kyokirby [76561198043760833]. skipping..
+    Error retrieving player image for Leonastra [76561198077866532]. skipping..
+    Error retrieving player image for lesbians are just dick vegans [76561198425552176]. skipping..
+    Error retrieving player image for Lynasart [76561198004590585]. skipping..
+    Error retrieving player name for [76561198448942601]. skipping..
+    Error retrieving player name for [76561199182791774]. skipping..
+    Error retrieving player name for [76561198116214536]. skipping..
+    Error retrieving player name for [76561198079582732]. skipping..
+    Error retrieving player image for Meakrous [76561198271950040]. skipping..
+    Error retrieving player image for Meditation Man 0053 [76561198011794942]. skipping..
+    Error retrieving player name for [76561198088846224]. skipping..
+    Error retrieving player name for [76561198165292584]. skipping..
+    Error retrieving player name for [76561198122485522]. skipping..
+    Error retrieving player image for Pilrt [76561198379942909]. skipping..
+    Error retrieving player name for [76561198841203355]. skipping..
+    Error retrieving player image for poopdog012 [76561199162231396]. skipping..
+    Error retrieving player name for [76561198797260366]. skipping..
+    Error retrieving player name for [76561199112535026]. skipping..
+    Error retrieving player name for [76561198376351453]. skipping..
+    Error retrieving player name for [76561198800685088]. skipping..
+    Error retrieving player name for [76561198020887334]. skipping..
+    Error retrieving player image for Shade. [76561199114406864]. skipping..
+    Error retrieving player image for TROOPER [76561198016106930]. skipping..
+    Error retrieving player image for Wooz (fr) [76561198006298158]. skipping..
+    Error retrieving player name for [76561198091322626]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
