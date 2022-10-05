@@ -541,3 +541,62 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 5, 2022, 8:42 am --------
+
+  Logged events:
+    Error retrieving player name for [76561197995542099]. skipping..
+    Error retrieving player name for [76561198103703261]. skipping..
+    Error retrieving player image for Cave [76561198344154104]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198035300377]. skipping..
+    Error retrieving player name for [76561198122485522]. skipping..
+    Error retrieving player name for [76561199022222799]. skipping..
+    Error retrieving player image for pyroxgame [76561198379727420]. skipping..
+    Error retrieving player name for [76561198020887334]. skipping..
+    Error retrieving player name for [76561198929624695]. skipping..
+    Error retrieving player image for zuk.fh [76561198241839372]. skipping..
+    Error retrieving player name for [76561199090774341]. skipping..
+    Error retrieving player name for [76561198807710901]. skipping..
+    Error retrieving player name for [76561198062030694]. skipping..
+    Error retrieving player name for [76561199238417305]. skipping..
+    Error retrieving player image for Complete_Bagel [76561198013678251]. skipping..
+    Error retrieving player name for [76561198025043241]. skipping..
+    Error retrieving player name for [76561198398884103]. skipping..
+    Error retrieving player name for [76561198006239793]. skipping..
+    Error retrieving player name for [76561199222088899]. skipping..
+    Error retrieving player image for DeathDealer [76561198342567663]. skipping..
+    Error retrieving player name for [76561198133958902]. skipping..
+    Error retrieving player name for [76561198066449397]. skipping..
+    Error retrieving player name for [76561198119945601]. skipping..
+    Error retrieving player name for [76561198372127420]. skipping..
+    Error retrieving player name for [76561198176287210]. skipping..
+    Error retrieving player name for [76561198992010043]. skipping..
+    Error retrieving player name for [76561198079053798]. skipping..
+    Error retrieving player name for [76561199009091945]. skipping..
+    Error retrieving player image for HEZBOLLAH [76561198063531705]. skipping..
+    Error retrieving player image for Krieger™ [76561198137782554]. skipping..
+    Error retrieving player name for [76561198036736955]. skipping..
+    Error retrieving player name for [76561198258448673]. skipping..
+    Error retrieving player name for [76561198032129488]. skipping..
+    Error retrieving player name for [76561198142030624]. skipping..
+    Error retrieving player image for Jay [76561198072198312]. skipping..
+    Error retrieving player name for [76561198878322018]. skipping..
+    Error retrieving player image for MattzillaEvo [76561197962254122]. skipping..
+    Error retrieving player name for [76561199117291149]. skipping..
+    Error retrieving player image for mdfc [76561198999027649]. skipping..
+    Error retrieving player image for Murder Inc. [76561197970758541]. skipping..
+    Error retrieving player name for [76561198114837892]. skipping..
+    Error retrieving player name for [76561198053051232]. skipping..
+    Error retrieving player image for New(b)Beast [76561198002513892]. skipping..
+    Error retrieving player name for [76561199212963925]. skipping..
+    Error retrieving player name for [76561199086990833]. skipping..
+    Error retrieving player name for [76561199013220391]. skipping..
+    Error retrieving player name for [76561199191371992]. skipping..
+    Error retrieving player image for Prince [76561198283339564]. skipping..
+    Error retrieving player image for Qcbuzzz [76561198037252046]. skipping..
+    Error retrieving player name for [76561199261197242]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
