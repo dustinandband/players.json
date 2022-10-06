@@ -672,3 +672,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 6, 2022, 4:47 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198402281498]. skipping..
+    Error retrieving player name for [76561199044807749]. skipping..
+    Error retrieving player name for [76561197985496423]. skipping..
+    Error retrieving player image for deinemudda65 [76561198056506628]. skipping..
+    Error retrieving player image for DeVel0pE [76561198372597585]. skipping..
+    Error retrieving player name for [76561198093898528]. skipping..
+    Error retrieving player image for HamHank [76561199229679351]. skipping..
+    Error retrieving player image for Dissident [76561198005720534]. skipping..
+    Error retrieving player image for dog [76561198242818876]. skipping..
+    Error retrieving player name for [76561198305283740]. skipping..
+    Error retrieving player image for dustin [76561198067462280]. skipping..
+    Error retrieving player image for E2 (BuQeT, Buqelicious) [76561198052603976]. skipping..
+    Error retrieving player image for Echoes [76561198998259180]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199115881906]. skipping..
+    Error retrieving player name for [76561198163825955]. skipping..
+    Error retrieving player image for Fantashm [76561198354326201]. skipping..
+    Error retrieving player image for FaTeD [76561197980946491]. skipping..
+    Error retrieving player name for [76561198262538011]. skipping..
+    Error retrieving player image for fileteam6 [76561199121631074]. skipping..
+    Error retrieving player image for Forger [76561199276719851]. skipping..
+    Error retrieving player name for [76561198106341719]. skipping..
+    Error retrieving player name for [76561198281478061]. skipping..
+    Error retrieving player image for L.S.O.M [76561199380656027]. skipping..
+    Error retrieving player image for GamingOCD [76561198866287844]. skipping..
+    Error retrieving player image for gangster0x [76561198120110145]. skipping..
+    Error retrieving player name for [76561199156342580]. skipping..
+    Error retrieving player image for Miyoki [76561199161530703]. skipping..
+    Error retrieving player image for Guz [76561198231965792]. skipping..
+    Error retrieving player name for [76561198206667383]. skipping..
+    Error retrieving player image for Hysterisch [76561198210264817]. skipping..
+    Error retrieving player image for Buster Cherry [76561199088080942]. skipping..
+    Error retrieving player image for IceWolf [76561198088925052]. skipping..
+    Error retrieving player image for Jajami_O_Mate [76561198060522148]. skipping..
+    Error retrieving player name for [76561198968360149]. skipping..
+    Error retrieving player image for Kazu~ [76561198982535306]. skipping..
+    Error retrieving player name for [76561198092631763]. skipping..
+    Error retrieving player image for KillaFreeza™ [76561198066022608]. skipping..
+    Error retrieving player image for kmsardar4 [76561198819136530]. skipping..
+    Error retrieving player name for [76561198894489305]. skipping..
+    Error retrieving player image for kor_yet_T_naja [76561198326223953]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
