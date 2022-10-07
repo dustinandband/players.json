@@ -874,3 +874,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 7, 2022, 4:46 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561199229521993]. skipping..
+    Error retrieving player name for [76561199018465013]. skipping..
+    Error retrieving player name for [76561198000400799]. skipping..
+    Error retrieving player name for [76561198113752650]. skipping..
+    Error retrieving player name for [76561198871160881]. skipping..
+    Error retrieving player name for [76561198015992102]. skipping..
+    Error retrieving player image for or [76561198420486066]. skipping..
+    Error retrieving player image for blakanuse [76561199141205551]. skipping..
+    Error retrieving player image for bless [76561197977779376]. skipping..
+    Error retrieving player image for BruXIV [76561198404658336]. skipping..
+    Error retrieving player image for bunni [76561197999811069]. skipping..
+    Error retrieving player name for [76561199068994932]. skipping..
+    Error retrieving player name for [76561198344154104]. skipping..
+    Error retrieving player name for [76561198172949193]. skipping..
+    Error retrieving player name for [76561198169018697]. skipping..
+    Error retrieving player name for [76561198109596191]. skipping..
+    Error retrieving player image for dumdass [76561199013379456]. skipping..
+    Error retrieving player image for mad [76561199061083454]. skipping..
+    Error retrieving player name for [76561198994144656]. skipping..
+    Error retrieving player name for [76561198971418349]. skipping..
+    Error retrieving player name for [76561198316879927]. skipping..
+    Error retrieving player image for cowboyhiphop [76561199102042990]. skipping..
+    Error retrieving player image for Cricket [76561198031494515]. skipping..
+    Error retrieving player name for [76561199140231642]. skipping..
+    Error retrieving player name for [76561198798707751]. skipping..
+    Error retrieving player name for [76561198086587943]. skipping..
+    Error retrieving player name for [76561199195087686]. skipping..
+    Error retrieving player name for [76561199229679351]. skipping..
+    Error retrieving player image for Dissident [76561198005720534]. skipping..
+    Error retrieving player image for The Pleasing Fungus Beetle [76561198355604462]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player name for [76561198079289142]. skipping..
+    Error retrieving player name for [76561199219585469]. skipping..
+    Error retrieving player name for [76561198210194124]. skipping..
+    Error retrieving player name for [76561198021090912]. skipping..
+    Error retrieving player name for [76561198026670415]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561198862218560]. skipping..
+    Error retrieving player image for duck [76561198137825363]. skipping..
+    Error retrieving player name for [76561199015718944]. skipping..
+    Error retrieving player image for Edga [76561198057903283]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
