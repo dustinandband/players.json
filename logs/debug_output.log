@@ -1,5 +1,5 @@
 
--------- October 6, 2022, 8:59 am --------
+-------- October 7, 2022, 2:49 am --------
 
   Debug output:
 
@@ -959,10 +959,10 @@ UPDATE `SourceTV_Survival_Main` SET p1_name = "Hazzard" WHERE p1_authID = "76561
 UPDATE `SourceTV_Survival_Main` SET p2_name = "Hazzard" WHERE p2_authID = "76561199094317013";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "Hazzard" WHERE p3_authID = "76561199094317013";
 UPDATE `SourceTV_Survival_Main` SET p4_name = "Hazzard" WHERE p4_authID = "76561199094317013";
-UPDATE `SourceTV_Survival_Main` SET p1_name = "fenixch" WHERE p1_authID = "76561198353895793";
-UPDATE `SourceTV_Survival_Main` SET p2_name = "fenixch" WHERE p2_authID = "76561198353895793";
-UPDATE `SourceTV_Survival_Main` SET p3_name = "fenixch" WHERE p3_authID = "76561198353895793";
-UPDATE `SourceTV_Survival_Main` SET p4_name = "fenixch" WHERE p4_authID = "76561198353895793";
+UPDATE `SourceTV_Survival_Main` SET p1_name = "Fenix" WHERE p1_authID = "76561198353895793";
+UPDATE `SourceTV_Survival_Main` SET p2_name = "Fenix" WHERE p2_authID = "76561198353895793";
+UPDATE `SourceTV_Survival_Main` SET p3_name = "Fenix" WHERE p3_authID = "76561198353895793";
+UPDATE `SourceTV_Survival_Main` SET p4_name = "Fenix" WHERE p4_authID = "76561198353895793";
 UPDATE `SourceTV_Survival_Main` SET p1_name = "Danilicius" WHERE p1_authID = "76561197990099252";
 UPDATE `SourceTV_Survival_Main` SET p2_name = "Danilicius" WHERE p2_authID = "76561197990099252";
 UPDATE `SourceTV_Survival_Main` SET p3_name = "Danilicius" WHERE p3_authID = "76561197990099252";
@@ -1318,7 +1318,7 @@ UPDATE `SourceTV_Survival_LoggedEvents` SET name = "KrankZ" WHERE authID = "7656
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Ashanna" WHERE authID = "76561198371378953";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Fallen Angel (Crash Override)" WHERE authID = "76561198309087430";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Hazzard" WHERE authID = "76561199094317013";
-UPDATE `SourceTV_Survival_LoggedEvents` SET name = "fenixch" WHERE authID = "76561198353895793";
+UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Fenix" WHERE authID = "76561198353895793";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "Danilicius" WHERE authID = "76561197990099252";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "sLeeK" WHERE authID = "76561197981727999";
 UPDATE `SourceTV_Survival_LoggedEvents` SET name = "bunni" WHERE authID = "76561197999811069";
@@ -1587,7 +1587,7 @@ UPDATE `SourceTV_Survival_ConnectionLog` SET name = "KrankZ" WHERE authID = "765
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Ashanna" WHERE authID = "76561198371378953";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Fallen Angel (Crash Override)" WHERE authID = "76561198309087430";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Hazzard" WHERE authID = "76561199094317013";
-UPDATE `SourceTV_Survival_ConnectionLog` SET name = "fenixch" WHERE authID = "76561198353895793";
+UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Fenix" WHERE authID = "76561198353895793";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "Danilicius" WHERE authID = "76561197990099252";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "sLeeK" WHERE authID = "76561197981727999";
 UPDATE `SourceTV_Survival_ConnectionLog` SET name = "bunni" WHERE authID = "76561197999811069";
@@ -1856,7 +1856,7 @@ UPDATE `SourceTV_Survival_PlayerClips` SET name = "KrankZ" WHERE authID = "76561
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Ashanna" WHERE authID = "76561198371378953";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Fallen Angel (Crash Override)" WHERE authID = "76561198309087430";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Hazzard" WHERE authID = "76561199094317013";
-UPDATE `SourceTV_Survival_PlayerClips` SET name = "fenixch" WHERE authID = "76561198353895793";
+UPDATE `SourceTV_Survival_PlayerClips` SET name = "Fenix" WHERE authID = "76561198353895793";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "Danilicius" WHERE authID = "76561197990099252";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "sLeeK" WHERE authID = "76561197981727999";
 UPDATE `SourceTV_Survival_PlayerClips` SET name = "bunni" WHERE authID = "76561197999811069";
@@ -2364,8 +2364,8 @@ UPDATE `OnLogAction_Logs` SET client_name = "Fallen Angel (Crash Override)" WHER
 UPDATE `OnLogAction_Logs` SET target_name = "Fallen Angel (Crash Override)" WHERE target_authID = "76561198309087430";
 UPDATE `OnLogAction_Logs` SET client_name = "Hazzard" WHERE client_authID = "76561199094317013";
 UPDATE `OnLogAction_Logs` SET target_name = "Hazzard" WHERE target_authID = "76561199094317013";
-UPDATE `OnLogAction_Logs` SET client_name = "fenixch" WHERE client_authID = "76561198353895793";
-UPDATE `OnLogAction_Logs` SET target_name = "fenixch" WHERE target_authID = "76561198353895793";
+UPDATE `OnLogAction_Logs` SET client_name = "Fenix" WHERE client_authID = "76561198353895793";
+UPDATE `OnLogAction_Logs` SET target_name = "Fenix" WHERE target_authID = "76561198353895793";
 UPDATE `OnLogAction_Logs` SET client_name = "Danilicius" WHERE client_authID = "76561197990099252";
 UPDATE `OnLogAction_Logs` SET target_name = "Danilicius" WHERE target_authID = "76561197990099252";
 UPDATE `OnLogAction_Logs` SET client_name = "sLeeK" WHERE client_authID = "76561197981727999";
