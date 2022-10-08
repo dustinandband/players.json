@@ -972,3 +972,28 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 8, 2022, 8:54 am --------
+
+  Logged events:
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198050547079]. skipping..
+    Error retrieving player name for [76561198184776509]. skipping..
+    Error retrieving player name for [76561198305045512]. skipping..
+    Error retrieving player name for [76561199227563129]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player image for nesto2405 [76561198071880162]. skipping..
+    Error retrieving player image for noloquieres [76561198136399955]. skipping..
+    Error retrieving player name for [76561198082033229]. skipping..
+    Error retrieving player image for tasty.bz/free_skin $ [76561198193837737]. skipping..
+    Error retrieving player name for [76561198248972734]. skipping..
+    Error retrieving player image for redd [76561199128744775]. skipping..
+    Error retrieving player name for [76561198393174559]. skipping..
+    Error retrieving player name for [76561198116789685]. skipping..
+    Error retrieving player name for [76561198422412033]. skipping..
+    Error retrieving player image for asteroid. [76561198851645568]. skipping..
+    Error retrieving player image for Kuke [76561198018950720]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+
