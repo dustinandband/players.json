@@ -1057,3 +1057,20 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 9, 2022, 8:55 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561197972091028]. skipping..
+    Error retrieving player image for Waltuh [76561198140306677]. skipping..
+    Error retrieving player name for [76561199196746718]. skipping..
+    Error retrieving player name for [76561198012521226]. skipping..
+    Error retrieving player name for [76561198126948615]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198104229129]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+
