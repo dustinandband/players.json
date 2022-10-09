@@ -1008,3 +1008,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 9, 2022, 2:40 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player image for Green Lantern [76561199068994932]. skipping..
+    Error retrieving player image for Cash Bazoonga [76561199100764548]. skipping..
+    Error retrieving player name for [76561197981630216]. skipping..
+    Error retrieving player image for WATCHOUT! [76561198850428601]. skipping..
+    Error retrieving player image for CR7  dabking [76561198263467343]. skipping..
+    Error retrieving player image for Gretel [76561198015168207]. skipping..
+    Error retrieving player image for ♡ DeltΔ ♡ [76561198287283412]. skipping..
+    Error retrieving player image for Depressed Mage Named Vex [76561198077269608]. skipping..
+    Error retrieving player name for [76561199229679351]. skipping..
+    Error retrieving player image for dog [76561198242818876]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player name for [76561199219585469]. skipping..
+    Error retrieving player name for [76561198202036310]. skipping..
+    Error retrieving player name for [76561198085370638]. skipping..
+    Error retrieving player name for [76561198262819604]. skipping..
+    Error retrieving player image for Edga [76561198057903283]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198064250076]. skipping..
+    Error retrieving player image for faka [76561199093280815]. skipping..
+    Error retrieving player name for [76561198158097654]. skipping..
+    Error retrieving player image for Fear [76561199064307651]. skipping..
+    Error retrieving player image for FILIAN&lt;3 [76561198826661736]. skipping..
+    Error retrieving player image for for fun gamer [76561198050547079]. skipping..
+    Error retrieving player image for Fragger`s [76561197974150813]. skipping..
+    Error retrieving player name for [76561197991723529]. skipping..
+    Error retrieving player name for [76561198008036797]. skipping..
+    Error retrieving player image for GG-Gamer [76561198119709222]. skipping..
+    Error retrieving player image for Hazzard [76561199094317013]. skipping..
+    Error retrieving player image for HellishWoman [76561198060123351]. skipping..
+    Error retrieving player image for HiddenFinger [76561197998819550]. skipping..
+    Error retrieving player image for hkl8 [76561199193113427]. skipping..
+    Error retrieving player image for Jetzon [76561198201033762]. skipping..
+    Error retrieving player name for [76561198026039452]. skipping..
+    Error retrieving player image for Kyu [76561198028000345]. skipping..
+    Error retrieving player image for lesbians are just dick vegans [76561198425552176]. skipping..
+    Error retrieving player image for Light [76561198085462698]. skipping..
+    Error retrieving player name for [76561198131578112]. skipping..
+    Error retrieving player image for lornN [76561198164852044]. skipping..
+    Error retrieving player name for [76561198427027290]. skipping..
+    Error retrieving player image for m.j [76561198124258845]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
