@@ -1216,3 +1216,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 11, 2022, 4:44 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198056795378]. skipping..
+    Error retrieving player name for [76561198898204973]. skipping..
+    Error retrieving player image for anth [76561198126948615]. skipping..
+    Error retrieving player image for grandass [76561198393103579]. skipping..
+    Error retrieving player image for busta [76561199307247615]. skipping..
+    Error retrieving player image for Cash Bazoonga [76561199100764548]. skipping..
+    Error retrieving player name for [76561198049226025]. skipping..
+    Error retrieving player name for [76561198172949193]. skipping..
+    Error retrieving player name for [76561198169018697]. skipping..
+    Error retrieving player image for ChenAli [76561199323855171]. skipping..
+    Error retrieving player image for dev. [76561198868135520]. skipping..
+    Error retrieving player name for [76561198850428601]. skipping..
+    Error retrieving player image for ntrude [76561198109596191]. skipping..
+    Error retrieving player image for cmdr Salamandr 2 [76561199122567585]. skipping..
+    Error retrieving player image for Coach [76561198088691007]. skipping..
+    Error retrieving player name for [76561199013379456]. skipping..
+    Error retrieving player image for Tonight [76561198402281498]. skipping..
+    Error retrieving player name for [76561199044807749]. skipping..
+    Error retrieving player image for colonialmarine9 [76561197977224004]. skipping..
+    Error retrieving player name for [76561199061083454]. skipping..
+    Error retrieving player name for [76561198971418349]. skipping..
+    Error retrieving player image for covered by amatsukauto ໒꒱· [76561198395317483]. skipping..
+    Error retrieving player name for [76561199102042990]. skipping..
+    Error retrieving player image for CR7  dabking [76561198263467343]. skipping..
+    Error retrieving player name for [76561198031494515]. skipping..
+    Error retrieving player name for [76561199239003010]. skipping..
+    Error retrieving player name for [76561198158095029]. skipping..
+    Error retrieving player image for Cԋҽҽƚσʂ [76561197967560194]. skipping..
+    Error retrieving player name for [76561198060862448]. skipping..
+    Error retrieving player image for daflipz [76561199140231642]. skipping..
+    Error retrieving player image for DAGGER [76561199091211123]. skipping..
+    Error retrieving player name for [76561198798707751]. skipping..
+    Error retrieving player name for [76561198086587943]. skipping..
+    Error retrieving player image for Lyric [76561199383601345]. skipping..
+    Error retrieving player name for [76561197985496423]. skipping..
+    Error retrieving player image for deinemudda65 [76561198056506628]. skipping..
+    Error retrieving player image for ♡ DeltΔ ♡ [76561198287283412]. skipping..
+    Error retrieving player name for [76561199195087686]. skipping..
+    Error retrieving player name for [76561198077269608]. skipping..
+    Error retrieving player image for Depression patient [76561198400814462]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
