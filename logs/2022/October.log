@@ -1476,3 +1476,57 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 14, 2022, 8:56 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Ghxst:) [76561199113834676]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player image for eZ. [76561197964916527]. skipping..
+    Error retrieving player name for [76561198812409876]. skipping..
+    Error retrieving player image for 은우 [76561199114158337]. skipping..
+    Error retrieving player name for [76561197988034335]. skipping..
+    Error retrieving player name for [76561198190103213]. skipping..
+    Error retrieving player image for GHOST OZO [76561197995084522]. skipping..
+    Error retrieving player name for [76561198395238835]. skipping..
+    Error retrieving player image for Haz [76561198312066996]. skipping..
+    Error retrieving player name for [76561198179797422]. skipping..
+    Error retrieving player name for [76561198189244461]. skipping..
+    Error retrieving player image for Inje [76561198120132696]. skipping..
+    Error retrieving player name for [76561198845134106]. skipping..
+    Error retrieving player image for jbekkedal [76561198041594613]. skipping..
+    Error retrieving player image for SimpleLenn [76561199016174877]. skipping..
+    Error retrieving player image for Syntrofos [76561198319527265]. skipping..
+    Error retrieving player image for thestupidsandwich [76561199095417564]. skipping..
+    Error retrieving player name for [76561198117570246]. skipping..
+    Error retrieving player name for [76561199184383469]. skipping..
+    Error retrieving player image for y1k6vmynfz [76561199183019038]. skipping..
+    Error retrieving player image for Zander [76561198297174626]. skipping..
+    Error retrieving player name for [76561198259994326]. skipping..
+    Error retrieving player name for [76561198324104641]. skipping..
+    Error retrieving player name for [76561198162313233]. skipping..
+    Error retrieving player image for Bombadilla [76561198128771178]. skipping..
+    Error retrieving player name for [76561198065903789]. skipping..
+    Error retrieving player name for [76561198111820263]. skipping..
+    Error retrieving player name for [76561198315231112]. skipping..
+    Error retrieving player image for Lx [76561197987515945]. skipping..
+    Error retrieving player image for Maximus3537 [76561198079220397]. skipping..
+    Error retrieving player image for Kenan Evren [76561199167038008]. skipping..
+    Error retrieving player name for [76561198991712782]. skipping..
+    Error retrieving player name for [76561198414830436]. skipping..
+    Error retrieving player name for [76561198868711943]. skipping..
+    Error retrieving player image for NoBoDyMaN1518 [76561198097062006]. skipping..
+    Error retrieving player name for [76561198196644395]. skipping..
+    Error retrieving player name for [76561198983215304]. skipping..
+    Error retrieving player image for Paul [76561198027582874]. skipping..
+    Error retrieving player name for [76561197998957737]. skipping..
+    Error retrieving player name for [76561198005364208]. skipping..
+    Error retrieving player name for [76561198233946552]. skipping..
+    Error retrieving player image for ♪♫♬♪🎷 [76561197982942603]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+    Error retrieving player image for шевроле импала 67г [76561199039681584]. skipping..
+
