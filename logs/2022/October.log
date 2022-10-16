@@ -1805,3 +1805,36 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 16, 2022, 5:03 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for ksj [76561198033106598]. skipping..
+    Error retrieving player image for Tail [76561198157255548]. skipping..
+    Error retrieving player name for [76561198058845906]. skipping..
+    Error retrieving player name for [76561198016106930]. skipping..
+    Error retrieving player name for [76561199139784485]. skipping..
+    Error retrieving player name for [76561198353050316]. skipping..
+    Error retrieving player image for Ultra Sphinx [76561198125207623]. skipping..
+    Error retrieving player name for [76561199000549231]. skipping..
+    Error retrieving player image for vk1 [76561198097700212]. skipping..
+    Error retrieving player image for gPaul [76561199078320979]. skipping..
+    Error retrieving player image for Tenthousand [76561198077505334]. skipping..
+    Error retrieving player name for [76561199064374552]. skipping..
+    Error retrieving player image for WillZepp [76561198188284982]. skipping..
+    Error retrieving player name for [76561198354811398]. skipping..
+    Error retrieving player image for WWS [76561198969383604]. skipping..
+    Error retrieving player name for [76561199111398114]. skipping..
+    Error retrieving player name for [76561199210135109]. skipping..
+    Error retrieving player image for youjumpijump [76561198430098598]. skipping..
+    Error retrieving player image for yunimimi9 [76561199033615131]. skipping..
+    Error retrieving player name for [76561198263769128]. skipping..
+    Error retrieving player image for грустный [76561198274550638]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player image for Juan [76561198279490494]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+
