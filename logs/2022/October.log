@@ -1756,3 +1756,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 16, 2022, 8:40 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198263467343]. skipping..
+    Error retrieving player image for Dorotheus [76561198210194124]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for HanSoSlow [76561198067190925]. skipping..
+    Error retrieving player name for [76561198306742577]. skipping..
+    Error retrieving player image for Heeb [76561198128163562]. skipping..
+    Error retrieving player image for henry (Raptor) [76561198116585225]. skipping..
+    Error retrieving player name for [76561198088925052]. skipping..
+    Error retrieving player name for [76561199092743978]. skipping..
+    Error retrieving player name for [76561198001721301]. skipping..
+    Error retrieving player name for [76561198720878601]. skipping..
+    Error retrieving player image for J0sh [76561198387936561]. skipping..
+    Error retrieving player name for [76561198033106598]. skipping..
+    Error retrieving player name for [76561198065478778]. skipping..
+    Error retrieving player name for [76561198968360149]. skipping..
+    Error retrieving player name for [76561198072627979]. skipping..
+    Error retrieving player image for K I C K E R [76561198012461794]. skipping..
+    Error retrieving player name for [76561198034014393]. skipping..
+    Error retrieving player image for kashm1r2 [76561198192783941]. skipping..
+    Error retrieving player image for LaLo [76561198341647407]. skipping..
+    Error retrieving player name for [76561199055843715]. skipping..
+    Error retrieving player name for [76561198112046603]. skipping..
+    Error retrieving player image for Lucifer [76561198147655681]. skipping..
+    Error retrieving player image for Flimbylquang [76561198030203745]. skipping..
+    Error retrieving player name for [76561198883517727]. skipping..
+    Error retrieving player image for Noob Saibot [76561198803592090]. skipping..
+    Error retrieving player image for Nosataya Pishuxa [76561198023593861]. skipping..
+    Error retrieving player name for [76561199183483174]. skipping..
+    Error retrieving player image for Old Hermit [76561198018706932]. skipping..
+    Error retrieving player image for Oliver [76561198251907108]. skipping..
+    Error retrieving player image for Overland aka [Bellona] [76561198018888781]. skipping..
+    Error retrieving player name for [76561198017627426]. skipping..
+    Error retrieving player image for Pingu [76561198973644329]. skipping..
+    Error retrieving player name for [76561198008841397]. skipping..
+    Error retrieving player image for チキンの入札 [76561198263491544]. skipping..
+    Error retrieving player image for Prokul^^ [76561198376351453]. skipping..
+    Error retrieving player image for Reaver [76561198118527008]. skipping..
+    Error retrieving player image for Sallen [76561199062351778]. skipping..
+    Error retrieving player name for [76561199096985618]. skipping..
+    Error retrieving player name for [76561198109451191]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
