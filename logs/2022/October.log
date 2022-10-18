@@ -1876,3 +1876,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 18, 2022, 2:43 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player image for Alice of the Dead [76561198068316057]. skipping..
+    Error retrieving player image for ALL Hell Broke Loose [76561198442964629]. skipping..
+    Error retrieving player image for Ashanna [76561198371378953]. skipping..
+    Error retrieving player image for astra [76561197966979210]. skipping..
+    Error retrieving player image for BaMM [76561198044181880]. skipping..
+    Error retrieving player image for Takimi ♥ [76561198185100221]. skipping..
+    Error retrieving player name for [76561198018844869]. skipping..
+    Error retrieving player image for Beowolf [76561198015992102]. skipping..
+    Error retrieving player name for [76561198981608253]. skipping..
+    Error retrieving player name for [76561199141205551]. skipping..
+    Error retrieving player image for bless [76561197977779376]. skipping..
+    Error retrieving player image for ActionFreaK [76561198090006286]. skipping..
+    Error retrieving player name for [76561198907343690]. skipping..
+    Error retrieving player image for cfg [76561199387836027]. skipping..
+    Error retrieving player name for [76561198172949193]. skipping..
+    Error retrieving player name for [76561198868135520]. skipping..
+    Error retrieving player image for ntrude [76561198109596191]. skipping..
+    Error retrieving player image for cmdr Salamandr 2 [76561199122567585]. skipping..
+    Error retrieving player image for Coincident [76561197962342292]. skipping..
+    Error retrieving player image for colonel [76561199044807749]. skipping..
+    Error retrieving player image for colonialmarine9 [76561197977224004]. skipping..
+    Error retrieving player image for Conflict_Int [76561198971418349]. skipping..
+    Error retrieving player image for CR7  dabking [76561198263467343]. skipping..
+    Error retrieving player image for Spoon [76561198100185304]. skipping..
+    Error retrieving player image for Cyber [76561198017881537]. skipping..
+    Error retrieving player image for Phantom [76561198158095029]. skipping..
+    Error retrieving player image for Cԋҽҽƚσʂ [76561197967560194]. skipping..
+    Error retrieving player image for DAGGER [76561199091211123]. skipping..
+    Error retrieving player image for Danilicius [76561197990099252]. skipping..
+    Error retrieving player image for DARK [76561198086587943]. skipping..
+    Error retrieving player image for dcutbtw [76561199065670640]. skipping..
+    Error retrieving player name for [76561197985496423]. skipping..
+    Error retrieving player name for [76561199033295541]. skipping..
+    Error retrieving player name for [76561198077269608]. skipping..
+    Error retrieving player name for [76561198400814462]. skipping..
+    Error retrieving player name for [76561198372597585]. skipping..
+    Error retrieving player name for [76561198093898528]. skipping..
+    Error retrieving player name for [76561199229679351]. skipping..
+    Error retrieving player image for Die Demon [76561198322387009]. skipping..
+    Error retrieving player name for [76561198959804539]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
