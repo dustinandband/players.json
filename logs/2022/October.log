@@ -2023,3 +2023,77 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 19, 2022, 8:52 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Azalea [76561198399971120]. skipping..
+    Error retrieving player image for Arcade_Blues [76561198112046603]. skipping..
+    Error retrieving player name for [76561198427027290]. skipping..
+    Error retrieving player name for [76561198030203745]. skipping..
+    Error retrieving player image for Lynasart [76561198004590585]. skipping..
+    Error retrieving player name for [76561198077842298]. skipping..
+    Error retrieving player name for [76561199040415113]. skipping..
+    Error retrieving player image for Mr.Py (python) [76561198831874360]. skipping..
+    Error retrieving player image for Muffindog [76561198010054074]. skipping..
+    Error retrieving player image for Muser [76561198135701124]. skipping..
+    Error retrieving player image for MUST be NICE [76561198076564951]. skipping..
+    Error retrieving player image for Narcolepzzzzzzz [76561198026525515]. skipping..
+    Error retrieving player name for [76561198010033933]. skipping..
+    Error retrieving player image for Nesisoth [76561197994287270]. skipping..
+    Error retrieving player name for [76561198061306688]. skipping..
+    Error retrieving player name for [76561198835015223]. skipping..
+    Error retrieving player name for [76561199215337001]. skipping..
+    Error retrieving player name for [76561198945634210]. skipping..
+    Error retrieving player name for [76561198014375811]. skipping..
+    Error retrieving player name for [76561199072482785]. skipping..
+    Error retrieving player name for [76561198003513502]. skipping..
+    Error retrieving player name for [76561197961833753]. skipping..
+    Error retrieving player image for you talk to me? [76561198813402452]. skipping..
+    Error retrieving player name for [76561199239692865]. skipping..
+    Error retrieving player name for [76561197991149074]. skipping..
+    Error retrieving player name for [76561198821511723]. skipping..
+    Error retrieving player name for [76561198089697556]. skipping..
+    Error retrieving player image for RadSubi [76561197963060841]. skipping..
+    Error retrieving player name for [76561199242231036]. skipping..
+    Error retrieving player name for [76561198804785099]. skipping..
+    Error retrieving player name for [76561198372127420]. skipping..
+    Error retrieving player image for Farma [76561198162440440]. skipping..
+    Error retrieving player name for [76561198010540675]. skipping..
+    Error retrieving player image for Fumi [76561199224526221]. skipping..
+    Error retrieving player image for Geore [76561198348274875]. skipping..
+    Error retrieving player image for Ginosaji [76561198293838379]. skipping..
+    Error retrieving player name for [76561198373995359]. skipping..
+    Error retrieving player image for Holophrastic [76561198001393342]. skipping..
+    Error retrieving player image for Riku [76561198137782554]. skipping..
+    Error retrieving player name for [76561198036736955]. skipping..
+    Error retrieving player name for [76561199197553574]. skipping..
+    Error retrieving player name for [76561198123373386]. skipping..
+    Error retrieving player image for Kasumi Goto [76561199379867666]. skipping..
+    Error retrieving player name for [76561198383119727]. skipping..
+    Error retrieving player name for [76561198370694992]. skipping..
+    Error retrieving player image for MattzillaEvo [76561197962254122]. skipping..
+    Error retrieving player name for [76561199117291149]. skipping..
+    Error retrieving player name for [76561199247371376]. skipping..
+    Error retrieving player image for New(b)Beast [76561198002513892]. skipping..
+    Error retrieving player image for Overdose [76561197984938312]. skipping..
+    Error retrieving player image for Pain in the Brass [76561198068408822]. skipping..
+    Error retrieving player name for [76561198224502152]. skipping..
+    Error retrieving player name for [76561199261197242]. skipping..
+    Error retrieving player name for [76561198239637082]. skipping..
+    Error retrieving player name for [76561198044806197]. skipping..
+    Error retrieving player name for [76561198972737487]. skipping..
+    Error retrieving player name for [76561198962873953]. skipping..
+    Error retrieving player name for [76561197985186971]. skipping..
+    Error retrieving player image for Snowing sideways [76561198206529351]. skipping..
+    Error retrieving player name for [76561199084684583]. skipping..
+    Error retrieving player image for Banana Man [76561199064374552]. skipping..
+    Error retrieving player name for [76561198043404456]. skipping..
+    Error retrieving player image for Uber_Frettchen [76561198853368604]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
