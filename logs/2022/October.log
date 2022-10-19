@@ -1974,3 +1974,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 19, 2022, 2:40 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player image for Hype [76561198139383560]. skipping..
+    Error retrieving player image for Aël [76561198326702133]. skipping..
+    Error retrieving player image for astra [76561197966979210]. skipping..
+    Error retrieving player image for Azimuth [76561198015094232]. skipping..
+    Error retrieving player name for [76561199229521993]. skipping..
+    Error retrieving player name for [76561198871160881]. skipping..
+    Error retrieving player name for [76561198404658336]. skipping..
+    Error retrieving player name for [76561198907343690]. skipping..
+    Error retrieving player name for [76561199072393594]. skipping..
+    Error retrieving player image for cfg [76561199387836027]. skipping..
+    Error retrieving player image for chaz [76561198169018697]. skipping..
+    Error retrieving player image for ChenAli [76561199323855171]. skipping..
+    Error retrieving player name for [76561198868135520]. skipping..
+    Error retrieving player name for [76561197981630216]. skipping..
+    Error retrieving player image for ntrude [76561198109596191]. skipping..
+    Error retrieving player name for [76561199013379456]. skipping..
+    Error retrieving player name for [76561198402281498]. skipping..
+    Error retrieving player name for [76561197977224004]. skipping..
+    Error retrieving player image for Conflict_Int [76561198971418349]. skipping..
+    Error retrieving player name for [76561199102042990]. skipping..
+    Error retrieving player image for axylac [76561199239003010]. skipping..
+    Error retrieving player image for Phantom [76561198158095029]. skipping..
+    Error retrieving player image for daflipz [76561199140231642]. skipping..
+    Error retrieving player image for deinemudda65 [76561198056506628]. skipping..
+    Error retrieving player image for ♡ DeltΔ ♡ [76561198287283412]. skipping..
+    Error retrieving player name for [76561199033295541]. skipping..
+    Error retrieving player name for [76561198077269608]. skipping..
+    Error retrieving player image for Depression patient [76561198400814462]. skipping..
+    Error retrieving player name for [76561198372597585]. skipping..
+    Error retrieving player image for kiper ス テ ィ        [76561198959804539]. skipping..
+    Error retrieving player name for [76561198242818876]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player image for dom [76561198079289142]. skipping..
+    Error retrieving player name for [76561199219585469]. skipping..
+    Error retrieving player image for Dorotheus [76561198210194124]. skipping..
+    Error retrieving player name for [76561198170284175]. skipping..
+    Error retrieving player image for Dr.Cocktail [76561198085370638]. skipping..
+    Error retrieving player image for DRAGONNOR [76561198853618018]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561198862218560]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
