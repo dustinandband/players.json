@@ -2097,3 +2097,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 19, 2022, 4:53 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for White Cube [76561197994982822]. skipping..
+    Error retrieving player image for Duw Gans &#039;n [76561198106341719]. skipping..
+    Error retrieving player name for [76561198420121261]. skipping..
+    Error retrieving player image for Gents [76561198028741818]. skipping..
+    Error retrieving player image for GG-Gamer [76561198119709222]. skipping..
+    Error retrieving player image for Glad [76561198014614344]. skipping..
+    Error retrieving player name for [76561198979388822]. skipping..
+    Error retrieving player image for san [76561198392877845]. skipping..
+    Error retrieving player image for Hawkens [76561198064817566]. skipping..
+    Error retrieving player image for Headache AKA Gail the Snail [76561197972390647]. skipping..
+    Error retrieving player image for henry (Raptor) [76561198116585225]. skipping..
+    Error retrieving player image for Hitman [76561198037994859]. skipping..
+    Error retrieving player image for HowToPotato101 [76561198206667383]. skipping..
+    Error retrieving player image for H¥$tɜЯi@ [76561199052474367]. skipping..
+    Error retrieving player name for [76561198088925052]. skipping..
+    Error retrieving player image for jaku [76561198136877812]. skipping..
+    Error retrieving player image for Jalapeno [76561198144844926]. skipping..
+    Error retrieving player image for Jeep [76561199250909621]. skipping..
+    Error retrieving player image for Aspect [76561199140471570]. skipping..
+    Error retrieving player name for [76561199240678898]. skipping..
+    Error retrieving player image for Cookies [76561198293825246]. skipping..
+    Error retrieving player image for K. [76561198837086096]. skipping..
+    Error retrieving player image for Kael [76561198080528081]. skipping..
+    Error retrieving player name for [76561199174877102]. skipping..
+    Error retrieving player image for Kaibil [76561198027102231]. skipping..
+    Error retrieving player name for [76561198026039452]. skipping..
+    Error retrieving player image for Kevin [76561198092631763]. skipping..
+    Error retrieving player image for ns [76561199129014115]. skipping..
+    Error retrieving player image for Kyu [76561198028000345]. skipping..
+    Error retrieving player name for [76561198142070031]. skipping..
+    Error retrieving player name for [76561199055843715]. skipping..
+    Error retrieving player name for [76561199022209086]. skipping..
+    Error retrieving player image for Arcade_Blues [76561198112046603]. skipping..
+    Error retrieving player name for [76561198427027290]. skipping..
+    Error retrieving player image for Lucifer [76561198147655681]. skipping..
+    Error retrieving player name for [76561199137963364]. skipping..
+    Error retrieving player image for Maciejas [76561198107819250]. skipping..
+    Error retrieving player name for [76561198030948275]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
