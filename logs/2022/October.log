@@ -2195,3 +2195,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 20, 2022, 4:46 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198442964629]. skipping..
+    Error retrieving player name for [76561198292797738]. skipping..
+    Error retrieving player name for [76561199023397946]. skipping..
+    Error retrieving player name for [76561198123976965]. skipping..
+    Error retrieving player name for [76561198983538157]. skipping..
+    Error retrieving player name for [76561198090006286]. skipping..
+    Error retrieving player name for [76561197981630216]. skipping..
+    Error retrieving player name for [76561199122567585]. skipping..
+    Error retrieving player image for Coincident [76561197962342292]. skipping..
+    Error retrieving player name for [76561199044807749]. skipping..
+    Error retrieving player image for colonialmarine9 [76561197977224004]. skipping..
+    Error retrieving player name for [76561199061083454]. skipping..
+    Error retrieving player name for [76561198070636407]. skipping..
+    Error retrieving player name for [76561198263467343]. skipping..
+    Error retrieving player name for [76561198015168207]. skipping..
+    Error retrieving player name for [76561197967560194]. skipping..
+    Error retrieving player name for [76561199140231642]. skipping..
+    Error retrieving player image for DAGGER [76561199091211123]. skipping..
+    Error retrieving player name for [76561198086587943]. skipping..
+    Error retrieving player name for [76561199383601345]. skipping..
+    Error retrieving player image for ÐEG [76561197985496423]. skipping..
+    Error retrieving player name for [76561199033295541]. skipping..
+    Error retrieving player name for [76561199195087686]. skipping..
+    Error retrieving player name for [76561199226019966]. skipping..
+    Error retrieving player name for [76561198077269608]. skipping..
+    Error retrieving player name for [76561198400814462]. skipping..
+    Error retrieving player name for [76561198093898528]. skipping..
+    Error retrieving player image for Dissident [76561198005720534]. skipping..
+    Error retrieving player image for DMM [76561198245957624]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player image for dom [76561198079289142]. skipping..
+    Error retrieving player image for Donfoe [76561199219585469]. skipping..
+    Error retrieving player name for [76561198210194124]. skipping..
+    Error retrieving player image for ジンマン [76561198202036310]. skipping..
+    Error retrieving player name for [76561198021090912]. skipping..
+    Error retrieving player name for [76561198262819604]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561198252417898]. skipping..
+    Error retrieving player name for [76561199194091160]. skipping..
+    Error retrieving player image for dümbelekçi [76561198305283740]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
