@@ -2146,3 +2146,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 20, 2022, 2:42 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for FILIAN&lt;3 [76561198826661736]. skipping..
+    Error retrieving player image for FLUX [76561197968802052]. skipping..
+    Error retrieving player image for Frasure [76561198160015110]. skipping..
+    Error retrieving player name for [76561197991723529]. skipping..
+    Error retrieving player image for Ganja [76561198420121261]. skipping..
+    Error retrieving player image for Brick Master [76561199062125346]. skipping..
+    Error retrieving player image for GG-Gamer [76561198119709222]. skipping..
+    Error retrieving player image for Goat Reliq [76561198096808194]. skipping..
+    Error retrieving player name for [76561199156342580]. skipping..
+    Error retrieving player name for [76561198169944335]. skipping..
+    Error retrieving player image for {S} [76561198063759829]. skipping..
+    Error retrieving player name for [76561199161530703]. skipping..
+    Error retrieving player image for Grymnir [76561197998967034]. skipping..
+    Error retrieving player image for ่่่่่่่ [76561199185210630]. skipping..
+    Error retrieving player image for Headache AKA Gail the Snail [76561197972390647]. skipping..
+    Error retrieving player image for NSH Gamixx(Hoang1900) [76561199005757759]. skipping..
+    Error retrieving player image for Hom67 [76561198017158853]. skipping..
+    Error retrieving player name for [76561199133505892]. skipping..
+    Error retrieving player image for hsuennn [76561198845672949]. skipping..
+    Error retrieving player name for [76561199088080942]. skipping..
+    Error retrieving player name for [76561198120032944]. skipping..
+    Error retrieving player name for [76561199039743431]. skipping..
+    Error retrieving player image for Im Serious [76561198116002109]. skipping..
+    Error retrieving player name for [76561199399673525]. skipping..
+    Error retrieving player image for Oxycodone [76561198720878601]. skipping..
+    Error retrieving player name for [76561198328388197]. skipping..
+    Error retrieving player name for [76561199304189313]. skipping..
+    Error retrieving player image for J.T. [76561198003184616]. skipping..
+    Error retrieving player name for [76561198387936561]. skipping..
+    Error retrieving player image for Jajami_O_Mate [76561198060522148]. skipping..
+    Error retrieving player name for [76561198136877812]. skipping..
+    Error retrieving player image for Jalapeno [76561198144844926]. skipping..
+    Error retrieving player name for [76561197999173629]. skipping..
+    Error retrieving player image for Jebras [76561198065478778]. skipping..
+    Error retrieving player name for [76561199250909621]. skipping..
+    Error retrieving player image for JeN [76561198000681107]. skipping..
+    Error retrieving player image for Jerry [76561198968360149]. skipping..
+    Error retrieving player image for Jetzon [76561198201033762]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
