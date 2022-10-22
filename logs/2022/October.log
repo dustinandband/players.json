@@ -2379,3 +2379,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 22, 2022, 2:32 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561199140231642]. skipping..
+    Error retrieving player image for Dr. Luigi [76561198021090912]. skipping..
+    Error retrieving player name for [76561198085370638]. skipping..
+    Error retrieving player name for [76561198026670415]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198106431732]. skipping..
+    Error retrieving player name for [76561199115881906]. skipping..
+    Error retrieving player name for [76561199236039925]. skipping..
+    Error retrieving player image for EssShadow [76561199166202304]. skipping..
+    Error retrieving player name for [76561199093280815]. skipping..
+    Error retrieving player image for FaTeD [76561197980946491]. skipping..
+    Error retrieving player image for figurante [76561198308053030]. skipping..
+    Error retrieving player name for [76561198826661736]. skipping..
+    Error retrieving player image for Kelvin Oorzy [76561199126902813]. skipping..
+    Error retrieving player image for kost [76561198020872320]. skipping..
+    Error retrieving player image for Le Malakis Séché [76561198117187682]. skipping..
+    Error retrieving player name for [76561199066113179]. skipping..
+    Error retrieving player image for Léo [76561198007330526]. skipping..
+    Error retrieving player name for [76561198131578112]. skipping..
+    Error retrieving player image for lol [76561198291723599]. skipping..
+    Error retrieving player image for RatTheRotten [76561198156756939]. skipping..
+    Error retrieving player name for [76561198399971120]. skipping..
+    Error retrieving player name for [76561198112046603]. skipping..
+    Error retrieving player image for LukanBBY [76561198451442151]. skipping..
+    Error retrieving player image for Flimbylquang [76561198030203745]. skipping..
+    Error retrieving player image for m.j [76561198124258845]. skipping..
+    Error retrieving player image for Mae676 [76561198448942601]. skipping..
+    Error retrieving player name for [76561198156307479]. skipping..
+    Error retrieving player image for Malthe [76561198178025655]. skipping..
+    Error retrieving player name for [76561198116214536]. skipping..
+    Error retrieving player image for masto [76561198803343905]. skipping..
+    Error retrieving player image for Mat [76561197970489390]. skipping..
+    Error retrieving player name for [76561198058176281]. skipping..
+    Error retrieving player name for [76561198077842298]. skipping..
+    Error retrieving player image for Mithrandir [76561198073390550]. skipping..
+    Error retrieving player name for [76561199077067216]. skipping..
+    Error retrieving player name for [76561198018469176]. skipping..
+    Error retrieving player image for Mr. SticKman [76561198073646869]. skipping..
+    Error retrieving player image for Nesisoth [76561197994287270]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
