@@ -2477,3 +2477,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 22, 2022, 4:44 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561199072393594]. skipping..
+    Error retrieving player name for [76561198344154104]. skipping..
+    Error retrieving player image for chaz [76561198169018697]. skipping..
+    Error retrieving player image for dom [76561198079289142]. skipping..
+    Error retrieving player name for [76561199219585469]. skipping..
+    Error retrieving player name for [76561198085370638]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for eph [76561199236039925]. skipping..
+    Error retrieving player image for EssShadow [76561199166202304]. skipping..
+    Error retrieving player image for figurante [76561198308053030]. skipping..
+    Error retrieving player image for fileteam6 [76561199121631074]. skipping..
+    Error retrieving player name for [76561197994982822]. skipping..
+    Error retrieving player name for [76561199276719851]. skipping..
+    Error retrieving player image for a546746956579907597587668675886 [76561199405030956]. skipping..
+    Error retrieving player image for glo [76561199218718045]. skipping..
+    Error retrieving player name for [76561198979388822]. skipping..
+    Error retrieving player image for Gris [76561198976237994]. skipping..
+    Error retrieving player name for [76561199161530703]. skipping..
+    Error retrieving player image for Hazzard [76561199094317013]. skipping..
+    Error retrieving player name for [76561197972390647]. skipping..
+    Error retrieving player image for HellishWoman [76561198060123351]. skipping..
+    Error retrieving player image for Hom67 [76561198017158853]. skipping..
+    Error retrieving player image for Hornet [76561198374167777]. skipping..
+    Error retrieving player name for [76561198206667383]. skipping..
+    Error retrieving player image for H¥$tɜЯi@ [76561199052474367]. skipping..
+    Error retrieving player image for iced [76561198018935368]. skipping..
+    Error retrieving player image for Sonata [76561199036235583]. skipping..
+    Error retrieving player image for Lumiel [76561198119556606]. skipping..
+    Error retrieving player name for [76561198030948275]. skipping..
+    Error retrieving player image for Malaki [76561198156307479]. skipping..
+    Error retrieving player image for Malthe [76561198178025655]. skipping..
+    Error retrieving player name for [76561198116214536]. skipping..
+    Error retrieving player name for [76561198079582732]. skipping..
+    Error retrieving player name for [76561197970489390]. skipping..
+    Error retrieving player name for [76561198271950040]. skipping..
+    Error retrieving player name for [76561198902616710]. skipping..
+    Error retrieving player image for Arrow [76561198077842298]. skipping..
+    Error retrieving player image for ミュウ★ [76561199077067216]. skipping..
+    Error retrieving player name for [76561198018469176]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
