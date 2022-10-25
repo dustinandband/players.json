@@ -2784,3 +2784,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 25, 2022, 8:48 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198328388197]. skipping..
+    Error retrieving player name for [76561199304189313]. skipping..
+    Error retrieving player image for Jebras [76561198065478778]. skipping..
+    Error retrieving player image for Jamal Murray [76561199375876039]. skipping..
+    Error retrieving player name for [76561198347907353]. skipping..
+    Error retrieving player image for Sabertooth [76561199004620308]. skipping..
+    Error retrieving player image for Dakari [76561198119677558]. skipping..
+    Error retrieving player name for [76561198161556190]. skipping..
+    Error retrieving player image for KrankZ [76561198079863290]. skipping..
+    Error retrieving player name for [76561198142070031]. skipping..
+    Error retrieving player name for [76561198104229129]. skipping..
+    Error retrieving player name for [76561199055843715]. skipping..
+    Error retrieving player name for [76561199066113179]. skipping..
+    Error retrieving player image for Leonastra [76561198077866532]. skipping..
+    Error retrieving player image for LIEQUDE [76561198877521182]. skipping..
+    Error retrieving player image for Light [76561198085462698]. skipping..
+    Error retrieving player image for Sonata [76561199036235583]. skipping..
+    Error retrieving player name for [76561198164852044]. skipping..
+    Error retrieving player name for [76561198210934887]. skipping..
+    Error retrieving player name for [76561198427027290]. skipping..
+    Error retrieving player image for LuckySpock [76561198075676109]. skipping..
+    Error retrieving player name for [76561198387065925]. skipping..
+    Error retrieving player name for [76561198079582732]. skipping..
+    Error retrieving player name for [76561198030948275]. skipping..
+    Error retrieving player image for Malaki [76561198156307479]. skipping..
+    Error retrieving player image for Mr.Alexfrlns [76561197989984935]. skipping..
+    Error retrieving player image for Mr.Py (python) [76561198831874360]. skipping..
+    Error retrieving player image for nazym [76561198120261609]. skipping..
+    Error retrieving player image for Sky [76561199124185453]. skipping..
+    Error retrieving player name for [76561198023593861]. skipping..
+    Error retrieving player name for [76561199183483174]. skipping..
+    Error retrieving player name for [76561198133095711]. skipping..
+    Error retrieving player image for Ralimu Strilem [76561198411010566]. skipping..
+    Error retrieving player name for [76561198131947160]. skipping..
+    Error retrieving player name for [76561198376857682]. skipping..
+    Error retrieving player name for [76561198014375811]. skipping..
+    Error retrieving player name for [76561199072482785]. skipping..
+    Error retrieving player name for [76561198122584217]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
