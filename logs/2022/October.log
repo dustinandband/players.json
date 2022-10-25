@@ -2833,3 +2833,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 25, 2022, 4:55 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561199229521993]. skipping..
+    Error retrieving player image for Pancakes [76561198000400799]. skipping..
+    Error retrieving player image for ben.willi96 [76561198871160881]. skipping..
+    Error retrieving player image for Contiello [76561198316879927]. skipping..
+    Error retrieving player image for Huggy [76561198070636407]. skipping..
+    Error retrieving player image for Cricket [76561198031494515]. skipping..
+    Error retrieving player image for DAGGER [76561199091211123]. skipping..
+    Error retrieving player image for Danilicius [76561197990099252]. skipping..
+    Error retrieving player image for dcutbtw [76561199065670640]. skipping..
+    Error retrieving player name for [76561197985496423]. skipping..
+    Error retrieving player name for [76561198287283412]. skipping..
+    Error retrieving player image for Demise [76561199033295541]. skipping..
+    Error retrieving player image for Gaming Time [76561198403177661]. skipping..
+    Error retrieving player image for l4d2 emo boy [76561198355604462]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player image for Dorotheus [76561198210194124]. skipping..
+    Error retrieving player image for ジンマン [76561198202036310]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player image for Dræghy [76561198252417898]. skipping..
+    Error retrieving player name for [76561198056298049]. skipping..
+    Error retrieving player name for [76561197963516972]. skipping..
+    Error retrieving player name for [76561198998259180]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198089463603]. skipping..
+    Error retrieving player image for ew502 [76561199193748141]. skipping..
+    Error retrieving player name for [76561199115881906]. skipping..
+    Error retrieving player name for [76561198163825955]. skipping..
+    Error retrieving player name for [76561198872283734]. skipping..
+    Error retrieving player name for [76561199093280815]. skipping..
+    Error retrieving player image for Fallen Angel (Crash Override) [76561198309087430]. skipping..
+    Error retrieving player image for FALLingorflYING [76561197979082192]. skipping..
+    Error retrieving player name for [76561197980946491]. skipping..
+    Error retrieving player image for Fenix [76561198353895793]. skipping..
+    Error retrieving player name for [76561198262538011]. skipping..
+    Error retrieving player name for [76561199121631074]. skipping..
+    Error retrieving player name for [76561198826661736]. skipping..
+    Error retrieving player image for fufighter [76561198003961356]. skipping..
+    Error retrieving player name for [76561198866287844]. skipping..
+    Error retrieving player image for gaussian_noise [76561198037162401]. skipping..
+    Error retrieving player image for GGMaster [76561198293307156]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
