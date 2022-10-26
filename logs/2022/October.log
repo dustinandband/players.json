@@ -2966,3 +2966,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 26, 2022, 8:34 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player image for ALL Hell Broke Loose [76561198442964629]. skipping..
+    Error retrieving player image for AllThemKids [76561199023397946]. skipping..
+    Error retrieving player image for grandass [76561198393103579]. skipping..
+    Error retrieving player image for Hype [76561198139383560]. skipping..
+    Error retrieving player image for astra [76561197966979210]. skipping..
+    Error retrieving player image for Azimuth [76561198015094232]. skipping..
+    Error retrieving player image for Namazaki [76561199075558631]. skipping..
+    Error retrieving player name for [76561198000400799]. skipping..
+    Error retrieving player name for [76561199071854789]. skipping..
+    Error retrieving player name for [76561198015992102]. skipping..
+    Error retrieving player name for [76561198420486066]. skipping..
+    Error retrieving player name for [76561198981608253]. skipping..
+    Error retrieving player image for bless [76561197977779376]. skipping..
+    Error retrieving player image for Blinky1_ [76561198043298385]. skipping..
+    Error retrieving player name for [76561197995542099]. skipping..
+    Error retrieving player name for [76561198103703261]. skipping..
+    Error retrieving player name for [76561198404658336]. skipping..
+    Error retrieving player name for [76561199307247615]. skipping..
+    Error retrieving player name for [76561198067582591]. skipping..
+    Error retrieving player image for gloom [76561198907343690]. skipping..
+    Error retrieving player name for [76561199068994932]. skipping..
+    Error retrieving player name for [76561198344154104]. skipping..
+    Error retrieving player image for Weekly Quest Enjoyer [76561198049226025]. skipping..
+    Error retrieving player name for [76561199323855171]. skipping..
+    Error retrieving player name for [76561198850428601]. skipping..
+    Error retrieving player name for [76561198432649990]. skipping..
+    Error retrieving player name for [76561198109596191]. skipping..
+    Error retrieving player image for Coach [76561198088691007]. skipping..
+    Error retrieving player image for colonel [76561199044807749]. skipping..
+    Error retrieving player name for [76561197977224004]. skipping..
+    Error retrieving player image for mad [76561199061083454]. skipping..
+    Error retrieving player image for Conflict_Int [76561198971418349]. skipping..
+    Error retrieving player name for [76561198835052331]. skipping..
+    Error retrieving player name for [76561198316879927]. skipping..
+    Error retrieving player name for [76561198395317483]. skipping..
+    Error retrieving player name for [76561199102042990]. skipping..
+    Error retrieving player image for Cowwy (Mr.Cow, Mooey) [76561198014940495]. skipping..
+    Error retrieving player name for [76561198070636407]. skipping..
+    Error retrieving player image for CR7  dabking [76561198263467343]. skipping..
+    Error retrieving player name for [76561198015168207]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
