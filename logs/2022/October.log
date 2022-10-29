@@ -3248,3 +3248,52 @@
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
     Error retrieving player image for Sirrah [76561198072355970]. skipping..
 
+
+-------- October 29, 2022, 2:13 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player image for AllThemKids [76561199023397946]. skipping..
+    Error retrieving player name for [76561198056795378]. skipping..
+    Error retrieving player name for [76561198126948615]. skipping..
+    Error retrieving player name for [76561198202829519]. skipping..
+    Error retrieving player image for grandass [76561198393103579]. skipping..
+    Error retrieving player name for [76561199407540825]. skipping..
+    Error retrieving player name for [76561198326702133]. skipping..
+    Error retrieving player image for Azimuth [76561198015094232]. skipping..
+    Error retrieving player name for [76561199075558631]. skipping..
+    Error retrieving player name for [76561198871160881]. skipping..
+    Error retrieving player image for Beowolf [76561198015992102]. skipping..
+    Error retrieving player image for BuтcнeяCaт™ [76561198067582591]. skipping..
+    Error retrieving player image for gloom [76561198907343690]. skipping..
+    Error retrieving player image for Green lartern [76561199068994932]. skipping..
+    Error retrieving player name for [76561199100764548]. skipping..
+    Error retrieving player name for [76561198344154104]. skipping..
+    Error retrieving player image for WATCHOUT! [76561198850428601]. skipping..
+    Error retrieving player name for [76561198088691007]. skipping..
+    Error retrieving player name for [76561198100185304]. skipping..
+    Error retrieving player name for [76561198158095029]. skipping..
+    Error retrieving player name for [76561198060862448]. skipping..
+    Error retrieving player image for Lyric [76561199383601345]. skipping..
+    Error retrieving player image for brah [76561199195087686]. skipping..
+    Error retrieving player image for demonskillings [76561199226019966]. skipping..
+    Error retrieving player image for Depressed Mage Named Vex [76561198077269608]. skipping..
+    Error retrieving player name for [76561198400814462]. skipping..
+    Error retrieving player name for [76561198093898528]. skipping..
+    Error retrieving player name for [76561198074443329]. skipping..
+    Error retrieving player name for [76561198403177661]. skipping..
+    Error retrieving player image for DMM [76561198245957624]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player image for Dr. Geralt [76561198170284175]. skipping..
+    Error retrieving player name for [76561198262819604]. skipping..
+    Error retrieving player name for [76561198853618018]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player image for DRN0167 [76561198862218560]. skipping..
+    Error retrieving player image for dümbelekçi [76561198305283740]. skipping..
+    Error retrieving player name for [76561197963516972]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199031464772]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
