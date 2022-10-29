@@ -3297,3 +3297,51 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 29, 2022, 8:53 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for ew502 [76561199193748141]. skipping..
+    Error retrieving player name for [76561199121631074]. skipping..
+    Error retrieving player image for Gotheintopy [76561198979388822]. skipping..
+    Error retrieving player image for Gris [76561198976237994]. skipping..
+    Error retrieving player image for Gumbo [76561198319673484]. skipping..
+    Error retrieving player image for ่่่ [76561199185210630]. skipping..
+    Error retrieving player image for pipa__pipa [76561199133505892]. skipping..
+    Error retrieving player image for Spooky JayTuut [76561197999173629]. skipping..
+    Error retrieving player name for [76561198251907108]. skipping..
+    Error retrieving player name for [76561199187264412]. skipping..
+    Error retrieving player name for [76561198379942909]. skipping..
+    Error retrieving player image for Pingu [76561198841203355]. skipping..
+    Error retrieving player name for [76561198057920934]. skipping..
+    Error retrieving player name for [76561199130413814]. skipping..
+    Error retrieving player image for Bishop [76561197984544626]. skipping..
+    Error retrieving player image for 明宏 [76561198090986325]. skipping..
+    Error retrieving player name for [76561198053255092]. skipping..
+    Error retrieving player image for Coach [76561198103692345]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player image for angelo [76561198106292405]. skipping..
+    Error retrieving player name for [76561199186820331]. skipping..
+    Error retrieving player name for [76561197990096341]. skipping..
+    Error retrieving player image for commando d elite beret vert [76561198170061789]. skipping..
+    Error retrieving player name for [76561198428241964]. skipping..
+    Error retrieving player name for [76561199077679454]. skipping..
+    Error retrieving player image for Dr.Philatemyass [76561198853055650]. skipping..
+    Error retrieving player name for [76561198369439304]. skipping..
+    Error retrieving player image for Ergast3r [76561197991787254]. skipping..
+    Error retrieving player image for Ever heard of Updog? [76561198393343025]. skipping..
+    Error retrieving player image for Fox_Killer [76561199061317052]. skipping..
+    Error retrieving player name for [76561198306077603]. skipping..
+    Error retrieving player image for Hayai 速い [76561198048328201]. skipping..
+    Error retrieving player name for [76561197995318559]. skipping..
+    Error retrieving player image for Readu [76561198055580369]. skipping..
+    Error retrieving player name for [76561198299029675]. skipping..
+    Error retrieving player image for sleepy rose [76561198804317742]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+    Error retrieving player image for Jeep [76561199250909621]. skipping..
+
