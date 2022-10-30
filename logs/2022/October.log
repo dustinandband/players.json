@@ -3449,3 +3449,52 @@
     Error retrieving player name for [76561198011488181]. skipping..
     Error retrieving player name for [76561199075571842]. skipping..
 
+
+-------- October 30, 2022, 4:40 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198400814462]. skipping..
+    Error retrieving player name for [76561198372597585]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player image for Maverik [76561198056298049]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198359582774]. skipping..
+    Error retrieving player name for [76561197972390647]. skipping..
+    Error retrieving player image for HeXaah [76561198035757304]. skipping..
+    Error retrieving player image for Jyper [76561198175916311]. skipping..
+    Error retrieving player name for [76561199403344999]. skipping..
+    Error retrieving player image for Mongolord [76561198834278860]. skipping..
+    Error retrieving player name for [76561198034014393]. skipping..
+    Error retrieving player image for kashm1r2 [76561198192783941]. skipping..
+    Error retrieving player name for [76561199126902813]. skipping..
+    Error retrieving player name for [76561198066022608]. skipping..
+    Error retrieving player name for [76561198161556190]. skipping..
+    Error retrieving player name for [76561198894489305]. skipping..
+    Error retrieving player name for [76561198326223953]. skipping..
+    Error retrieving player image for Kris [76561198276605936]. skipping..
+    Error retrieving player image for fnaffan87 [76561198142070031]. skipping..
+    Error retrieving player image for Ethan [76561198104229129]. skipping..
+    Error retrieving player image for LIEQUDE [76561198877521182]. skipping..
+    Error retrieving player image for Light [76561198085462698]. skipping..
+    Error retrieving player name for [76561198131578112]. skipping..
+    Error retrieving player image for lornN [76561198164852044]. skipping..
+    Error retrieving player name for [76561198427027290]. skipping..
+    Error retrieving player image for LuckySpock [76561198075676109]. skipping..
+    Error retrieving player name for [76561198448942601]. skipping..
+    Error retrieving player image for Arrow [76561198077842298]. skipping..
+    Error retrieving player image for MuRd0cx [76561199066689170]. skipping..
+    Error retrieving player image for Myelinated23 [76561198839661474]. skipping..
+    Error retrieving player image for Pingu [76561198841203355]. skipping..
+    Error retrieving player image for Playahater [76561198003271554]. skipping..
+    Error retrieving player name for [76561198008841397]. skipping..
+    Error retrieving player name for [76561198037050637]. skipping..
+    Error retrieving player name for [76561198111294663]. skipping..
+    Error retrieving player name for [76561197983243568]. skipping..
+    Error retrieving player name for [76561198379727420]. skipping..
+    Error retrieving player image for Rough Remi [76561198122584217]. skipping..
+    Error retrieving player image for S.T.A.R.S Ruii [76561198079380694]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
