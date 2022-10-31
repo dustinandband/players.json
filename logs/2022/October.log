@@ -3515,3 +3515,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- October 31, 2022, 8:42 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player image for ben [76561198034747800]. skipping..
+    Error retrieving player name for [76561198871160881]. skipping..
+    Error retrieving player name for [76561198015992102]. skipping..
+    Error retrieving player image for Joshe [76561198981608253]. skipping..
+    Error retrieving player name for [76561199141205551]. skipping..
+    Error retrieving player name for [76561198092673993]. skipping..
+    Error retrieving player image for BruXIV [76561198404658336]. skipping..
+    Error retrieving player name for [76561198090006286]. skipping..
+    Error retrieving player name for [76561198067582591]. skipping..
+    Error retrieving player image for dev. [76561198868135520]. skipping..
+    Error retrieving player name for [76561197981630216]. skipping..
+    Error retrieving player name for [76561198088691007]. skipping..
+    Error retrieving player name for [76561199013379456]. skipping..
+    Error retrieving player image for Coincident [76561197962342292]. skipping..
+    Error retrieving player image for Spoon [76561198100185304]. skipping..
+    Error retrieving player image for Phantom [76561198158095029]. skipping..
+    Error retrieving player name for [76561198060862448]. skipping..
+    Error retrieving player name for [76561199140231642]. skipping..
+    Error retrieving player name for [76561198887634121]. skipping..
+    Error retrieving player name for [76561199383601345]. skipping..
+    Error retrieving player name for [76561199195087686]. skipping..
+    Error retrieving player image for DEYTER [76561198093898528]. skipping..
+    Error retrieving player name for [76561198403177661]. skipping..
+    Error retrieving player image for kiper [76561198959804539]. skipping..
+    Error retrieving player image for Crocodileateachild_FBLIVE [76561198355604462]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561198998259180]. skipping..
+    Error retrieving player name for [76561198370133463]. skipping..
+    Error retrieving player image for Edga [76561198057903283]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for GGMaster [76561198293307156]. skipping..
+    Error retrieving player name for [76561199113834676]. skipping..
+    Error retrieving player name for [76561199203484258]. skipping..
+    Error retrieving player name for [76561198063759829]. skipping..
+    Error retrieving player image for Miyoki [76561199161530703]. skipping..
+    Error retrieving player name for [76561199185210630]. skipping..
+    Error retrieving player image for Hakapaka [76561198113530684]. skipping..
+    Error retrieving player image for henry (Raptor) [76561198116585225]. skipping..
+    Error retrieving player image for Herc7 [76561197970633684]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
