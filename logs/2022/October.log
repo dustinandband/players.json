@@ -3498,3 +3498,20 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- October 31, 2022, 2:54 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for jim [76561198965101242]. skipping..
+    Error retrieving player image for Kaigin [76561198069859323]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player name for [76561198018807758]. skipping..
+    Error retrieving player name for [76561198046330574]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for cowboyhiphop [76561199102042990]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+
