@@ -12,3 +12,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- November 1, 2022, 8:40 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Monster56k [76561198896887823]. skipping..
+    Error retrieving player name for [76561198379942909]. skipping..
+    Error retrieving player image for poltergenic [76561198111294663]. skipping..
+    Error retrieving player image for Сãpo Śilv [76561198797260366]. skipping..
+    Error retrieving player image for PRIMO [76561199281045078]. skipping..
+    Error retrieving player image for rasta-fxrian [76561198835015223]. skipping..
+    Error retrieving player image for rd [76561198269436948]. skipping..
+    Error retrieving player name for [76561198055352572]. skipping..
+    Error retrieving player name for [76561198079380694]. skipping..
+    Error retrieving player image for no mercy pro [76561199123026305]. skipping..
+    Error retrieving player name for [76561198176892879]. skipping..
+    Error retrieving player name for [76561198075943481]. skipping..
+    Error retrieving player name for [76561199114406864]. skipping..
+    Error retrieving player image for Sh4dow [76561199048362870]. skipping..
+    Error retrieving player image for Shadow_Rico [76561198006221004]. skipping..
+    Error retrieving player name for [76561199012775950]. skipping..
+    Error retrieving player name for [76561198011488181]. skipping..
+    Error retrieving player image for Simonopolis [76561197986719557]. skipping..
+    Error retrieving player name for [76561199075571842]. skipping..
+    Error retrieving player name for [76561198217434644]. skipping..
+    Error retrieving player image for Sloth [76561198316074996]. skipping..
+    Error retrieving player image for Snow ❄ [76561199006886269]. skipping..
+    Error retrieving player image for Somnician [76561198135986445]. skipping..
+    Error retrieving player image for Spuddley [76561198936754072]. skipping..
+    Error retrieving player name for [76561198253796832]. skipping..
+    Error retrieving player name for [76561199130413814]. skipping..
+    Error retrieving player image for Staty58 [76561199005056670]. skipping..
+    Error retrieving player name for [76561198035410824]. skipping..
+    Error retrieving player name for [76561197961833753]. skipping..
+    Error retrieving player name for [76561199350904982]. skipping..
+    Error retrieving player image for Sweet Potato Pie [76561199091748811]. skipping..
+    Error retrieving player image for swing [76561198317720202]. skipping..
+    Error retrieving player name for [76561197987864717]. skipping..
+    Error retrieving player name for [76561198383008636]. skipping..
+    Error retrieving player image for ʎddɐɥ [76561198009090481]. skipping..
+    Error retrieving player image for мár&#039;c [76561198151331857]. skipping..
+    Error retrieving player name for [76561198029763066]. skipping..
+    Error retrieving player image for Ӕяoη ҒεηiӼ™ [76561198017278596]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
