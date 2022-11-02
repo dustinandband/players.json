@@ -102,3 +102,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- November 2, 2022, 8:38 am --------
+
+  Logged events:
+    Error retrieving player name for [76561197994103059]. skipping..
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561199323855171]. skipping..
+    Error retrieving player name for [76561198868135520]. skipping..
+    Error retrieving player image for Cricket [76561198031494515]. skipping..
+    Error retrieving player image for Cyber [76561198017881537]. skipping..
+    Error retrieving player name for [76561198060862448]. skipping..
+    Error retrieving player image for DAGGER [76561199091211123]. skipping..
+    Error retrieving player name for [76561198798707751]. skipping..
+    Error retrieving player name for [76561198887634121]. skipping..
+    Error retrieving player image for demonskillings [76561199226019966]. skipping..
+    Error retrieving player image for Depressed Mage Named Vex [76561198077269608]. skipping..
+    Error retrieving player image for Dissident [76561198005720534]. skipping..
+    Error retrieving player name for [76561198242818876]. skipping..
+    Error retrieving player image for ジンマン [76561198202036310]. skipping..
+    Error retrieving player name for [76561198085370638]. skipping..
+    Error retrieving player name for [76561198262819604]. skipping..
+    Error retrieving player name for [76561198853618018]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561198252417898]. skipping..
+    Error retrieving player image for duck [76561198137825363]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198158097654]. skipping..
+    Error retrieving player name for [76561199064307651]. skipping..
+    Error retrieving player name for [76561198262538011]. skipping..
+    Error retrieving player name for [76561199121631074]. skipping..
+    Error retrieving player name for [76561197991723529]. skipping..
+    Error retrieving player name for [76561199062125346]. skipping..
+    Error retrieving player image for Gents [76561198028741818]. skipping..
+    Error retrieving player image for Guz [76561198231965792]. skipping..
+    Error retrieving player image for Hawkens [76561198064817566]. skipping..
+    Error retrieving player image for HellishWoman [76561198060123351]. skipping..
+    Error retrieving player image for Hello [76561198009174822]. skipping..
+    Error retrieving player image for henry (Raptor) [76561198116585225]. skipping..
+    Error retrieving player image for HeXaah [76561198035757304]. skipping..
+    Error retrieving player image for PixxY [76561199083643055]. skipping..
+    Error retrieving player image for pipa__pipa [76561199133505892]. skipping..
+    Error retrieving player image for J.T. [76561198003184616]. skipping..
+    Error retrieving player name for [76561198387936561]. skipping..
+    Error retrieving player name for [76561198136877812]. skipping..
+    Error retrieving player image for Keegan [76561198026039452]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
