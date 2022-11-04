@@ -263,3 +263,52 @@
     Error retrieving player name for [76561199046920118]. skipping..
     Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
 
+
+-------- November 4, 2022, 8:37 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561199018465013]. skipping..
+    Error retrieving player name for [76561198113752650]. skipping..
+    Error retrieving player name for [76561198018844869]. skipping..
+    Error retrieving player name for [76561198420486066]. skipping..
+    Error retrieving player image for BLEEDtheFREAK [76561198092673993]. skipping..
+    Error retrieving player name for [76561198404658336]. skipping..
+    Error retrieving player name for [76561199307247615]. skipping..
+    Error retrieving player name for [76561198067582591]. skipping..
+    Error retrieving player image for Captain Price [76561198028711945]. skipping..
+    Error retrieving player name for [76561198049226025]. skipping..
+    Error retrieving player image for Mannen Ranko [76561198172949193]. skipping..
+    Error retrieving player name for [76561198169018697]. skipping..
+    Error retrieving player image for Uluodv [76561198432649990]. skipping..
+    Error retrieving player image for mad [76561199061083454]. skipping..
+    Error retrieving player name for [76561198971418349]. skipping..
+    Error retrieving player name for [76561198070636407]. skipping..
+    Error retrieving player name for [76561198263467343]. skipping..
+    Error retrieving player name for [76561198100185304]. skipping..
+    Error retrieving player image for Cyber [76561198017881537]. skipping..
+    Error retrieving player name for [76561198158095029]. skipping..
+    Error retrieving player image for d( &#039;-_-)b^Zanuff [76561198060862448]. skipping..
+    Error retrieving player name for [76561199140231642]. skipping..
+    Error retrieving player image for DARK [76561198086587943]. skipping..
+    Error retrieving player image for dcutbtw [76561199065670640]. skipping..
+    Error retrieving player name for [76561198093898528]. skipping..
+    Error retrieving player name for [76561198074443329]. skipping..
+    Error retrieving player image for dom [76561198079289142]. skipping..
+    Error retrieving player name for [76561199219585469]. skipping..
+    Error retrieving player image for ジンマン [76561198202036310]. skipping..
+    Error retrieving player name for [76561198170284175]. skipping..
+    Error retrieving player name for [76561198021090912]. skipping..
+    Error retrieving player image for Moment [76561198262819604]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player image for DRN0167 [76561198862218560]. skipping..
+    Error retrieving player image for Dræghy [76561198252417898]. skipping..
+    Error retrieving player image for duck [76561198137825363]. skipping..
+    Error retrieving player name for [76561199194091160]. skipping..
+    Error retrieving player name for [76561198056298049]. skipping..
+    Error retrieving player name for [76561197963516972]. skipping..
+    Error retrieving player name for [76561198998259180]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
