@@ -735,3 +735,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- November 8, 2022, 8:39 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198049226025]. skipping..
+    Error retrieving player name for [76561198169018697]. skipping..
+    Error retrieving player name for [76561199122567585]. skipping..
+    Error retrieving player image for Coa [76561198404559997]. skipping..
+    Error retrieving player image for dumdass [76561199013379456]. skipping..
+    Error retrieving player image for Coincident [76561197962342292]. skipping..
+    Error retrieving player image for CR7  dabking [76561198263467343]. skipping..
+    Error retrieving player image for DARK [76561198086587943]. skipping..
+    Error retrieving player name for [76561198021090912]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561197963516972]. skipping..
+    Error retrieving player name for [76561198998259180]. skipping..
+    Error retrieving player name for [76561198370133463]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199156342580]. skipping..
+    Error retrieving player image for san [76561198392877845]. skipping..
+    Error retrieving player image for Harami2LUXE [76561198306742577]. skipping..
+    Error retrieving player image for henry (Raptor) [76561198116585225]. skipping..
+    Error retrieving player image for Herc7 [76561197970633684]. skipping..
+    Error retrieving player name for [76561198225877012]. skipping..
+    Error retrieving player image for hkl8 [76561199193113427]. skipping..
+    Error retrieving player image for NSH Gamixx(Hoang1900) [76561199005757759]. skipping..
+    Error retrieving player image for iced [76561198018935368]. skipping..
+    Error retrieving player name for [76561199140471570]. skipping..
+    Error retrieving player name for [76561199126902813]. skipping..
+    Error retrieving player name for [76561198092631763]. skipping..
+    Error retrieving player image for Freeza [76561198066022608]. skipping..
+    Error retrieving player name for [76561198161556190]. skipping..
+    Error retrieving player image for KrAyZ [76561197979489003]. skipping..
+    Error retrieving player image for Kyu [76561198028000345]. skipping..
+    Error retrieving player image for ThiefMarisa [76561198844879532]. skipping..
+    Error retrieving player name for [76561198014346642]. skipping..
+    Error retrieving player name for [76561198088846224]. skipping..
+    Error retrieving player name for [76561198207410728]. skipping..
+    Error retrieving player name for [76561198009529394]. skipping..
+    Error retrieving player image for Monster56k [76561198896887823]. skipping..
+    Error retrieving player name for [76561199066689170]. skipping..
+    Error retrieving player name for [76561198135701124]. skipping..
+    Error retrieving player image for n1ko [76561198313415399]. skipping..
+    Error retrieving player name for [76561198026525515]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
