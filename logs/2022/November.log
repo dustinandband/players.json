@@ -784,3 +784,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- November 8, 2022, 4:41 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player image for ben.willi96 [76561198871160881]. skipping..
+    Error retrieving player image for bless [76561197977779376]. skipping..
+    Error retrieving player image for gloom [76561198907343690]. skipping..
+    Error retrieving player image for Cavern Crawl Part II Enjoyer [76561198049226025]. skipping..
+    Error retrieving player name for [76561199387836027]. skipping..
+    Error retrieving player image for Chiper_007 [76561198281830301]. skipping..
+    Error retrieving player image for ntrude [76561198109596191]. skipping..
+    Error retrieving player image for OmeGa [76561198835052331]. skipping..
+    Error retrieving player name for [76561198395317483]. skipping..
+    Error retrieving player image for cowboyhiphop [76561199102042990]. skipping..
+    Error retrieving player image for coZ [76561198080776508]. skipping..
+    Error retrieving player image for CR7  dabking [76561198263467343]. skipping..
+    Error retrieving player name for [76561198031494515]. skipping..
+    Error retrieving player image for Spoon [76561198100185304]. skipping..
+    Error retrieving player name for [76561198017881537]. skipping..
+    Error retrieving player image for Phantom [76561198158095029]. skipping..
+    Error retrieving player image for dcutbtw [76561199065670640]. skipping..
+    Error retrieving player name for [76561198887634121]. skipping..
+    Error retrieving player name for [76561199195087686]. skipping..
+    Error retrieving player name for [76561198077269608]. skipping..
+    Error retrieving player name for [76561198400814462]. skipping..
+    Error retrieving player name for [76561198074443329]. skipping..
+    Error retrieving player image for Die Demon [76561198322387009]. skipping..
+    Error retrieving player image for Dissident [76561198005720534]. skipping..
+    Error retrieving player name for [76561198242818876]. skipping..
+    Error retrieving player image for Dolphin [76561198056582175]. skipping..
+    Error retrieving player name for [76561198202036310]. skipping..
+    Error retrieving player name for [76561198021090912]. skipping..
+    Error retrieving player image for Dr.Cocktail [76561198085370638]. skipping..
+    Error retrieving player name for [76561198026670415]. skipping..
+    Error retrieving player name for [76561198262819604]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561198252417898]. skipping..
+    Error retrieving player name for [76561199194091160]. skipping..
+    Error retrieving player name for [76561198305283740]. skipping..
+    Error retrieving player name for [76561199015718944]. skipping..
+    Error retrieving player name for [76561198056298049]. skipping..
+    Error retrieving player name for [76561197963516972]. skipping..
+    Error retrieving player image for Dziublan [76561198130203570]. skipping..
+    Error retrieving player name for [76561198998259180]. skipping..
+
+  Errors:
+    helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
+
