@@ -133,7 +133,7 @@ function GeneratePlayersArray($table, $row_name, $row_authID)
 	while($row = $result->fetch_assoc())
 	{
 		// assume steam is down if we can't get player names or images for this many clients..
-		if ($Error_Count > 40)
+		if ($Error_Count > 300)
 		{
 			$logFile->LogFatalError("helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... ");
 		}
