@@ -78,7 +78,7 @@
 {
 	"name":"Ashanna",
 	"Steam64ID":"76561198371378953",
-	"picture":"https://avatars.akamai.steamstatic.com/c76cab5b7a9ae067cdbf5da7ebc99b752b23b0be_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/fcfe787f594b6a9e5b8c668cada84a7c249cd4e4_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198371378953/"
 },
 {
@@ -226,7 +226,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198836274533/"
 },
 {
-	"name":"Boo",
+	"name":"Dibbo",
 	"Steam64ID":"76561198032105883",
 	"picture":"https://avatars.akamai.steamstatic.com/ae540d37eef3cfcff194166b7325340a698fe0e0_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198032105883/"
@@ -1076,6 +1076,12 @@
 	"Steam64ID":"76561198880380858",
 	"picture":"https://avatars.akamai.steamstatic.com/0bc39effad6df85c400e1091feaab365ab3a7cd8_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198880380858/"
+},
+{
+	"name":"Sonata",
+	"Steam64ID":"76561199036235583",
+	"picture":"https://avatars.akamai.steamstatic.com/e5a0d09d900ff82bc053912bf993bdf58285c789_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561199036235583/"
 },
 {
 	"name":"Splint Chesthair",
