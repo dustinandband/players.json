@@ -120,7 +120,7 @@
 {
 	"name":"Ashanna",
 	"Steam64ID":"76561198371378953",
-	"picture":"https://avatars.akamai.steamstatic.com/1052adaf5667099caebc0de11f33be28b7666443_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/100fc6f4e3850be5c4cb8db95d4f60d4cf25bbcc_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198371378953/"
 },
 {
@@ -328,7 +328,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198836274533/"
 },
 {
-	"name":"Flow",
+	"name":"Dib",
 	"Steam64ID":"76561198032105883",
 	"picture":"https://avatars.akamai.steamstatic.com/ae540d37eef3cfcff194166b7325340a698fe0e0_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198032105883/"
@@ -1068,7 +1068,7 @@
 {
 	"name":"Feng",
 	"Steam64ID":"76561198953406488",
-	"picture":"https://avatars.akamai.steamstatic.com/e9eb506d861d45af8801c416e5037d1cf463ce8a_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/075669a67617eb1cfb5dcb01273f93a4e2f62ef6_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198953406488/"
 },
 {
@@ -1864,6 +1864,12 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198021353295/"
 },
 {
+	"name":"ⓡⓟⓟ ⋆",
+	"Steam64ID":"76561198013939486",
+	"picture":"https://avatars.akamai.steamstatic.com/6c887e499714be2ee14d62d2b20e8d84249f3b10_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198013939486/"
+},
+{
 	"name":"♡ DeltΔ ♡",
 	"Steam64ID":"76561198287283412",
 	"picture":"https://avatars.akamai.steamstatic.com/fc6d2471cf02bc4d24b671ac617779c8411b6ef7_full.jpg",
@@ -1876,16 +1882,34 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198263368313/"
 },
 {
+	"name":"张晚晚",
+	"Steam64ID":"76561198977818341",
+	"picture":"https://avatars.akamai.steamstatic.com/1fe4d81072e5dcb84256f39fa69bb6ebce1d27f9_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198977818341/"
+},
+{
 	"name":"有点小同",
 	"Steam64ID":"76561198812422646",
 	"picture":"https://avatars.akamai.steamstatic.com/28cc54352606e7d866ba88bd46e185984db21835_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198812422646/"
 },
 {
+	"name":"HF",
+	"Steam64ID":"76561198431152120",
+	"picture":"https://avatars.akamai.steamstatic.com/659c63b5d61c220469d6909e10ccc2f4128969d7_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198431152120/"
+},
+{
 	"name":"铜锣烧",
 	"Steam64ID":"76561198224905136",
 	"picture":"https://avatars.akamai.steamstatic.com/61c1233b6fe0d164a8875dacd2507f66a56671ef_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198224905136/"
+},
+{
+	"name":"우동",
+	"Steam64ID":"76561198353356912",
+	"picture":"https://avatars.akamai.steamstatic.com/50f7bd6ba7be4b0975b24b9153d08f2da02aed9d_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198353356912/"
 },
 {
 	"name":"🙾🙾Electric Lime🙾🙾",
