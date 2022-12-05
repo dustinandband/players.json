@@ -2426,3 +2426,34 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- December 5, 2022, 8:53 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for J0sh [76561198387936561]. skipping..
+    Error retrieving player name for [76561199067822183]. skipping..
+    Error retrieving player image for SeminoaR [76561198013835892]. skipping..
+    Error retrieving player name for [76561197999623615]. skipping..
+    Error retrieving player image for SLAP PACKAGE [76561198018344984]. skipping..
+    Error retrieving player image for sLeeK [76561197981727999]. skipping..
+    Error retrieving player name for [76561199127379211]. skipping..
+    Error retrieving player image for 77777 [76561198070029632]. skipping..
+    Error retrieving player image for 567325 [76561199387540859]. skipping..
+    Error retrieving player name for [76561198119692725]. skipping..
+    Error retrieving player image for bigjimboycam [76561199239692865]. skipping..
+    Error retrieving player name for [76561198004672144]. skipping..
+    Error retrieving player image for Wock [76561198356853241]. skipping..
+    Error retrieving player name for [76561198446328055]. skipping..
+    Error retrieving player image for Clouded Vision [76561198249357908]. skipping..
+    Error retrieving player image for Cozy [76561198025043241]. skipping..
+    Error retrieving player name for [76561199227563129]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player image for Sol[HIM/HIM] [76561197960699473]. skipping..
+    Error retrieving player image for ToOoP [76561198017063981]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+
