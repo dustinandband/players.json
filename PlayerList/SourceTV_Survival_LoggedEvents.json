@@ -10,7 +10,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198041122092/"
 },
 {
-	"name":"Envyy",
+	"name":"nv",
 	"Steam64ID":"76561199067172666",
 	"picture":"https://avatars.akamai.steamstatic.com/424affe2555204f56660ff9f3ce6d8766db3d71e_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199067172666/"
@@ -84,7 +84,7 @@
 {
 	"name":"kimmich",
 	"Steam64ID":"76561198334237318",
-	"picture":"https://avatars.akamai.steamstatic.com/689bc700426603822073ce71223960ddc3a61e7e_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/4ac7631bf01442d95b7bff95a92511f1039d0eb1_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198334237318/"
 },
 {
@@ -226,7 +226,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198836274533/"
 },
 {
-	"name":"Dibbo",
+	"name":"Corrupted",
 	"Steam64ID":"76561198032105883",
 	"picture":"https://avatars.akamai.steamstatic.com/ae540d37eef3cfcff194166b7325340a698fe0e0_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198032105883/"
@@ -714,7 +714,7 @@
 {
 	"name":"Big Smoke",
 	"Steam64ID":"76561198018713049",
-	"picture":"https://avatars.akamai.steamstatic.com/5bc16cd061719a2d3f6b1f9c36ac57b069eb0721_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/ee9d0eb29bcaaade7e5bc99dcf39110e0c6ec9a1_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198018713049/"
 },
 {
@@ -1110,7 +1110,7 @@
 {
 	"name":"Spuddley",
 	"Steam64ID":"76561198936754072",
-	"picture":"https://avatars.akamai.steamstatic.com/e6aa68a976e70a66ffe835683f645af649bedd25_full.jpg",
+	"picture":"https://avatars.akamai.steamstatic.com/103b0c86a028f2de08c4a9f337f8d67fe2b3cc90_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198936754072/"
 },
 {
@@ -1256,6 +1256,12 @@
 	"Steam64ID":"76561198097700212",
 	"picture":"https://avatars.akamai.steamstatic.com/561ec73465638821f372b0c72dfb514438ad9000_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198097700212/"
+},
+{
+	"name":"Vlasty",
+	"Steam64ID":"76561198054658942",
+	"picture":"https://avatars.akamai.steamstatic.com/085b824e2c6051a7d65ab6634d02f6e758abde71_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198054658942/"
 },
 {
 	"name":"weeb",
