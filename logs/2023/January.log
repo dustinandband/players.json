@@ -5630,3 +5630,52 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- January 21, 2023, 4:52 pm --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for Ùŋ∂ęƦĢØ [76561198139512645]. skipping..
+    Error retrieving player name for [76561197971376141]. skipping..
+    Error retrieving player name for [76561199227563129]. skipping..
+    Error retrieving player image for ★Thug-Life★ [76561197998177692]. skipping..
+    Error retrieving player image for I hate l4d2 [76561199256530648]. skipping..
+    Error retrieving player name for [76561199386855874]. skipping..
+    Error retrieving player name for [76561197990096341]. skipping..
+    Error retrieving player name for [76561198128771178]. skipping..
+    Error retrieving player name for [76561198171652507]. skipping..
+    Error retrieving player image for Glaurung2k7 [76561198042079279]. skipping..
+    Error retrieving player name for [76561198014634220]. skipping..
+    Error retrieving player image for IVV4 [76561198194356583]. skipping..
+    Error retrieving player image for Jimmy Rustles [76561197970221907]. skipping..
+    Error retrieving player image for Jraaved [76561199112117235]. skipping..
+    Error retrieving player image for LA1 Anchor [76561199240594245]. skipping..
+    Error retrieving player name for [76561198010087638]. skipping..
+    Error retrieving player name for [76561199148938496]. skipping..
+    Error retrieving player image for Toxic [76561199089294807]. skipping..
+    Error retrieving player name for [76561199100696028]. skipping..
+    Error retrieving player image for Yozeru [76561198237018094]. skipping..
+    Error retrieving player name for [76561199061252652]. skipping..
+    Error retrieving player image for ピンポンプロ [76561199244523148]. skipping..
+    Error retrieving player image for 慈悲の影 (alt) [76561198845346361]. skipping..
+    Error retrieving player name for [76561198835791176]. skipping..
+    Error retrieving player name for [76561198812422646]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+    Error retrieving player name for [76561199085708100]. skipping..
+    Error retrieving player image for LazyVip [76561199417169682]. skipping..
+    Error retrieving player name for [76561199200072978]. skipping..
+    Error retrieving player name for [76561198018713049]. skipping..
+    Error retrieving player image for Malthe [76561198178025655]. skipping..
+    Error retrieving player name for [76561198114837892]. skipping..
+    Error retrieving player name for [76561199077067216]. skipping..
+    Error retrieving player name for [76561198018706932]. skipping..
+    Error retrieving player image for paiGOD [76561198145577813]. skipping..
+    Error retrieving player image for Yomra [76561199213416617]. skipping..
+    Error retrieving player name for [76561197987864717]. skipping..
+    Error retrieving player name for [76561199093614183]. skipping..
+    Error retrieving player name for [76561198090986325]. skipping..
+
