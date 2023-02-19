@@ -1,5 +1,5 @@
 
--------- February 19, 2023, 8:56 am --------  
+-------- February 19, 2023, 4:57 pm --------  
 Consider adding the following steam64IDs to includes/player_aliases.php:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) |  
@@ -7,7 +7,7 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561199402613107](https://steamcommunity.com/profiles/76561199402613107) | 585                        | [link](https://steamcommunity.com/profiles/76561199402613107/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561199338981955](https://steamcommunity.com/profiles/76561199338981955) | 406                        | [link](https://steamcommunity.com/profiles/76561199338981955/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198169805453](https://steamcommunity.com/profiles/76561198169805453) | 259                        | [link](https://steamcommunity.com/profiles/76561198169805453/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
-| [76561199133505892](https://steamcommunity.com/profiles/76561199133505892) | 252                        | [link](https://steamcommunity.com/profiles/76561199133505892/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
+| [76561199133505892](https://steamcommunity.com/profiles/76561199133505892) | 254                        | [link](https://steamcommunity.com/profiles/76561199133505892/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198012521226](https://steamcommunity.com/profiles/76561198012521226) | 232                        | [link](https://steamcommunity.com/profiles/76561198012521226/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198210934887](https://steamcommunity.com/profiles/76561198210934887) | 201                        | [link](https://steamcommunity.com/profiles/76561198210934887/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198136877812](https://steamcommunity.com/profiles/76561198136877812) | 191                        | [link](https://steamcommunity.com/profiles/76561198136877812/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
@@ -153,6 +153,7 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198341647407](https://steamcommunity.com/profiles/76561198341647407) | 26                        | [link](https://steamcommunity.com/profiles/76561198341647407/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198836028206](https://steamcommunity.com/profiles/76561198836028206) | 26                        | [link](https://steamcommunity.com/profiles/76561198836028206/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561197966979210](https://steamcommunity.com/profiles/76561197966979210) | 25                        | [link](https://steamcommunity.com/profiles/76561197966979210/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
+| [76561198053268195](https://steamcommunity.com/profiles/76561198053268195) | 25                        | [link](https://steamcommunity.com/profiles/76561198053268195/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198104229129](https://steamcommunity.com/profiles/76561198104229129) | 25                        | [link](https://steamcommunity.com/profiles/76561198104229129/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198196948610](https://steamcommunity.com/profiles/76561198196948610) | 25                        | [link](https://steamcommunity.com/profiles/76561198196948610/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198830351616](https://steamcommunity.com/profiles/76561198830351616) | 25                        | [link](https://steamcommunity.com/profiles/76561198830351616/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
@@ -164,7 +165,6 @@ Consider adding the following steam64IDs to includes/player_aliases.php:
 | [76561198973644329](https://steamcommunity.com/profiles/76561198973644329) | 24                        | [link](https://steamcommunity.com/profiles/76561198973644329/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561199093280815](https://steamcommunity.com/profiles/76561199093280815) | 24                        | [link](https://steamcommunity.com/profiles/76561199093280815/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561199138550494](https://steamcommunity.com/profiles/76561199138550494) | 24                        | [link](https://steamcommunity.com/profiles/76561199138550494/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
-| [76561198053268195](https://steamcommunity.com/profiles/76561198053268195) | 23                        | [link](https://steamcommunity.com/profiles/76561198053268195/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198105817964](https://steamcommunity.com/profiles/76561198105817964) | 23                        | [link](https://steamcommunity.com/profiles/76561198105817964/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198841203355](https://steamcommunity.com/profiles/76561198841203355) | 23                        | [link](https://steamcommunity.com/profiles/76561198841203355/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
 | [76561198978385866](https://steamcommunity.com/profiles/76561198978385866) | 23                        | [link](https://steamcommunity.com/profiles/76561198978385866/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  
