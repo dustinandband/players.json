@@ -81,7 +81,7 @@ function FindMissingAuthIDs($table)
 		for ($i = 1; $i <= 4; $i++)
 		{
 			$offset = "p{$i}_authID";
-			$query = "select $offset from `$table`;";
+			$query = "select DISTINCT $offset from `$table`;";
 			if (!$result = $mysqli->query($query))
 			{
 				$logFile->LogError("helpers.php : FindMissingAuthIDs() : MySQL error:\n$mysqli->error \n     query:\n    $query");
@@ -101,7 +101,7 @@ function FindMissingAuthIDs($table)
 	||		$table === "SourceTV_Survival_ConnectionLog"
 	||		$table === "SourceTV_Survival_PlayerClips")
 	{
-		$query = "select authID from `$table`;";
+		$query = "select DISTINCT authID from `$table`;";
 		if (!$result = $mysqli->query($query))
 		{
 			$logFile->LogError("helpers.php : FindMissingAuthIDs() : MySQL error:\n$mysqli->error \n     query:\n    $query");
@@ -118,7 +118,7 @@ function FindMissingAuthIDs($table)
 	// OnLogAction_Logs
 	elseif ($table === "OnLogAction_Logs")
 	{
-		$query = "select client_authID, target_authID from `$table`;";
+		$query = "select DISTINCT client_authID, target_authID from `$table`;";
 		if (!$result = $mysqli->query($query))
 		{
 			$logFile->LogError("helpers.php : FindMissingAuthIDs() : MySQL error:\n$mysqli->error \n     query:\n    $query");
