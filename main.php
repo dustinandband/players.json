@@ -24,7 +24,6 @@ $g_aMissingPlayers = array(); // not cleared
 /* Correct each alias within the DB tables */
 foreach ($tables as $table)
 {
-	UpdatePlayerNamesInDB($table); // correct names in DB table
 	FindMissingAuthIDs($table); // find names not yet defined in player_aliases.php
 	
 	// reset these each iteration
