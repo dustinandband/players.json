@@ -2282,3 +2282,60 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- February 22, 2023, 8:54 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for KannoJoe [76561199229101228]. skipping..
+    Error retrieving player image for kearney [76561198097238343]. skipping..
+    Error retrieving player name for [76561198854412600]. skipping..
+    Error retrieving player image for Pure Luck [76561199030784563]. skipping..
+    Error retrieving player image for SamuraiSpirit + [76561198243088658]. skipping..
+    Error retrieving player image for MoreClay [76561198072100423]. skipping..
+    Error retrieving player name for [76561199190356602]. skipping..
+    Error retrieving player image for mrekk [76561199189837590]. skipping..
+    Error retrieving player image for Mrs Darling [76561198073850450]. skipping..
+    Error retrieving player name for [76561198401146698]. skipping..
+    Error retrieving player name for [76561198275504091]. skipping..
+    Error retrieving player name for [76561198172092483]. skipping..
+    Error retrieving player name for [76561199194854501]. skipping..
+    Error retrieving player name for [76561199227563129]. skipping..
+    Error retrieving player image for Tenthousand [76561198077505334]. skipping..
+    Error retrieving player name for [76561199345703856]. skipping..
+    Error retrieving player image for Thegame470 [76561199209774181]. skipping..
+    Error retrieving player name for [76561198990005620]. skipping..
+    Error retrieving player image for Ash Williams [76561198225186568]. skipping..
+    Error retrieving player name for [76561199229997810]. skipping..
+    Error retrieving player name for [76561198048162264]. skipping..
+    Error retrieving player name for [76561199092888619]. skipping..
+    Error retrieving player image for Firestar [76561198148904105]. skipping..
+    Error retrieving player image for ̲̅FREDΖ̲̅™NL [76561197988034335]. skipping..
+    Error retrieving player image for Skiggy [76561199048681872]. skipping..
+    Error retrieving player name for [76561199205413112]. skipping..
+    Error retrieving player image for Fulgator[FR] [76561198004800782]. skipping..
+    Error retrieving player image for heroinoe [76561198839621975]. skipping..
+    Error retrieving player name for [76561198339320922]. skipping..
+    Error retrieving player name for [76561198095403623]. skipping..
+    Error retrieving player image for Melon [76561198156919205]. skipping..
+    Error retrieving player name for [76561199120185966]. skipping..
+    Error retrieving player image for Thunder [76561198015715720]. skipping..
+    Error retrieving player image for Uncle Meat [76561197995317590]. skipping..
+    Error retrieving player image for 貓の報恩๑大貓 [76561198439668007]. skipping..
+    Error retrieving player name for [76561198846209474]. skipping..
+    Error retrieving player image for Ayk [76561198046076932]. skipping..
+    Error retrieving player name for [76561198985455849]. skipping..
+    Error retrieving player image for artzygmoder [76561198426279692]. skipping..
+    Error retrieving player image for I hate l4d2 [76561199256530648]. skipping..
+    Error retrieving player image for BJORNATHAN [76561197990096341]. skipping..
+    Error retrieving player name for [76561198833622152]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+    Error retrieving player image for RGD [76561198169805453]. skipping..
+    Error retrieving player image for SirKull [76561198043342860]. skipping..
+    Error retrieving player image for SLAP PACKAGE [76561198018344984]. skipping..
+    Error retrieving player name for [76561197976862054]. skipping..
+
