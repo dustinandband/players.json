@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Run NameCorrection.php
-      run: |
-        chmod 755 NameCorrection.php && ./NameCorrection.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
     - name: Run main.php
       run: |
         chmod 755 helper-scripts/KeyCheck.sh && ./helper-scripts/KeyCheck.sh
