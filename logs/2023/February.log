@@ -2648,3 +2648,16 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- February 23, 2023, 8:56 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561198172092483]. skipping..
+    Error retrieving player name for [76561199227563129]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+
