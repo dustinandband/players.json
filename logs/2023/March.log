@@ -2859,3 +2859,28 @@
   Errors:
     helpers.php : GeneratePlayersArray() : Steam is probably down. Aborting... 
 
+
+-------- March 6, 2023, 8:58 am --------
+
+  Logged events:
+    Error retrieving player name for [76561198399505840]. skipping..
+    Error retrieving player name for [76561198043045620]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player image for ε [76561198037050637]. skipping..
+    Error retrieving player image for salad [76561198176892879]. skipping..
+    Error retrieving player image for Sallen [76561199062351778]. skipping..
+    Error retrieving player image for SCaliN [76561198011786361]. skipping..
+    Error retrieving player name for [76561198223272720]. skipping..
+    Error retrieving player image for scout [76561198000789017]. skipping..
+    Error retrieving player name for [76561198013835892]. skipping..
+    Error retrieving player name for [76561197999623615]. skipping..
+    Error retrieving player image for Shaft [76561199012775950]. skipping..
+    Error retrieving player name for [76561198011488181]. skipping..
+    Error retrieving player image for Silent_hysteria [76561199085553834]. skipping..
+    Error retrieving player name for [76561198172092483]. skipping..
+    Error retrieving player name for [76561199227563129]. skipping..
+    Error retrieving player name for [76561199220150809]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [76561199046920118]. skipping..
+    Error retrieving player name for [STEAM_ID_STOP_IGNORING_]. skipping..
+
