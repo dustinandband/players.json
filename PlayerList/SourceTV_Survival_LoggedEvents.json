@@ -562,7 +562,7 @@
 	"CommunityURL":"https://steamcommunity.com/profiles/76561198060522148/"
 },
 {
-	"name":"K",
+	"name":"kadan",
 	"Steam64ID":"76561199176301569",
 	"picture":"https://avatars.akamai.steamstatic.com/d9b82953729f7c48802a5c8a7f854486e62f379b_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199176301569/"
@@ -728,6 +728,12 @@
 	"Steam64ID":"76561199137963364",
 	"picture":"https://avatars.akamai.steamstatic.com/a6559691ee49f1c3c0f3cd1892c09b6351de9762_full.jpg",
 	"CommunityURL":"https://steamcommunity.com/profiles/76561199137963364/"
+},
+{
+	"name":"Luna",
+	"Steam64ID":"76561198024295939",
+	"picture":"https://avatars.akamai.steamstatic.com/aca09b9e2e6eb2620527b1cec8ff12555a597395_full.jpg",
+	"CommunityURL":"https://steamcommunity.com/profiles/76561198024295939/"
 },
 {
 	"name":"m.j",
