@@ -2,37 +2,30 @@
 
 <?php
 
-include_once "includes/connection.php";
-include_once "includes/player_aliases.php";
+include_once "includes/autoloader.php";
 
-// DB tables
-$tables =  array(
-	"SourceTV_Survival_Main",
-	"SourceTV_Survival_LoggedEvents",
-	"SourceTV_Survival_ConnectionLog",
-	"SourceTV_Survival_PlayerClips",
-	"OnLogAction_Logs"
-);
 
-$logFile = new buildLogFile;
+main();
 
-foreach ($tables as $table)
+function main()
 {
-	UpdatePlayerNamesInDB($table);
+	/* iterate each table and correct names within the database */
+	foreach(data::$db_tables as $table)
+	{
+		UpdatePlayerNamesInDB($table);
+	}
 }
 
 function UpdatePlayerNamesInDB($table)
 {
-	global $mysqli, $logFile, $player_aliases, $steamid_ignore;
+	$mysqli = connection::establishDBConnection();
 	
-	$iTotal = count($player_aliases);
 	$sql_multi_query = "";
 	$query_limit = 50;
 	
-	foreach ($player_aliases as $authID => $name)
+	foreach (data::$player_aliases as $authID => $name)
 	{
-		// skip deleted steam accounts
-		if (in_array($authID, $steamid_ignore))
+		if (in_array($authID, data::$steamid_ignore))
 		{
 			continue;
 		}
@@ -67,19 +60,23 @@ function UpdatePlayerNamesInDB($table)
 		
 		else
 		{
+			$logFile = new logFile;
 			$logFile -> LogFatalError("Table '$table' not yet defined in UpdatePlayerNamesInDB()");
 		}
 		
 		// flush so the query doesn't get too big
 		if (substr_count( $sql_multi_query, "\n" ) > $query_limit)
 		{
-			$mysqli->multi_query($sql_multi_query);
+			connection::multiquery_and_close_connection($sql_multi_query, true);
 			$sql_multi_query = "";
 		}
 	}
 	
 	if (!empty($sql_multi_query))
 	{
-		$mysqli->multi_query($sql_multi_query);
+		connection::multiquery_and_close_connection($sql_multi_query, true);
+		$sql_multi_query = "";
 	}
+	
+	connection::KillDBConnection($mysqli);
 }

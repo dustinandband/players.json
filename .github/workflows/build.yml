@@ -1,6 +1,7 @@
 name: Generate log file
 
 on:
+    push:
     schedule:
         - cron: '0 */8 * * *' # Every 8 hours update player list and correct names in DB
 
@@ -9,10 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Run main.php
+    - name: Correct names in DB
       run: |
         chmod 755 helper-scripts/KeyCheck.sh && ./helper-scripts/KeyCheck.sh
-        chmod 755 main.php && ./main.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
+        chmod 755 NameCorrection.php && ./NameCorrection.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
+    
+    - name: Scout out missing aliases not yet in data::$player_aliases
+      run: |
+        chmod 755 MissingAliases.php && ./MissingAliases.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
+    
+    - name: Generate the json files for drop-down menus
+      run: |
+        chmod 755 GenerateJSONFile.php && ./GenerateJSONFile.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
+        
     - name: Commit files
       run: |
         git config user.name 'github-actions[bot]'
