@@ -8,7 +8,7 @@ Used to 1) correct names within various DB tables and 2) generate json lists (us
 
 ### Admins  
 
-Before editing player_aliases.php:  
+Before editing data::$player_aliases (located in classes/data.php):  
 1) Check that the cron job isn't about to execute (executes every 8 hours, so only edit if last commit is 6 hours or less ago)  
 2) update your local folder (`git pull`)  
 3) run `php -l` on the player_aliases.php file, or paste the contents into an online PHP editor to make sure the [format is correct](https://i.imgur.com/jnfHoug.jpg)  
