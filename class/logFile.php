@@ -123,7 +123,14 @@ class logFile {
 		
 		array_multisort( array_column($MissingPlayersArray, "count"), SORT_DESC, $MissingPlayersArray );
 		
-		$missingPlayersFile = getcwd() . "/logs/MissingPlayers.md";
+		$dirname = getcwd() . "/logs/";
+		if (!is_dir($dirname))
+		{
+			echo "Creating directory: $dirname" . PHP_EOL;
+			mkdir($dirname, 0755, true);
+		}
+
+		$missingPlayersFile = getcwd() . $dirname . "MissingPlayers.md";
 		$fp = fopen($missingPlayersFile, 'w');
 		$date = date("F j, Y, g:i a");
 		fwrite($fp, "\n-------- $date --------  \n");
