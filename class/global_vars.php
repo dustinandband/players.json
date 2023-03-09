@@ -109,7 +109,32 @@ class global_vars {
 			}
 		}
 		
-		array_push(self::$values['SteamIDs_missingAliases'], array('ID' => $authID, 'count' => $count));
+		// Seeing unique previous aliases makes it easier to know what they go by
+$query =<<<querystring
+SELECT p1_name as 'name' FROM `SourceTV_Survival_Main` WHERE p1_authID = '$authID'
+UNION
+SELECT p2_name as 'name' FROM `SourceTV_Survival_Main` WHERE p2_authID = '$authID'
+UNION
+SELECT p3_name as 'name' FROM `SourceTV_Survival_Main` WHERE p3_authID = '$authID'
+UNION
+SELECT p4_name as 'name' FROM `SourceTV_Survival_Main` WHERE p4_authID = '$authID'
+ORDER BY name ASC;
+querystring;
+		
+		$PreviousAliases = [];
+		if ($result = $mysqli->query($query))
+		{
+			while($row = $result->fetch_assoc())
+			{
+				// Filter since getting displayed in markdown file
+				$name = $row['name'];
+				$name = htmlspecialchars($name, ENT_QUOTES, 'UTF-8');
+				$name = str_replace('\\','\\\\', $name); // needed ?
+				array_push($PreviousAliases, $name);
+			}
+		}
+		
+		array_push(self::$values['SteamIDs_missingAliases'], array('ID' => $authID, 'count' => $count, 'aliases' => $PreviousAliases));
 		connection::KillDBConnection($mysqli);
 	}
 }

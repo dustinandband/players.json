@@ -136,15 +136,21 @@ class logFile {
 		fwrite($fp, "\n-------- $date --------  \n");
 		fwrite($fp, "Consider adding the following steam64IDs to data::player_aliases:  \n");
 
-		fwrite($fp, "\n| SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) |  ");
-		fwrite($fp, "\n|-------------------|------------------------------|------------------------------|  ");
+		fwrite($fp, "\n| SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  ");
+		fwrite($fp, "\n|-------------------|------------------------------|------------------------------|------------------------------|  ");
 
 		foreach ($MissingPlayersArray as $index => $key)
 		{
 			$auth64 = $key['ID'];
 			$count = $key['count'];
+			$aliases = $key['aliases'];
+			$aliases_str = "";
+			foreach($aliases as $alias) {
+				$aliases_str .= $alias . ", ";
+			}
+			$aliases_str = rtrim($aliases_str);
 			
-			fwrite($fp, "\n| [$auth64](https://steamcommunity.com/profiles/$auth64) | $count                        | [link](https://steamcommunity.com/profiles/$auth64/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) |  ");
+			fwrite($fp, "\n| [$auth64](https://steamcommunity.com/profiles/$auth64) | $count                        | [link](https://steamcommunity.com/profiles/$auth64/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | $aliases_str                       | ");
 		}
 
 		fclose($fp);
