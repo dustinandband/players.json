@@ -130,7 +130,7 @@ class logFile {
 			mkdir($dirname, 0755, true);
 		}
 
-		$missingPlayersFile = getcwd() . $dirname . "MissingPlayers.md";
+		$missingPlayersFile = $dirname . "MissingPlayers.md";
 		$fp = fopen($missingPlayersFile, 'w');
 		$date = date("F j, Y, g:i a");
 		fwrite($fp, "\n-------- $date --------  \n");
