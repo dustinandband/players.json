@@ -148,7 +148,7 @@ class logFile {
 			foreach($aliases as $alias) {
 				$aliases_str .= $alias . ", ";
 			}
-			$aliases_str = rtrim($aliases_str);
+			$aliases_str = rtrim($aliases_str, ", ");
 			
 			fwrite($fp, "\n| [$auth64](https://steamcommunity.com/profiles/$auth64) | $count                        | [link](https://steamcommunity.com/profiles/$auth64/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | $aliases_str                       | ");
 		}
