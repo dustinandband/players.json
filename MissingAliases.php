@@ -47,6 +47,12 @@ queryString;
 		PushToCheckedSteamAccounts($AuthID, $iter, $result->num_rows);
 	}
 	
+	// takes ~ 11 minutes for previous operation, reestablish
+	// DB connection to avoid "mysql server has gone away" error
+	connection::KillDBConnection($mysqli);
+	$mysqli = connection::establishDBConnection();
+	
+	
 	// 2nd query, sourceTV logged events
 	$query = "SELECT DISTINCT `authID` FROM `SourceTV_Survival_LoggedEvents`;";
 	if (!$result = $mysqli->query($query))
