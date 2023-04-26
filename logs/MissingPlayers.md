@@ -1,5 +1,5 @@
 
--------- April 26, 2023, 1:49 am --------  
+-------- April 26, 2023, 8:56 am --------  
 Consider adding the following steam64IDs to data::player_aliases:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  
@@ -32,8 +32,8 @@ Consider adding the following steam64IDs to data::player_aliases:
 | [76561198343325180](https://steamcommunity.com/profiles/76561198343325180) | 118                        | [link](https://steamcommunity.com/profiles/76561198343325180/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | 081                       | 
 | [76561198425552176](https://steamcommunity.com/profiles/76561198425552176) | 113                        | [link](https://steamcommunity.com/profiles/76561198425552176/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | josh3, lesbian, lesbians are just dick vegans, me                       | 
 | [76561198308059023](https://steamcommunity.com/profiles/76561198308059023) | 106                        | [link](https://steamcommunity.com/profiles/76561198308059023/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | トウカイテイオー, 小鳥遊ホシノ, 従井ノラ                       | 
+| [76561198308806604](https://steamcommunity.com/profiles/76561198308806604) | 105                        | [link](https://steamcommunity.com/profiles/76561198308806604/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Gods, xG0DS B3LI3V3Rx, XprofitX, Zoey                       | 
 | [76561198824284276](https://steamcommunity.com/profiles/76561198824284276) | 105                        | [link](https://steamcommunity.com/profiles/76561198824284276/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Pspspspspspspsps, Psychogoddess, Psychonoobess                       | 
-| [76561198308806604](https://steamcommunity.com/profiles/76561198308806604) | 103                        | [link](https://steamcommunity.com/profiles/76561198308806604/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Gods, xG0DS B3LI3V3Rx, XprofitX, Zoey                       | 
 | [76561198278435873](https://steamcommunity.com/profiles/76561198278435873) | 95                        | [link](https://steamcommunity.com/profiles/76561198278435873/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Doggygamer21                       | 
 | [76561198859779708](https://steamcommunity.com/profiles/76561198859779708) | 95                        | [link](https://steamcommunity.com/profiles/76561198859779708/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | trip                       | 
 | [76561198344154104](https://steamcommunity.com/profiles/76561198344154104) | 94                        | [link](https://steamcommunity.com/profiles/76561198344154104/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | BULLETSTORM781, Cave, evaC, Flamming_FatCat, GGImposter, Pasta Friend                       | 
