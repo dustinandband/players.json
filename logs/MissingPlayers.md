@@ -1,5 +1,5 @@
 
--------- May 1, 2023, 2:01 am --------  
+-------- May 1, 2023, 8:49 am --------  
 Consider adding the following steam64IDs to data::player_aliases:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  
@@ -79,9 +79,9 @@ Consider adding the following steam64IDs to data::player_aliases:
 | [76561199027973548](https://steamcommunity.com/profiles/76561199027973548) | 56                        | [link](https://steamcommunity.com/profiles/76561199027973548/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | ..., ª, ª??                       | 
 | [76561199229521993](https://steamcommunity.com/profiles/76561199229521993) | 56                        | [link](https://steamcommunity.com/profiles/76561199229521993/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Azna, cummings, jockey, mrcummings, ruki, strafe                       | 
 | [76561199236039925](https://steamcommunity.com/profiles/76561199236039925) | 56                        | [link](https://steamcommunity.com/profiles/76561199236039925/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | eph, Ερн, ξρн                       | 
+| [76561199384830911](https://steamcommunity.com/profiles/76561199384830911) | 56                        | [link](https://steamcommunity.com/profiles/76561199384830911/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | tacticalblitz                       | 
 | [76561199403344999](https://steamcommunity.com/profiles/76561199403344999) | 55                        | [link](https://steamcommunity.com/profiles/76561199403344999/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Dramatyk, J¡, J¡°, Unpr¡s                       | 
 | [76561199066689170](https://steamcommunity.com/profiles/76561199066689170) | 54                        | [link](https://steamcommunity.com/profiles/76561199066689170/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | MuRd0cx                       | 
-| [76561199384830911](https://steamcommunity.com/profiles/76561199384830911) | 54                        | [link](https://steamcommunity.com/profiles/76561199384830911/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | tacticalblitz                       | 
 | [76561197994753311](https://steamcommunity.com/profiles/76561197994753311) | 53                        | [link](https://steamcommunity.com/profiles/76561197994753311/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | YEAHBABY                       | 
 | [76561198135458514](https://steamcommunity.com/profiles/76561198135458514) | 53                        | [link](https://steamcommunity.com/profiles/76561198135458514/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | dj_mcblyat, Mentlegen Terrorist                       | 
 | [76561198008841397](https://steamcommunity.com/profiles/76561198008841397) | 51                        | [link](https://steamcommunity.com/profiles/76561198008841397/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Plot, Plotting, Plot_Twist                       | 
