@@ -108,6 +108,13 @@ class global_vars {
 				$count = $row['COUNT(*)'];
 			}
 		}
+
+		// don't bother
+		if ($count < 10)
+		{
+			connection::KillDBConnection($mysqli);
+			return;
+		}
 		
 		// Seeing unique previous aliases makes it easier to know what they go by
 $query =<<<querystring
