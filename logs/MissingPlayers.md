@@ -1,5 +1,5 @@
 
--------- August 15, 2023, 1:34 am --------  
+-------- August 15, 2023, 8:46 am --------  
 Consider adding the following steam64IDs to data::player_aliases:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  
