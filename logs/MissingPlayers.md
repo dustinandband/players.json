@@ -1,5 +1,5 @@
 
--------- September 27, 2023, 1:40 am --------  
+-------- September 27, 2023, 8:42 am --------  
 Consider adding the following steam64IDs to data::player_aliases:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  
