@@ -1,5 +1,5 @@
 
--------- October 2, 2023, 1:38 am --------  
+-------- October 2, 2023, 8:48 am --------  
 Consider adding the following steam64IDs to data::player_aliases:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  
@@ -402,6 +402,7 @@ Consider adding the following steam64IDs to data::player_aliases:
 | [76561198306957936](https://steamcommunity.com/profiles/76561198306957936) | 10                        | [link](https://steamcommunity.com/profiles/76561198306957936/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Green and Retired, Hax                       | 
 | [76561198394944418](https://steamcommunity.com/profiles/76561198394944418) | 10                        | [link](https://steamcommunity.com/profiles/76561198394944418/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | ermalix, kimchi, knx, yui                       | 
 | [76561198435496926](https://steamcommunity.com/profiles/76561198435496926) | 10                        | [link](https://steamcommunity.com/profiles/76561198435496926/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | yNn-₉₆₆                       | 
+| [76561198445293809](https://steamcommunity.com/profiles/76561198445293809) | 10                        | [link](https://steamcommunity.com/profiles/76561198445293809/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | bleeds, rd                       | 
 | [76561198852564504](https://steamcommunity.com/profiles/76561198852564504) | 10                        | [link](https://steamcommunity.com/profiles/76561198852564504/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Ector361                       | 
 | [76561198883382135](https://steamcommunity.com/profiles/76561198883382135) | 10                        | [link](https://steamcommunity.com/profiles/76561198883382135/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | ATHENA ツ, Deez Nutz ツ, R e n t h a l, Renthal                       | 
 | [76561198967512243](https://steamcommunity.com/profiles/76561198967512243) | 10                        | [link](https://steamcommunity.com/profiles/76561198967512243/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | CRY, 从海边来的鱼, 八重神子, 向晚出发, 撑阳伞的女人                       | 
