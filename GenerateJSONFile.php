@@ -42,7 +42,7 @@ function GenerateJsonFile($file)
 	$url_string = resetURLString();
 	$PlayersInfo = [];
 	
-	$numItems = count($steamIDs);
+	$numSteamIDs = count($steamIDs);
 	$iter_resetable = $iter = 0;
 	
 	foreach($steamIDs as $steamID)
@@ -50,7 +50,7 @@ function GenerateJsonFile($file)
 		$url_string .= sprintf("%s,", $steamID);
 		
 		// Make API call, reset $iter_resetable & $url_string
-		if (++$iter_resetable === API_LIMIT || ++$iter === $numItems)
+		if (++$iter_resetable === API_LIMIT || ++$iter === $numSteamIDs)
 		{
 			$url_string = rtrim($url_string, ',');
 			
@@ -81,12 +81,13 @@ function GenerateJsonFile($file)
 			}
 			else
 			{
-				$logFile->LogFatalError("Call to steam API returned null. Steam probably down...");
+				$errormsg = sprintf("Call to steam API returned null. Steam probably down...\nFunction call: file_get_contents(%s)", $url_string);
+				$logFile->LogFatalError($errormsg);
 			}
 			
 			$url_string = resetURLString();
 			$iter_resetable = 0;
-			if ($numItems === $iter) {break;}
+			if ($numSteamIDs === $iter) {break;}
 		}
 	}
 	
