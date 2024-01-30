@@ -81,7 +81,8 @@ function GenerateJsonFile($file)
 			}
 			else
 			{
-				$errormsg = sprintf("Call to steam API returned null. Steam probably down...\nFunction call: file_get_contents(%s)", $url_string);
+				// TODO log function call that caused error
+				$errormsg = sprintf("Call to steam API returned null. Steam probably down...");
 				$logFile->LogFatalError($errormsg);
 			}
 			
