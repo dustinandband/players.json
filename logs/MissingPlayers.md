@@ -1,5 +1,5 @@
 
--------- May 15, 2024, 1:59 am --------  
+-------- May 15, 2024, 8:59 am --------  
 Consider adding the following steam64IDs to data::player_aliases:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  
