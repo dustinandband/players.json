@@ -4,3 +4,15 @@
   Errors:
     Call to steam API returned null. Steam probably down...
 
+
+-------- October 7, 2024, 9:04 am --------
+
+  Errors:
+    global_vars::PushValue(): Array key doesn't exist: 'steamIDs_gasconfigs_v2_logs'
+
+
+-------- October 7, 2024, 9:04 am --------
+
+  Errors:
+    Call to steam API returned null. Steam probably down...
+
