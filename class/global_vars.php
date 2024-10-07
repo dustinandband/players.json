@@ -16,6 +16,7 @@ class global_vars {
 		// globals
 		$values['steamIDs_OnLogAction_Logs'] = []; // OnLogAction_Logs table
 		$values['steamIDs_SourceTV_Survival_LoggedEvents'] = []; // SourceTV_Survival_LoggedEvents table
+		$values['steamIDs_gasconfigs_v2_logs'] = []; // gasconfigs_v2_logs table
 		$values['SteamIDs_missingAliases'] = []; // aliases not yet defined in data::$player_aliases
 		$values['steamIDs_everyone'] = []; // unique steamIDs of everyone in the DB
 		self::$values = $values;
@@ -45,8 +46,8 @@ class global_vars {
 			if (in_array($authID, self::$values[$values_key]) === false)
 			{
 				array_push(self::$values[$values_key], $authID);
-				return;
 			}
+			return;
 		}
 		array_push(self::$values[$values_key], $authID);
 	}
