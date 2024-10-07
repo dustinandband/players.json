@@ -15,6 +15,7 @@ function main()
 	logFile::GenerateSteamIDsArray_jsonFile("steamIDs_everyone", "SourceTV_Survival_Main.json");
 	logFile::GenerateSteamIDsArray_jsonFile("steamIDs_SourceTV_Survival_LoggedEvents", "SourceTV_Survival_LoggedEvents.json");
 	logFile::GenerateSteamIDsArray_jsonFile("steamIDs_OnLogAction_Logs", "OnLogAction_Logs.json");
+	logFile::GenerateSteamIDsArray_jsonFile("steamIDs_gasconfigs_v2_logs", "steamIDs_gasconfigs_v2_logs.json");
 }
 
 function FindMissingAuthIDs()
@@ -93,6 +94,26 @@ queryString;
 		}
 	}
 	
+	connection::KillDBConnection($mysqli);
+	$mysqli = connection::establishDBConnection();
+
+	// 4th query, gas configs
+	$query = "SELECT DISTINCT steam64ID_user_who_loaded_config as authID FROM `gasconfigs_v2_logs`;";
+	if (!$result = $mysqli->query($query))
+	{
+		$logFile->LogError("MySQL error:\n$mysqli->error \n     query:\n    $query");
+		return;
+	}
+	else
+	{
+		while($row = $result->fetch_assoc())
+		{
+			$AuthID = $row['authID'];
+			if (!is_numeric($AuthID) || in_array($AuthID, data::$steamid_ignore)) { continue;}
+			global_vars::PushValue("steamIDs_gasconfigs_v2_logs", $AuthID, true);
+		}
+	}
+
 	connection::KillDBConnection($mysqli);
 }
 

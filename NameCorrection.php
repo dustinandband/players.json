@@ -58,6 +58,15 @@ function UpdatePlayerNamesInDB($table)
 			$sql_multi_query .= $query . "\n";
 		}
 		
+		elseif ($table === "gasconfigs_v2_logs")
+		{
+			$query = "UPDATE `$table` SET owner_name = \"$name\" WHERE owner_steam64ID = \"$authID\";";
+			$sql_multi_query .= $query . "\n";
+			
+			$query = "UPDATE `$table` SET name_user_who_loaded_config = \"$name\" WHERE steam64ID_user_who_loaded_config = \"$authID\";";
+			$sql_multi_query .= $query . "\n";
+		}
+
 		else
 		{
 			$logFile = new logFile;

@@ -8,7 +8,8 @@ class data {
 			"SourceTV_Survival_LoggedEvents",
 			"SourceTV_Survival_ConnectionLog",
 			"SourceTV_Survival_PlayerClips",
-			"OnLogAction_Logs"
+			"OnLogAction_Logs",
+			"gasconfigs_v2_logs"
 	);
 	
 	/*
