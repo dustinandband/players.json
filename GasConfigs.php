@@ -79,7 +79,8 @@ $MapsReadable = array(
 	"c14m2_lighthouse" => "Lighthouse",
 	
 	// custom maps
-	"l4d2_syberianhusky_c1m3b" => "Simplex Survival"
+	"l4d2_syberianhusky_c1m3b" => "Simplex Survival",
+	"c6m3_oldport" => "Old Port Passing"
 );
 
 RetrieveJSONFiles();
