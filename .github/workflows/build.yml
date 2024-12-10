@@ -22,9 +22,9 @@ jobs:
       run: |
         chmod 755 GenerateJSONFile.php && ./GenerateJSONFile.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
         
-    - name: run gasconfigs script
-      run: |
-        chmod 755 GasConfigs.php && ./GasConfigs.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
+    #- name: run gasconfigs script
+    #  run: |
+    #    chmod 755 GasConfigs.php && ./GasConfigs.php ${{ secrets.GM_MYSQL_HOST }} ${{ secrets.GM_MYSQL_DB_IN_USE }} ${{ secrets.GM_MYSQL_USER }} ${{ secrets.GM_MYSQL_PASS }} ${{ secrets.STEAM_WEB_API }}
         
     - name: Commit files
       run: |
