@@ -1,5 +1,5 @@
 
--------- May 9, 2025, 2:59 am --------  
+-------- May 9, 2025, 9:14 am --------  
 Consider adding the following steam64IDs to data::player_aliases:  
 
 | SteamID           | Rounds logged in SourceTV DB | Screenshots (verification) | Previous aliases |  
@@ -488,6 +488,7 @@ Consider adding the following steam64IDs to data::player_aliases:
 | [76561198973644329](https://steamcommunity.com/profiles/76561198973644329) | 24                        | [link](https://steamcommunity.com/profiles/76561198973644329/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Pingu                       | 
 | [76561199093280815](https://steamcommunity.com/profiles/76561199093280815) | 24                        | [link](https://steamcommunity.com/profiles/76561199093280815/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | faka, xFaka, xFaka7                       | 
 | [76561199138550494](https://steamcommunity.com/profiles/76561199138550494) | 24                        | [link](https://steamcommunity.com/profiles/76561199138550494/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Walter                       | 
+| [76561199167164511](https://steamcommunity.com/profiles/76561199167164511) | 24                        | [link](https://steamcommunity.com/profiles/76561199167164511/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | crying, illuminae, moonlight_travlr                       | 
 | [76561199512122730](https://steamcommunity.com/profiles/76561199512122730) | 24                        | [link](https://steamcommunity.com/profiles/76561199512122730/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | FLxRV_                       | 
 | [76561199682786596](https://steamcommunity.com/profiles/76561199682786596) | 24                        | [link](https://steamcommunity.com/profiles/76561199682786596/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Papy Blossom                       | 
 | [76561198018224761](https://steamcommunity.com/profiles/76561198018224761) | 23                        | [link](https://steamcommunity.com/profiles/76561198018224761/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Spotth                       | 
@@ -499,7 +500,6 @@ Consider adding the following steam64IDs to data::player_aliases:
 | [76561199033295541](https://steamcommunity.com/profiles/76561199033295541) | 23                        | [link](https://steamcommunity.com/profiles/76561199033295541/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | Demise                       | 
 | [76561199039743431](https://steamcommunity.com/profiles/76561199039743431) | 23                        | [link](https://steamcommunity.com/profiles/76561199039743431/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | iduxiu                       | 
 | [76561199054508385](https://steamcommunity.com/profiles/76561199054508385) | 23                        | [link](https://steamcommunity.com/profiles/76561199054508385/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | 59, jizzle                       | 
-| [76561199167164511](https://steamcommunity.com/profiles/76561199167164511) | 23                        | [link](https://steamcommunity.com/profiles/76561199167164511/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | crying, illuminae, moonlight_travlr                       | 
 | [76561199387374466](https://steamcommunity.com/profiles/76561199387374466) | 23                        | [link](https://steamcommunity.com/profiles/76561199387374466/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | 7th, SorusH-Swtick, swtick, swtick., swtiiick, sw†ick.                       | 
 | [76561199475331302](https://steamcommunity.com/profiles/76561199475331302) | 23                        | [link](https://steamcommunity.com/profiles/76561199475331302/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | smelly_cat98                       | 
 | [76561199489920328](https://steamcommunity.com/profiles/76561199489920328) | 23                        | [link](https://steamcommunity.com/profiles/76561199489920328/screenshots/?appid=550&sort=newestfirst&browsefilter=myfiles&view=imagewall) | I hate 158ping, أوزوريس سكاي فيش, 我？SMG内鬼！                       | 
